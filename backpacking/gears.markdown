@@ -11,16 +11,16 @@ title: 백패킹 장비 고르기
 1. [스토브](#스토브)
 1. [배낭](#배낭)
 
-저는 백패킹 장비를 고를 때 [outdoorgearlab.com](http://outdoorgearlab.com)을 가장 많이 봅니다. 장비마다 항목별로 점수를 매겨서 비교하기 쉽고, 성능이 좀 떨어져도 가성비가 뛰어난 제품은 별도로 표시해서 편하죠.
+저는 백패킹 장비를 선택할 때 주로 [outdoorgearlab.com](http://outdoorgearlab.com)을 참고합니다. 이 사이트는 각 장비마다 항목별로 점수를 매겨 비교하기 쉽게 해주며, 성능이 다소 떨어지더라도 가성비가 뛰어난 제품을 별도로 표시해 주기 때문에 매우 유용합니다. 
 
-이 글을 읽으시는 분도 그 사이트에서 장비를 선택하실 수 있도록 안내해 드리겠습니다.
+이 글을 읽는 분들도 그 사이트를 통해 장비를 선택하는 데 도움이 되길 바랍니다.
 
 # 텐트
 [outdoorgearlab.com](http://outdoorgearlab.com)에서는 텐트를 [**Backpacking Tents**](https://www.outdoorgearlab.com/topics/camping-and-hiking/best-backpacking-tent)와 [**Ultralight Tents**](https://www.outdoorgearlab.com/topics/camping-and-hiking/best-ultralight-tent)로 분류합니다. 해당 링크를 클릭하면 그 사이트에서 텐트를 비교하실 수 있습니다.
 
-[**Backpacking Tents**](https://www.outdoorgearlab.com/topics/camping-and-hiking/best-backpacking-tent)는 일반적인 텐트의 1인용 사이즈로, 보통 무게가 3-5 lbs 정도 됩니다.
+[**Backpacking Tents**](https://www.outdoorgearlab.com/topics/camping-and-hiking/best-backpacking-tent)는 일반적인 텐트의 1인용 사이즈로, 보통 무게가 3-5 lbs 정도입니다. 이 페이지에 있는 제품 중에서 무게가 4 lbs를 넘지 않는다면 대부분 좋은 선택이 될 것입니다.
 
-[**Ultralight Tents**](https://www.outdoorgearlab.com/topics/camping-and-hiking/best-ultralight-tent)는 텐트의 폴대를 생략하고, 대신에 트레킹 폴을 사용하여 텐트를 설치합니다. 이렇게 하면 무게와 부피를 줄일 수 있으며, 일반적으로 2 lbs를 넘지 않습니다. 단, 이 텐트를 설치하기 위해서는 최소한 4개의 모서리를 단단히 고정해야 합니다. 따라서, 흙이 없는 바위나 고르지 않은 장소에서는 설치하기 어려운 단점이 있습니다.
+[**Ultralight Tents**](https://www.outdoorgearlab.com/topics/camping-and-hiking/best-ultralight-tent)는 텐트의 폴대를 생략하고, 대신 트레킹 폴을 사용하여 텐트를 설치합니다. 이렇게 하면 무게와 부피를 줄일 수 있으며, 일반적으로 2 lbs를 넘지 않습니다. 그러나 이 텐트를 설치하려면 최소 4개의 모서리를 단단히 고정해야 하므로, 흙이 없는 바위나 고르지 않은 장소에서는 설치하기 어려운 단점이 있습니다.
 
 ![호수가의 텐트](/assets/img/backpacking/tent_big_pines_lake_640.jpg)
 
@@ -136,13 +136,13 @@ Jetboil을 다른 스토브와 비교하려면 함께 사용할 냄비까지 포
 
 ## Torso 사이즈
 
-배낭은 우리 일상에서 익숙한 장비라서, 백패킹용 배낭을 처음 구매하는 분들은 사이즈라고 하면 종종 용량을 떠올리죠. 예를 들면 55L, 60L 처럼 배낭에 들어가는 짐의 부피요. 하지만 배낭의 용량은 모델에 따라 이미 정해져 있고, 같은 모델 안에서 torso 사이즈에 따라 Small, Medium, Large로 구분됩니다.
+백패킹용 배낭을 처음 구매하는 분들은 보통 사이즈를 이야기할 때 용량을 떠올립니다. 예를 들어 55L, 60L처럼 배낭에 들어가는 짐의 부피요. 하지만 배낭의 용량은 모델에 따라 이미 정해져 있으며, 같은 모델 내에서 torso 사이즈에 따라 Small, Medium, Large로 구분됩니다.
 
-백패킹 배낭의 무게는 대부분 허리띠로 지탱하며, 어깨는 균형을 잡는 역할을 합니다. 마치 슬램덩크에서 **왼손은 거들 뿐**이라는 표현처럼 어깨로 배낭을 들어 올리는게 아닙니다. 이 동영상을 보시면 잘 설명해 줍니다.
+백패킹 배낭의 무게는 주로 허리띠로 지탱하고, 어깨는 균형을 맞추는 역할을 합니다. 마치 슬램덩크에서 **왼손은 거들 뿐**이라는 표현처럼, 어깨로 배낭을 들어 올리는 것이 아닙니다. 이 동영상을 보시면 이해하는데 도움이 됩니다.
 
 [![How to Fit a Backpacking Pack](/assets/img/backpacking/backpack.jpg)](https://youtu.be/0SGiGZlppMM)
 
-그 균형을 맞추기 위해서는 배낭의 torso 사이즈를 자신의 체형에 맞추는게 중요하고, 따라서 온라인으로 주문할 경우 직접 측정해야 하고, 처음이라면 매장에서 직원의 도움을 받는 것도 좋습니다. REI에 가면 직원이 허리에 벨트를 착용하고 torso 길이를 측정하는 도구로 도와줄 것입니다.
+그 균형을 맞추기 위해서는 배낭의 torso 사이즈를 자신의 체형에 맞추는게 중요합니다. 따라서 온라인으로 주문할 경우 직접 측정해야 하고, 처음이라면 매장에서 직원의 도움을 받는 것도 좋습니다. REI에 가면 직원이 허리에 벨트를 착용하고 torso 길이를 측정하는 도구로 도와줄 것입니다.
 
 # 나머지 장비는 어떻게 하나요?
 
