@@ -62,7 +62,7 @@ _이런 장소에서는 [Ultralight Tents](https://www.outdoorgearlab.com/topics
 ## Quilt
 저는 자다가 옆으로 눕거나 엎드리기도 하는데, 일반적인 침낭 안에서는 자세를 바꾸기 불편합니다. 하지만 등이 트인 **quilt**는 고무줄로 슬리핑 패드에 고정되어 있어 자다가 돌아눕기 편리합니다. 이 부분은 영상으로 확인해보세요.
 
-[![Quilt 소개 영상](https://i3.ytimg.com/vi/FVWS4gVqqik/maxresdefault.jpg)](https://youtu.be/FVWS4gVqqik)
+[![Quilt 소개 영상](/assets/img/backpacking/quilt_intro.jpg)](https://youtu.be/FVWS4gVqqik)
 
 **Quilt**의 가성비가 뛰어난 이유는 등이 트인 부분만큼 무게가 줄어들기 때문입니다. 그래서 비슷한 가격대의 일반 침낭보다 가볍습니다. 하지만 등이 닿는 슬리핑 패드의 보온력이 중요해져서, 그로 인해 슬리핑 패드의 무게도 늘어날 수 있습니다. 
 
@@ -98,13 +98,17 @@ _이런 장소에서는 [Ultralight Tents](https://www.outdoorgearlab.com/topics
 
 스토브는 작아서 그렇게 중요한가 싶을 수 있지만, 냄비 안에 가스통과 함께 담으려면 고려해야 할 사항이 많습니다. 먼저 영상을 보시죠.
 
-[![스토브 nesting 영상](https://i3.ytimg.com/vi/sDUln6SWgJo/maxresdefault.jpg)](https://youtu.be/sDUln6SWgJo)
+[![스토브 nesting 영상](/assets/img/backpacking/windmaster_nesting.jpg)](https://youtu.be/sDUln6SWgJo)
 
 냄비는 가벼워도 부피를 꽤 차지하기 때문에, 그 안의 공간을 효율적으로 활용하는 것이 중요합니다. 그리고 스토브, 가스통, 냄비는 동시에 꺼내어 사용하기 때문에, 냄비 안에 모두 담는 것이 효율적입니다. 또한, 냄비 제조사들도 가스통의 크기를 고려해 제품을 설계하므로 함께 비교해 보는 것이 좋습니다.
 
 [outdoorgearlab.com](http://outdoorgearlab.com)의 [**Backpacking Stoves**](https://www.outdoorgearlab.com/topics/camping-and-hiking/best-backpacking-stove) 페이지를 보면 눈에 띄게 달라보이는 제품이 있는데, Jetboil의 스토브와 냄비 페키지 제품입니다. 이를 다른 제품과 공평하게 비교하려면 스토브와 함께 사용할 냄비까지 포함해야겠죠? 그래서 제가 사용하는 850mL 냄비와 스토브와 함께 비교해 보았습니다.
 
+![Jetboil 비교](/assets/img/backpacking/jetboil_top.jpg)
+
 무게는 약 160g 차이가 나서 크다고 보기는 어렵지만, GoPro 카메라와 배터리를 합한 무게와 비슷합니다. 나중에 배낭이 무거워서 GoPro를 가져갈지 망설여질 때 이 점이 생각날 것입니다.
+
+![Jetboil 비교](/assets/img/backpacking/jetboil_side.jpg)
 
 하지만 무게보다도 부피에 주목하세요. 다른 장비와 달리 냄비는 단단하기 때문에 곰통(bear canister)과 함께 배낭에 넣으면 실제 부피보다 더 많은 공간을 차지합니다.
 
@@ -124,7 +128,7 @@ _이런 장소에서는 [Ultralight Tents](https://www.outdoorgearlab.com/topics
 
 배낭만큼 개인의 취향에 따라 호불호가 갈리는 장비도 드물기 때문에, 구입하기 전에 직접 사용해 보기를 권장합니다. 환불 및 교환이 용이한 REI에서 구매하는 것도 좋은 방법입니다.
 
-[![How to Fit a Backpacking Pack](https://i3.ytimg.com/vi/0SGiGZlppMM/maxresdefault.jpg)](https://youtu.be/0SGiGZlppMM)
+[![How to Fit a Backpacking Pack](/assets/img/backpacking/backpack.jpg)](https://youtu.be/0SGiGZlppMM)
 
 마지막으로 한 가지 말씀드리자면, 배낭은 우리 일상에서 익숙한 장비라서, 백패킹용 배낭을 처음 구매하는 분들은 종종 용량만 생각하곤 합니다. 하지만 동일 제조사의 같은 용량의 모델에서도 torso 사이즈에 따라 Small, Medium, Large로 구분됩니다. 백패킹 배낭의 무게는 주로 허리띠로 지탱하며, 어깨는 균형을 잡는 역할을 합니다. 마치 슬램덩크에서 *왼손은 거들 뿐*이라는 표현과 비슷합니다. 위에 동영상에서 잘 설명해 줍니다.
 
@@ -141,4 +145,4 @@ _이런 장소에서는 [Ultralight Tents](https://www.outdoorgearlab.com/topics
 
 물론 첫 백패킹 장비 구성에 만족했다면 계속 사용했겠죠? 아쉬운 점이 있다보니 하나씩 바꾸게 된겁니다. 하지만 예전 장비도 공유하는 이유는, 만약 시간을 거꾸로 돌린다 해도 과연 제가 처음부터 지금 사용 중인 장비를 선택할 수 있었을지 잘 모르겠구요, 그래서 두 가지 모두 공유하게 되었습니다.
 
-궁금한 점이 있다면 제 페이스북이나 인스타그램 계정으로 연락해 주세요.
+궁금한 점이 있다면 제 [페이스북](https://www.facebook.com/junho.ryu.9)이나 [인스타그램](https://www.instagram.com/jjjjryu/) 계정으로 연락해 주세요.
