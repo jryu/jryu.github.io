@@ -1,6 +1,7 @@
 ---
 layout: default
 title: 백패킹 장비 고르기
+locale: ko_KR
 ---
 
 백패킹 장비중에 무게가 많이 나가는 5가지를 소개합니다.
