@@ -5,17 +5,17 @@ title: 백패킹 장비 고르기
 
 백패킹 장비중에 무게가 많이 나가는 5가지를 소개합니다.
 
-1. [텐트](#텐트)
-1. [침낭](#침낭)
-1. [슬리핑패드](#슬리핑패드)
-1. [스토브](#스토브)
-1. [배낭](#배낭)
+1. [텐트](#1-텐트)
+1. [침낭](#2-침낭)
+1. [슬리핑패드](#3-슬리핑패드)
+1. [스토브](#4-스토브)
+1. [배낭](#5-배낭)
 
 저는 백패킹 장비를 선택할 때 주로 [outdoorgearlab.com](http://outdoorgearlab.com)을 참고합니다. 이 사이트는 각 장비마다 항목별로 점수를 매겨 비교하기 쉽게 해주며, 성능이 다소 떨어지더라도 가성비가 뛰어난 제품을 별도로 표시해 주기 때문에 매우 유용합니다. 
 
 이 글을 읽는 분들도 그 사이트를 통해 장비를 선택하는 데 도움이 되길 바랍니다.
 
-# 텐트
+# 1. 텐트
 [outdoorgearlab.com](http://outdoorgearlab.com)에서는 텐트를 [**Backpacking Tents**](https://www.outdoorgearlab.com/topics/camping-and-hiking/best-backpacking-tent)와 [**Ultralight Tents**](https://www.outdoorgearlab.com/topics/camping-and-hiking/best-ultralight-tent)로 분류합니다. 해당 링크를 클릭하면 그 사이트에서 텐트를 비교하실 수 있습니다.
 
 [**Backpacking Tents**](https://www.outdoorgearlab.com/topics/camping-and-hiking/best-backpacking-tent)는 일반적인 텐트의 1인용 사이즈로, 보통 무게가 3-5 lbs 정도입니다. 이 페이지에 있는 제품 중에서 무게가 4 lbs를 넘지 않는다면 대부분 좋은 선택이 될 것입니다.
@@ -28,7 +28,7 @@ _이런 장소에서는 [Ultralight Tents](https://www.outdoorgearlab.com/topics
 
 제품을 비교해 봤지만 결정을 내리기 어렵다면 [**Backpacking Tents**](https://www.outdoorgearlab.com/topics/camping-and-hiking/best-backpacking-tent) 중에서 하나 찜해두고 다음 장비로 넘어갑시다.
 
-# 침낭
+# 2. 침낭
 텐트와 마찬가지로 [outdoorgearlab.com](http://outdoorgearlab.com)에서는 침낭을 두 가지로 분류합니다.
 
 [**Backpacking Sleeping Bags**](https://www.outdoorgearlab.com/topics/camping-and-hiking/best-backpacking-sleeping-bag)은 익숙한 형태의 침낭으로, 대부분 비슷하게 생겼고, 이 숫자들을 참고하여 선택하면 됩니다:
@@ -60,7 +60,7 @@ _이런 장소에서는 [Ultralight Tents](https://www.outdoorgearlab.com/topics
 1. 첫째는, 일반적인 형태의 침낭에서 **Fill Power**를 높여 무게와 부피를 더욱 줄인 제품입니다.
   * 그러나 이 가격대에서는 $100을 더 투자한다고 해서 큰 효과를 보지 못하므로 **넘어가겠습니다**. 
 1. 둘째는, 등이 트여 있는 **quilt** 형태입니다.
-  * **똑바로 누워서 자는 분들은** 위에서 설명한 일반적인 침낭 중에서 선택하고 [슬리핑패드](#슬리핑패드)로 **넘어가세요**.
+  * **똑바로 누워서 자는 분들은** 위에서 설명한 일반적인 침낭 중에서 선택하고 **[3. 슬리핑패드](#3-슬리핑패드)**로 **넘어가세요**.
   * 옆으로 눕거나 엎드려 자는 분은 마저 읽어보시고요:
 
 ## Quilt
@@ -72,7 +72,7 @@ _이런 장소에서는 [Ultralight Tents](https://www.outdoorgearlab.com/topics
 
 참고로 저는 Enlightened Equipment의 Revelation을 사용하는데, 다시 산다면 같은 브렌드의 Enigma를 선택할겁니다.
 
-# 슬리핑패드
+# 3. 슬리핑패드
 
 [outdoorgearlab.com](http://outdoorgearlab.com)에서 [**Backpacking Sleeping Pads**](https://www.outdoorgearlab.com/topics/camping-and-hiking/best-sleeping-pad)는 Ultralight Backpacking을 위한 제품을 따로 분류하지 않아 한 페이지에서 쉽게 선택할 수 있습니다.
 
@@ -93,7 +93,7 @@ _이런 장소에서는 [Ultralight Tents](https://www.outdoorgearlab.com/topics
 
 가장 확실한 방법은 직접 사용해 보는 거죠. 살고 계신 지역의 최저기온이 50°F 아래로 떨어질 때, 환불이 잘 되는 REI 같은 곳에서 구매해 하루 밤 자보시면 좋습니다.
 
-# 스토브
+# 4. 스토브
 
 스토브는 작아서 대수롭지 않아보여도, 냄비 안에 가스통과 함께 담으려면 고려해야 할 사항이 있습니다.
 
@@ -124,7 +124,7 @@ Jetboil을 다른 스토브와 비교하려면 함께 사용할 냄비까지 포
 
 이런 상황이 문제가 되지 않는다면 Jetboil은 스킵하고 [**Backpacking Stoves**](https://www.outdoorgearlab.com/topics/camping-and-hiking/best-backpacking-stove) 페이지에서 일반적인 스토브를 선택하세요. 단, 어떤 냄비와 함께 사용할지 미리 알아보고 맞춰서 고르시길 추천합니다.
 
-# 배낭
+# 5. 배낭
 
 배낭은 가장 무거운 장비이기 때문에 무게 순으로 소개한다면 가장 먼저 다루어야 했지만, 지금까지 기다린 이유는 지금까지 선택한 장비에 따라 배낭 선택이 달라질 수 있기 때문입니다.
 
@@ -153,4 +153,8 @@ Jetboil을 다른 스토브와 비교하려면 함께 사용할 냄비까지 포
 
 물론 첫 백패킹 장비 구성에 만족했다면 계속 사용했겠죠? 아쉬운 점이 있다보니 하나씩 바꾸게 된겁니다. 하지만 예전 장비도 공유하는 이유는, 만약 시간을 거꾸로 돌린다 해도 과연 제가 처음부터 지금 사용 중인 장비를 선택할 수 있었을지 잘 모르겠구요, 그래서 두 가지 모두 공유하게 되었습니다.
 
-궁금한 점이 있다면 제 [페이스북](https://www.facebook.com/junho.ryu.9)이나 [인스타그램](https://www.instagram.com/jjjjryu/) 계정으로 연락해 주세요.
+---
+
+궁금한 점이 있다면 댓글을 남겨주세요. 댓글을 남기려면 [GitHub](http://github.com) 계정을 만들어야 해서 좀 번거로울 수 있습니다. 광고 없이 무료로 사이트를 운영하려다 보니 약간 불편할 수 있지만, 이해해 주셔서 감사드립니다. 🙂
+
+*GitHub는 세계적으로 많은 개발자와 기업들이 신뢰하는 플랫폼으로, 코드 관리와 협업에 매우 안전합니다.*
