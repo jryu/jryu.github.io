@@ -14,6 +14,8 @@ locale: ko_KR
 # 1. 시에라네바다
 시에라네바다는 자그마치 3개의 국립공원을 품고 있는 산맥으로, 세계 3대 트레일 중 하나인 존 뮤어 트레일(JMT)을 품고 있습니다.
 
+![Thousand Isaldns Lake](/assets/img/backpacking/thousand_islands_lake.jpg)
+
 ## 어디서 예약하나요?
 
 예약은 정부 운영 사이트인 [recreation.gov](http://recreation.gov)에서 진행합니다. 사이트 내에서도 지역에 따라 예약 페이지가 나누어지므로, **출발점**이 속한 공원의 예약 페이지에서 예약을 진행합니다. 걷다가 공원의 경계를 넘어가더라도 **출발점** 기준으로 예약해야 합니다.
@@ -72,6 +74,8 @@ locale: ko_KR
 
 하바수파이는 많은 이들의 버킷 리스트에 오르는 여행지입니다. 이곳을 가보고 싶어서 백패킹에 입문하는 사람들도 많죠. 푸른 폭포와 붉은 암석의 조화는 독특한 경관으로 유명하며, 그랜드 캐년 경계선과 맞닿아 있습니다. ~~그랜드 캐년의 한 구석에 원주민 보호구역이 알박기 하고 있다고 할 수 있죠.~~
 
+![Havasupai](/assets/img/backpacking/havasupai.jpg)
+
 여름철에는 걸어들어가기 너무 덥고, 겨울엔 물에 들어가기 추워서 적절한 날씨의 성수기에 퍼밋 받기가 정말 힘듭니다.
 
 ## 어디서 예약하나요?
@@ -86,18 +90,29 @@ locale: ko_KR
 
 "내년까지 못 기다리겠다, 남는 퍼밋이 있으면 내 일정을 조절해서라도 가겠다!"면 다른 사람이 취소하려고 하는 퍼밋을 살 수 있습니다. 아래 화면의 빨간색으로 표시한 **Cancellations / Transfers List** 버튼을 누르면 매일 아침 아리조나 현지 시간으로 오전 8시에 새로운 매물이 업데이트됩니다.
 
+![Havasupai Permit Transfer](/assets/img/backpacking/havasupai_transfer.jpg)
+
 저는 가고 싶은 날을 2달 앞두고 2주 동안 매일 알람 맞춰놓고 확인했더니 결국 퍼밋을 구해서 다녀왔습니다.
 
 ## 어떻게 예약하나요?
 
 이게 예약 버튼입니다.
 
+![Havasupai Permit Reservation Button](/assets/img/backpacking/havasupai_reservation.jpg)
+
 예약 버튼을 누르하면 먼저 몇 명이 예약할 것인지 물어봅니다. 인원수를 입력하면 예약 가능한 날짜가 표시된 달력이 나오지요.
+
+![Havasupai Permit Reservation Button](/assets/img/backpacking/havasupai_calendar.jpg)
 
 숫자가 보이는 날짜만 예약가능합니다. ~~예약 불가능한 날짜는 아예 표시를 안해요. 흐리게 숫자라도 보여줄법 한데 말이죠~~
 
 고약한건, 퍼밋의 기간이 무조건 3박 4일로 고정되어 있다는겁니다. 4일이 연달아 비어있지 않는 날은 선택이 불가능해요. 예를 들어 이렇게 띄엄띄엄 비어있는 날을 선택하면, 중간에 비어 있는 날 때문에 예약이 불가합니다.
 
+![Havasupai Permit Reservation Button](/assets/img/backpacking/havasupai_not_available.jpg)
+
+4일이 연달아 비어있는 날을 선택하고 나면 페이지 하단에 **Continue** 버튼이 생기고요, 그걸 누르고 나서 예약을 마무리 할 수 있습니다.
+
+![Havasupai Permit Reservation Button](/assets/img/backpacking/havasupai_available.jpg)
 
 ## 주의사항
 
