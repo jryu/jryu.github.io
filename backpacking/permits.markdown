@@ -14,7 +14,7 @@ locale: ko_KR
 # 1. 시에라네바다
 시에라네바다는 자그마치 3개의 국립공원을 품고 있는 산맥으로, 세계 3대 트레일 중 하나인 존 뮤어 트레일(JMT)을 품고 있습니다.
 
-![Thousand Isaldns Lake](/assets/img/backpacking/thousand_islands_lake.jpg)
+![Rae Lake](/assets/img/backpacking/rae_lake.jpg)
 
 ## 어디서 예약하나요?
 
