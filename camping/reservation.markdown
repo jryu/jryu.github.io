@@ -21,7 +21,15 @@ locale: ko_KR
 
 # 1. 국립공원
 
-국립공원 캠핑장은 [recreation.gov](http://recreation.gov)에서 예약합니다.
+국립공원 캠핑장은 [recreation.gov](http://recreation.gov)에서 예약합니다. 여기서 중요한건, 여러 국립공원이 한 사이트를 공유하지만, 각 공원마다 운영 방침이 달라서 예약이 풀리는 시점을 알려면 개별 캠핑장 페이지를 들여다 봐야 합니다. 다행인건, 이 정보를 찾는 방법이 동일하기 때문에 한번 익히면, 다른 캠핑장에서도 쉽게 정보를 찾아낼 수 있습니다.
+
+Seasons & Fees 탭을 선택하고나면 가장 먼저 Booking Windows 정보가 나오는데, 그게 예약 일정입니다.
+
+조슈아트리의 [Jumbo Rocks Campground](https://www.recreation.gov/camping/campgrounds/272300)는 6개월 전에 하루씩 풀립니다.
+
+세콰이어의 [Lodgepole Campground](https://www.recreation.gov/camping/campgrounds/232461)는 독특하게 4개월 전에 풀립니다.
+
+요세미티의 [Upper Pines Campground](https://www.recreation.gov/camping/campgrounds/232447)는 매달 15일에 한달치가 풀리고요.
 
 ---
 
