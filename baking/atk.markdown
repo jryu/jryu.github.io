@@ -10,7 +10,7 @@ ATK 레시피로 베이킹을 배우기 시작한 것은 제 인생에서 가장
 
 **“우리가 부엌에서 실수하니, 당신은 할 필요가 없습니다.”** 이 모토는 ATK의 접근 방식을 잘 설명합니다. 잡지를 발행할 때 그 중에서 가장 대표적인 레시피의 개발 과정을 소개하기도 하는데, 그 과정을 보면, 신뢰할만한 레시피를 선정하고, 그 차이점을 비교하며, 일반 가정에서도 흔히 발생할 수 있는 실수를 피할 수 있도록 수십 가지의 실험을 통해 레시피를 다듬습니다.
 
-https://platform.vox.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/15759081/ATK_TestKitchen_FoodShot.0.0.1510008420.jpg?quality=90&strip=all&crop=7.8238001314924%2C0%2C84.352399737015%2C100&w=750
+![ATK](/assets/img/baking/atk.jpg)
 
 이런 과정을 통하다 보니 레시피 하나를 개발하는데 평균 $11,000가 든다고 합니다. 인터넷이나 유튜브에 누가 한번 성공했다고 찍 올린 것과는 비교가 안되죠.
 
@@ -18,13 +18,19 @@ https://platform.vox.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/
 
 # Why this recipe works
 
-무턱대고 믿고 따르기만 하는게 아니라 그렇게 만들어야 하는 이유를 조금씩 알려주기도 하는데, 각 ATK 레시피에는 **“Why this recipe works (왜 이 레시피가 효과적인가)”**라는 섹션이 포함되어 있습니다. 이 정보성 섹션에서는 그 레시피에서 가장 중요한 베이킹 및 요리 팁을 제공하여, 여러분이 실질적인 경험과 요리 지식을 동시에 쌓을 수 있도록 도와줍니다.
+무턱대고 믿고 따르기만 하는게 아니라 그렇게 만들어야 하는 이유를 조금씩 알려주기도 하는데, 각 ATK 레시피에는 **“Why this recipe works (왜 이 레시피가 효과적인가)”**라는 섹션으로 시작합니다. 이 정보성 섹션에서는 그 레시피에서 가장 중요한 베이킹 및 요리 팁을 제공하여, 여러분이 실질적인 경험과 요리 지식을 동시에 쌓을 수 있도록 도와줍니다.
 
-더 깊이 있는 학습을 원하신다면 Cook’s Science라는 책을 추천합니다. 이 책은 베이킹과 요리에 중요한 50가지 원리를 다루며, 각 주제별로 관련 레시피를 묶어놓고 설명하다보니 보다 풍부한 지식을 제공하며 깊이 있는 학습을 가능하게 합니다.
+![Why this recipe works](/assets/img/baking/why_works.jpg)
+
+더 깊이 있는 학습을 원하신다면 The Science of Good Cooking 책을 추천합니다. 이 책은 베이킹과 요리에 중요한 50가지 원리를 다루며, 각 주제별로 관련 레시피를 묶어놓고 설명하다보니 보다 풍부한 지식을 제공하며 깊이 있는 학습을 가능하게 합니다.
+
+![The Science of Good Cooking](/assets/img/baking/science_cooking.jpg)
 
 # Taste Tests
 
 베이킹 재료를 사러 가면 수많은 브랜드 중에서 선택하는 것이 막막할 수 있습니다. 예를 들어, All Purpose Flour만 해도 브렌드가 여러개 있으며 같은 브렌드 안에서도 Unbleached, Whole Wheat 등으로 나눠져 있죠. ATK는 중요한 재료들에 대해 taste test를 실시하고, 순위를 매겨 여러분의 선택을 도와줍니다. [Which All-Purpose Flour Is Best?](https://www.americastestkitchen.com/taste_tests/2250-all-purpose-flour) 라는 페이지를 통해 추천 제품을 확인할 수 있습니다.
+
+![Taste Tests](/assets/img/baking/taste_tests.jpg)
 
 이러한 테스트는 여러분이 정보에 기반한 결정을 내리도록 도와줄 뿐만 아니라, ATK가 레시피를 개발할 때 자신들이 추천하는 제품을 사용하기 때문에, 그 제품을 선택하면 레시피 개발자가 의도한 맛을 더 잘 재현할 수 있는 가능성이 높아집니다.
 
