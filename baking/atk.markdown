@@ -76,7 +76,12 @@ ATK의 TV Show는 레시피를 따라 하는 과정을 생생하게 보여줍니
 * America’s Test Kitchen TV Show: 20년이 넘도록 방송된 영상
 * Cook’s Country: 15년이 넘도록 잡지로 출판되고 TV로 방송된 영상
 
-검색 결과의 필터 중에 Category를 활용하는 법을 소개합니다:
+검색 결과의 필터 중에 Category를 활용하는 법을 소개합니다.
+
+![ATK search filter](/assets/img/baking/filter.jpg)
+
+![ATK search filter](/assets/img/baking/filter_category.jpg)
+
 * Ingredients를 선택하면 [2. Taste Tests](#2-taste-tests) 결과를 찾을 수 있고요,
 * Equipment를 선택하면 [3. Equipment Review](#3-equipment-review) 결과를 보여 줍니다.
 * Shows를 선택하면 [4. TV Show](#4-tv-show)로 방송된 레시피만 보여줍니다. 글로 읽는 레시피보다 따라하기 훨씬 쉽고 배울게 많죠.
