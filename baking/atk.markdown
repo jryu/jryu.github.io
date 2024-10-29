@@ -4,15 +4,15 @@ title: America's Test Kitchen (ATK)
 locale: ko_KR
 ---
 
-ATK 레시피로 베이킹을 배우기 시작한 것은 제 인생에서 가장 좋은 경험 중 하나였습니다. ATK는 미국에서 유명한 요리 잡지인 Cook’s Illustrated를 출판하고 있으며, 서점이나 도서관의 요리 잡지 코너에서 쉽게 찾아볼 수 있습니다.
+ATK 레시피로 베이킹을 배우기 시작한 것은 제 인생에서 가장 좋은 경험 중 하나였습니다. ATK는 미국에서 유명한 요리 잡지인 [Cook’s Illustrated](https://www.americastestkitchen.com/cooksillustrated)를 출판하고 있으며, 서점이나 도서관의 요리 잡지 코너에서 쉽게 찾아볼 수 있습니다.
 
-# We make the mistakes in the kitchen so you don't have to
+# *We make the mistakes in the kitchen so you don't have to*
 
 **“우리가 부엌에서 실수하니, 당신은 할 필요가 없습니다.”** 라는 ATK의 모토는 레시피 개발 과정에 잘 반영되어 있습니다. 이미 알려진 레시피 중에 신뢰할 수 있는 레시피를 선정하고, 그 차이점을 비교하며, 수십 명의 직원이 많게는 100번의 실험을 통해 일반 가정에서도 쉽게 따라 할 수 있는 레시피를 완성합니다.
 
 ![ATK](/assets/img/baking/atk.jpg)
 
-이런 과정을 통하다 보니 레시피 하나를 개발하는데 평균 $11,000가 든다고 합니다. 블로그나 유튜브에 누가 한번 성공했다고 짠! 하고 올린 것과는 비교가 안되죠.
+이런 과정을 거치면서 레시피 하나를 개발하는데 평균 $11,000가 든다고 합니다. 블로그나 유튜브에 누가 한 번 성공했다고 짠! 하고 올린 것과는 비교할 수 없습니다.
 
 ## 명확하고 상세한 레시피
 
@@ -32,13 +32,13 @@ ATK 레시피를 따라하는데 도움이 되는 포인트를 몇 가지 소개
 
 ![Why this recipe works](/assets/img/baking/why_works.jpg)
 
-더 깊이 있는 학습을 원한다면, The Science of Good Cooking 책을 통해 베이킹과 요리에 중요한 50가지 원리를 배울 수 있습니다. 각 주제별로 관련 레시피를 묶어놓고 설명하다보니 보다 풍부한 지식을 제공합니다.
+더 깊이 있는 학습을 원한다면, [The Science of Good Cooking 책](https://www.amazon.com/Science-Good-Cooking-Illustrated-Cookbooks/dp/1933615982)을 통해 베이킹과 요리에 중요한 50가지 원리를 배울 수 있습니다. 각 주제별로 관련 레시피를 묶어놓고 설명하다보니 보다 풍부한 지식을 제공합니다.
 
-![The Science of Good Cooking](/assets/img/baking/science_cooking.jpg)
+[![The Science of Good Cooking](/assets/img/baking/science_cooking.jpg)](https://www.amazon.com/Science-Good-Cooking-Illustrated-Cookbooks/dp/1933615982)
 
 # 2. Taste Tests
 
-베이킹 재료를 선택할 때, 수많은 브랜드와 종류에 혼란스럽죠. ATK는 다양한 재료를 비교 분석하고, 그 결과를 Taste Tests를 통해 공개합니다. 예를 들어, [Which All-Purpose Flour Is Best?](https://www.americastestkitchen.com/taste_tests/2250-all-purpose-flour) 페이지를 통해 최고의 밀가루를 선택할 수 있습니다.
+베이킹 재료를 선택할 때, 다양한 브랜드와 종류에 혼란스러울 수 있습니다. ATK는 다양한 재료를 비교 분석하고, 그 결과를 Taste Tests를 통해 공개합니다. 예를 들어, [Which All-Purpose Flour Is Best?](https://www.americastestkitchen.com/taste_tests/2250-all-purpose-flour) 페이지를 통해 최고의 밀가루를 선택할 수 있습니다.
 
 ![Taste Tests](/assets/img/baking/taste_tests.jpg)
 
@@ -52,11 +52,11 @@ ATK 레시피를 따라하는데 도움이 되는 포인트를 몇 가지 소개
 
 ATK는 요리 도구와 기구에 대한 제품 리뷰도 제공합니다. 각 제품의 장단점을 비교 분석하여, 소비자들이 예산에 맞는 최적의 제품을 선택할 수 있도록 돕습니다.
 
-비록 최고의 평가를 받은 제품이 아니라도 아쉬운점이 무엇인지 설명해주기 때문에 후회 없는 선택을 할 수 있습니다. 예를 들면 저는 여기서 Best Mid-Priced Mixer로 추천하는 제품을 10년 동안 사용중인데, 큰 불편함 없이 잘 사용하고 있습니다.
+비록 최고의 평가를 받은 제품이 아니라도 어떤 점이 아쉬운지 설명해주기 때문에 후회 없는 선택을 할 수 있습니다. 예를 들면 저는 여기서 **Best Mid-Priced Mixer**로 추천하는 제품을 10년 동안 사용중인데, 큰 불편함 없이 잘 사용하고 있습니다.
 
 ![Taste Tests](/assets/img/baking/equipment_review.jpg)
 
-요리에 사용하는 재료와 마찬가지로 도구도 여기서 추천하는 제품을 사용하면 레시피를 따라하기 편리합니다. 예를 들면 Food Processor로 밀가루와 버터를 섞을 때, 10번 정도 Pulse 하라고 할 때, 아무래도 제품마다 효율이 다르겠죠. 어떤 차이가 있는지 유튜브에 있는 Food Processor 리뷰를 한번 보세요.
+요리에 사용하는 재료와 마찬가지로 도구도 여기서 추천하는 제품을 사용하면 레시피를 따라하기 편리합니다. 예를 들어 **Food Processor로 밀가루와 버터를 섞을 때, 10번 정도 Pulse 하라**고 할 때, 아무래도 제품마다 효율이 다르겠죠. 어떤 차이가 있는지 유튜브에 있는 Food Processor 리뷰를 한번 보세요.
 
 [![Equipment Review YouTube](/assets/img/baking/equipment_review_youtube.jpg)](https://youtu.be/QZokEtjvDao)
 
@@ -65,7 +65,7 @@ ATK는 요리 도구와 기구에 대한 제품 리뷰도 제공합니다. 각 �
 
 ATK의 TV Show는 레시피를 따라 하는 과정을 생생하게 보여줍니다. 글로 설명하기 어려운 부분을 시각적으로 보여주어, 초보 베이커도 쉽게 따라 할 수 있도록 돕습니다.
 
-예를 들어, 노른자 색이 옅어지고 부피가 3배로 늘 때까지 거품기를 돌리라고 하는데, 백번 듣는 것 보다 한 번 보는게 낫죠 (百聞不如一見), 또는 양파를 효율적으로 써는 손기술 처럼 레시피에 적기엔 너무 기본적인 기술도 보고 배울 수 있습니다.
+예를 들어, **노른자 색이 옅어지고 부피가 3배로 늘 때까지 거품기를 돌리라**고 하는데, 백번 듣는 것 보다 한 번 보는게 낫죠 (百聞不如一見), 또는 양파를 효율적으로 써는 손기술 처럼 레시피에 적기엔 너무 기본적인 기술도 보고 배울 수 있습니다.
 
 마찬가지로 유료 회원이 되어야 볼 수 있는데, 일부 컨텐츠는 YouTube에 무료로 공개되어 있습니다. 이 영상은 베이킹 처음 시작하시는 분께 제가 추천하는 레시피중 하나입니다.
 
@@ -76,11 +76,11 @@ ATK의 TV Show는 레시피를 따라 하는 과정을 생생하게 보여줍니
 
 지금까지 보여드린 동영상은 무료 샘플이며, 나머지는 유료 회원 가입 후 이용 가능합니다. 30년 넘게 잡지와 책으로 출판되고 TV로 방송된 2,000개 이상의 레시피가 축적되어 있어, 제가 지난 10년간 만들고 싶었던 레시피 중 검색되지 않은 것이 거의 없습니다.
 
-위에서 소개했던 세 가지 컨텐츠를 검색하는 방법을 소개해 드리겠습니다. 우선 검색 필터 옵션을 선택하시고요:
+위에서 소개했던 세 가지 컨텐츠를 검색하는 방법을 소개해 드리겠습니다. 우선 **검색 필터 옵션을 선택**하시고요:
 
 ![ATK search filter](/assets/img/baking/filter.jpg)
 
-펼쳐진 옵션 중에 원하는 Category를 선택하면 됩니다.
+펼쳐진 옵션 중에 원하는 **Category**를 선택하면 됩니다.
 
 ![ATK search filter](/assets/img/baking/filter_category.jpg)
 
@@ -100,7 +100,7 @@ ATK의 TV Show는 레시피를 따라 하는 과정을 생생하게 보여줍니
 
 ## 책을 구매
 
-ATK에서는 20년 넘게 출판된 레시피를 한 권의 책으로 모아 출판합니다. 홈페이지에서 검색되는 대부분의 레시피를 책에서 찾을 수 있습니다. 이미 만들어본 메뉴와 비슷한 레시피는 책으로 봐도 충분하죠.
+ATK은 매년 20년 넘게 출판된 레시피를 한 권의 책으로 모아 출판합니다. 홈페이지에서 검색되는 대부분의 레시피를 책에서 찾을 수 있습니다. 이미 만들어본 메뉴와 비슷한 레시피는 책으로 봐도 충분하죠.
 
 ![ATK booko](/assets/img/baking/book.jpg)
 
