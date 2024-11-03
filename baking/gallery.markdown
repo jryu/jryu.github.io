@@ -4,17 +4,46 @@ title: 홈 베이킹 갤러리
 locale: ko_KR
 ---
 
-제가 그동안 만들었던 레시피 중에서 마음에 들어서 반복해서 만든 메뉴들의 사진을 모아봤습니다. Flickr 페이지에서 보시면 됩니다.
+제가 그동안 만든 레시피 중에서 마음에 들어 반복해서 만든 메뉴들의 사진을 모아봤습니다. [Flickr 페이지](https://flickr.com/photos/95940733@N07/albums/)에서 확인하실 수 있습니다.
 
 [![Gallery](/assets/img/baking/gallery.jpg)](https://flickr.com/photos/95940733@N07/albums/)
 
-이름이 영어로 된 것들은 America's Test Kitchen 레시피를 따라한 것이고, 한글로 된 것은 ATK의 레시피가 아닙니다.
+이름이 영어로 된 사진은 America’s Test Kitchen의 레시피 그대로 만든 메뉴고, 한글 이름의 사진은 ATK의 레시피가 아니거나 약간 변화를 준 메뉴입니다. America’s Test Kitchen 레시피를 검색하는 방법은 [이 페이지](/baking/atk)에 자세히 설명해 두었으니 참고하시기 바랍니다.
 
-🏠
-❄
-🚗
+레시피 이름 앞에는 다음과 같은 기호를 표시했습니다:
+* 🏠 - 집에 손님을 초대했을 때 만들 수 있는 레시피입니다.
+* 🚗 - 팟럭으로 가져갈 수 있는 메뉴입니다.
+* ❄ - 냉장고를 사용할 수 있다면 팟럭으로 가져갈 수 있고, 그렇지 않다면 집에 손님을 초대했을 때 가능합니다.
 
-America's Test Kitchen레시피를 검색하는 방법은 이 페이지에 자세히 설명 드렸고요, ATK레시피가 아닌것들을 소개해 드리겠습니다.
+ATK 레시피가 아닌 것이거나, ATK 레시피에 약간의 변화를 준 레시피는 별도로 소개합니다.
+
+* 호두 타르트
+
+![](https://live.staticflickr.com/65535/52685126083_65eceb22c7_m.jpg)
+
+* 식빵
+
+![](https://live.staticflickr.com/65535/50056927126_d44bd0f800_w.jpg)
+
+* 아몬드 튀일
+
+![](https://live.staticflickr.com/65535/47997548218_f322589f40_n.jpg)
+
+* 프랑스 사과 케이크
+
+![](https://live.staticflickr.com/65535/49590944421_54fb9e036f_m.jpg)
+
+* 저온 발효 와플
+
+![](https://live.staticflickr.com/65535/49803563193_dfd2fa87fb_w.jpg)
+
+* 크레이프 케이크
+
+![](https://live.staticflickr.com/65535/54073972367_21dd8bb5b8_m.jpg)
+
+* 크랜베리 타르트
+
+![](https://live.staticflickr.com/65535/51333253011_45c27f9a52_w.jpg)
 
 ---
 
