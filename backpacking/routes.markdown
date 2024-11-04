@@ -5,16 +5,16 @@ locale: ko_KR
 ---
 
 캘리포니아
-* [Rae Lakes Loop](/backpacking/rae-lakes-loop) (39.1 mi)
-* Half Dome & Clouds Rest 
-* Big Pine Lakes (14.7mi)
-* Duck Pass and Pika Lake (10.1 mi)
+* [Rae Lakes Loop](/backpacking/rae-lakes-loop) (39.1 mi, 📈7,670 ft 🔼11,926 ft)
+* Half Dome & Clouds Rest (20.09 mi 📈4,508 ft 🔼9,935 ft)
+* Big Pine Lakes (14.7mi 📈3,841 ft 🔼11,267 ft)
+* Duck Pass and Pika Lake (10.1 mi 📈2,148 ft 🔼10,814 ft)
 
 유타
 * Zion Traverse
 
 콜로라도
-* Four Pass Loop (25.7 mi)
+* Four Pass Loop (25.7 mi 📈7,752 ft 🔼12,500 ft)
 
 ---
 
