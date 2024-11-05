@@ -9,7 +9,7 @@ locale: ko_KR
   * 39.1 mi
   * 📈7,670 ft
   * 🔼11,926 ft
-* Half Dome & Clouds Rest
+* [Half Dome & Clouds Rest](/backpacking/half-dome-clouds-rest)
   * 20.09 mi
   * 📈4,508 ft
   * 🔼9,935 ft
