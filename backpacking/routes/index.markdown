@@ -5,11 +5,11 @@ locale: ko_KR
 ---
 
 캘리포니아
-* [Rae Lakes Loop](/backpacking/rae-lakes-loop)
+* [Rae Lakes Loop](/backpacking/routes/rae-lakes-loop)
   * 39.1 mi
   * 📈7,670 ft
   * 🔼11,926 ft
-* [Half Dome & Clouds Rest](/backpacking/half-dome-clouds-rest)
+* [Half Dome & Clouds Rest](/backpacking/routes/half-dome-clouds-rest)
   * 20.09 mi
   * 📈4,508 ft
   * 🔼9,935 ft

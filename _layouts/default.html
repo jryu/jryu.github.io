@@ -13,7 +13,11 @@
   </script>
   <meta charset="UTF-8">
 
-  <title>{{ page.title }} - {{ site.title }}</title>
+  {% if page.title == %}
+    <title>{{ site.title }}</title>
+  {% else %}
+    <title>{{ page.title }} - {{ site.title }}</title>
+  {% endif %}
   {% seo title=false %}
   <link rel="preconnect" href="https://fonts.gstatic.com">
   <link rel="preload" href="https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap" as="style"
