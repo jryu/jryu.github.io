@@ -27,7 +27,10 @@ locale: ko_KR
   * 🔼11,503 ft
 
 유타
-* Zion Traverse
+* [Zion Traverse](https://www.alltrails.com/explore/map/zion-traverse-lee-pass-to-east-rim-trailhead-2b515e2)
+  * 35.81 mi
+  * 📈4,721 ft
+  * 🔼7,500 ft
 
 콜로라도
 * Four Pass Loop
