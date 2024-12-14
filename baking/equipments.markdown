@@ -7,12 +7,16 @@ locale: ko_KR
 제가 [홈 베이킹 갤러리](/baking/gallery)에서 소개한 레시피 중에서 간단한 도구로 만들 수 있는 메뉴 순서로 소개합니다.
 
 * **필수 도구** 만으로 만들 수 있는 레시피
-  * [코코넛 마카룬](#코코넛-마카룬)
-  * [버터밀크 팬케이크](#버터밀크-팬케이크)
+  * [Triple Coconut Macaroons](#Triple-Coconut-Macaroons)
+  * [Best Buttermilk Pancakes](#Best-Buttermilk-Pancakes)
 
 # 필수 도구
 
 레시피를 소개하기 앞서, 필수 도구를 먼저 소개합니다. 이 도구들은 베이킹 초보자부터 전문가까지 모두에게 없어서는 안 될 필수품입니다. 두고두고 쓰게 되죠. 다행히도 가격 부담이 적고, 베이킹 외에도 다양하게 활용할 수 있어 아깝지 않습니다.
+
+## 계량스푼
+
+## 저울
 
 ## 거품기 (Whisk)
 
@@ -40,9 +44,16 @@ locale: ko_KR
 
 위 도구를 준비하셨다면 더 이상 다른 도구를 장만하지 않아도 만들 수 있는 레시피를 소개합니다.
 
-## 코코넛 마카룬
+## Triple Coconut Macaroons
 
-## 버터밀크 팬케이크
+![](/assets/img/baking/gallery/Triple Coconut Macaroons.jpg)
+
+모든 재료를 한 그릇에 섞은 다음에 베이킹 트레이에 일정량씩 담아서 굽습니다.
+* [ATK 레시피](https://www.americastestkitchen.com/recipes/495-the-best-chocolate-dipped-triple-coconut-macaroons)는 초콜렛까지 바르는데, 저는 너무 달아서 생략했습니다.
+
+## Best Buttermilk Pancakes
+
+![](/assets/img/baking/gallery/Best Buttermilk Pancakes.jpg)
 
 ---
 
