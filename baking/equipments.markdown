@@ -69,10 +69,14 @@ locale: ko_KR
 
 ## Ultranutty Pecan Bars
 
+![](/assets/img/baking/gallery/Ultranutty Pecan Bars.jpg)
+
 피칸파이는 너무 달지만 이건 적당합니다. 피칸 사이를 필링으로 꽉 채우는게 아니라 피칸을 코팅하는 느낌이라서 칼로 썰 때 피칸이 다 떨어져 나가면 어쩌나 싶은데 신기하게 붙어 있습니다.
 * [ATK 레시피](https://www.americastestkitchen.com/recipes/8571-ultranutty-pecan-bars)는 유료회원만 볼 수 있는데, [이 레시피의 TV쇼](https://youtu.be/mHxbcyKfgJE?si=HimmN3RAaTICdFj1)가 유튜브에 공개되어 있어서 특별히 무료로 볼 수 있습니다.
 
 ## Chewy Brownies
+
+![](/assets/img/baking/gallery/Chewy Brownies.jpg)
 
 ATK에 브라우니 레시피가 몇 가지 있는데, 클래식한 브라우니는 리뷰 좋은 브라우니 믹스를 사서 만든 것과 비슷한 맛이 납니다. 하지만 Chewy Brownies는 식감이 쫀득해서 밀가루부터 직접 만드는 보람이 있습니다.
 * [ATK 레시피](https://www.americastestkitchen.com/recipes/5873-chewy-brownies)
