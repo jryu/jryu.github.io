@@ -7,8 +7,8 @@ locale: ko_KR
 제가 [홈 베이킹 갤러리](/baking/gallery)에서 소개한 레시피 중에서 간단한 도구로 만들 수 있는 메뉴 순서로 소개합니다.
 
 * **필수 도구** 만으로 만들 수 있는 레시피
-  * [Triple Coconut Macaroons](#Triple-Coconut-Macaroons)
-  * [Best Buttermilk Pancakes](#Best-Buttermilk-Pancakes)
+  * [Triple Coconut Macaroons](#triple-coconut-macaroons)
+  * [Best Buttermilk Pancakes](#best-buttermilk-pancakes)
 
 # 필수 도구
 
@@ -54,6 +54,8 @@ locale: ko_KR
 ## Best Buttermilk Pancakes
 
 ![](/assets/img/baking/gallery/Best Buttermilk Pancakes.jpg)
+
+팬케익이 팬케익이지 마트에서 파는 팬케익 믹스와 뭐가 다르겠어? 생각하신다면 속는샘 치고 한번 따라해 보세요. 특히 우유팩에 담아서 파는 버터밀크를 사용하면 
 
 ---
 
