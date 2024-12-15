@@ -6,17 +6,24 @@ locale: ko_KR
 
 제가 [홈 베이킹 갤러리](/baking/gallery)에서 소개한 레시피 중에서 간단한 도구로 만들 수 있는 메뉴 순서로 소개합니다.
 
-* **필수 도구** 만으로 만들 수 있는 레시피
+1. **필수 도구** 만으로 만들 수 있는 레시피
   * [Triple Coconut Macaroons](#triple-coconut-macaroons)
   * [Best Buttermilk Pancakes](#best-buttermilk-pancakes)
+1. **9 X 13 베이킹 팬**으로 만들 수 있는 레시피
+  * Ultranutty Pecan Bars
+  * Chewy Brownies
 
-# 필수 도구
+# 1. 필수 도구
 
 레시피를 소개하기 앞서, 필수 도구를 먼저 소개합니다. 이 도구들은 베이킹 초보자부터 전문가까지 모두에게 없어서는 안 될 필수품입니다. 두고두고 쓰게 되죠. 다행히도 가격 부담이 적고, 베이킹 외에도 다양하게 활용할 수 있어 아깝지 않습니다.
 
 ## 계량스푼
 
+계량스푼 없이는 아무것도 만들 수 없습니다.
+
 ## 저울
+
+계량스푼 외에 계량컵도 있으면 좋지만 그 전에 저울이 더 중요합니다. 특히 밀가루는 부피로 계량하면 오차의 범위가 너무 커서 무게로 계량해야 합니다.
 
 ## 거품기 (Whisk)
 
@@ -55,7 +62,10 @@ locale: ko_KR
 
 ![](/assets/img/baking/gallery/Best Buttermilk Pancakes.jpg)
 
-팬케익이 팬케익이지 마트에서 파는 팬케익 믹스와 뭐가 다르겠어? 생각하신다면 속는샘 치고 한번 따라해 보세요. 특히 우유팩에 담아서 파는 버터밀크를 사용하면 
+마트에서 파는 팬케익 믹스나 모텔에서 무료로 제공하는 아침식사의 팬케익과는 다른 레벨의 팬케익을 만들 수 있습니다. 우유팩에 담아서 파는 버터밀크를 사용하면 풍부한 맛이 나는데, 여러개 먹기에 느끼하다면 분유처럼 분말로 파는 버터밀크도 사용해 보세요.
+* [ATK 레시피](https://www.americastestkitchen.com/recipes/4815-best-buttermilk-pancakes)
+
+# 2. 9 X 13 베이킹 팬
 
 ---
 
