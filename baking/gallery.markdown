@@ -23,7 +23,7 @@ locale: ko_KR
 
 * 식빵
 
-![](https://live.staticflickr.com/65535/50056927126_d44bd0f800_w.jpg)
+![](https://live.staticflickr.com/65535/50056927126_26925b35a0_n.jpg)
 
 * 아몬드 튀일
 
