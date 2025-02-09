@@ -19,7 +19,7 @@ locale: ko_KR
 
 * 호두 타르트
 
-![](https://live.staticflickr.com/65535/52685126083_65eceb22c7_m.jpg)
+![](https://live.staticflickr.com/65535/52685126083_65eceb22c7_n.jpg)
 
 * 식빵
 
@@ -27,23 +27,23 @@ locale: ko_KR
 
 * 아몬드 튀일
 
-![](https://live.staticflickr.com/65535/47997548218_f322589f40_n.jpg)
+![](https://live.staticflickr.com/65535/54315326476_3a86eee553_n.jpg)
 
 * 프랑스 사과 케이크
 
-![](https://live.staticflickr.com/65535/53808856734_4652e92e90_m.jpg)
+![](https://live.staticflickr.com/65535/53808856734_4652e92e90_n.jpg)
 
 * 저온 발효 와플
 
-![](https://live.staticflickr.com/65535/49803563193_dfd2fa87fb_w.jpg)
+![](https://live.staticflickr.com/65535/54315761030_1349e56b5a_n.jpg)
 
 * 크레이프 케이크
 
-![](https://live.staticflickr.com/65535/54073972367_21dd8bb5b8_m.jpg)
+![](https://live.staticflickr.com/65535/54073972367_21dd8bb5b8_n.jpg)
 
 * 크랜베리 타르트
 
-![](https://live.staticflickr.com/65535/51333253011_45c27f9a52_w.jpg)
+![](https://live.staticflickr.com/65535/54314452107_007eba0fd3_n.jpg)
 
 ---
 
