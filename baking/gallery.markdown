@@ -31,7 +31,7 @@ locale: ko_KR
 
 * 프랑스 사과 케이크
 
-![](https://live.staticflickr.com/65535/53808856734_4652e92e90_n.jpg)
+![](https://live.staticflickr.com/65535/53808856734_0f2080fe45_n.jpg)
 
 * 저온 발효 와플
 
