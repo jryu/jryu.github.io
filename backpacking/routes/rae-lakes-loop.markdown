@@ -24,7 +24,7 @@ locale: ko_KR
 1. [Woods Creek을 따라 올라가다가 만나는 초원](https://maps.app.goo.gl/bUxXTENcBbFtK4jx8)
  * 지도에 이름도 표시되어 있지 않지만, 정말 가장 아름다운 장소였습니다.
  * 좌표: [36°52'25.3"N 118°28'03.6"W](https://maps.app.goo.gl/BdZy4fbq8JCvFqMr9)
-1. [양쪽이 트인 Glen Pass](https://maps.app.goo.gl/dpsdMjgER8JTf8rBA)
+1. [양쪽이 트인 Glen Pass](https://maps.app.goo.gl/s5FcGtFupJg2opqA6)
  * 가끔 생각나면 자기 전에 보곤 합니다.
 
 ---
