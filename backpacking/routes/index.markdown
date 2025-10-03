@@ -20,7 +20,7 @@ locale: ko_KR
 | :--- | :--- | :--- | :--- |
 | [Rae Lakes Loop](/backpacking/routes/rae-lakes-loop) | 39.1 | 7,670 | 11,926 |
 | [Half Dome & Clouds Rest](/backpacking/routes/half-dome-clouds-rest) | 20.09 | 4,508 | 9,935 |
-| Kearsarge Pass Trail to Kearsarge Lakes | 15.4 | 3,953 | 11,710 |
+| Kearsarge Pass & Lakes | 15.4 | 3,953 | 11,710 |
 | Big Pine Lakes | 14.7 | 3,841 | 11,267 |
 | Duck Pass and Pika Lake | 10.1 | 2,148 | 10,814 |
 | San Gorgonio | 19 | 4,704 | 11,503 |
@@ -38,13 +38,13 @@ locale: ko_KR
 
 | 코스명 | ↔️ (mi) | 📈 (ft) | 🔼 (ft) |
 | :--- | :--- | :--- | :--- |
-| Four Pass Loop | 25.7 | 7,752 | 12,500 |---
+| Four Pass Loop | 25.7 | 7,752 | 12,500 |
 
 ### 🌵 아리조나 (Arizona)
 
 | 코스명 | ↔️ (mi) | 📈 (ft) | 🔼 (ft) |
 | :--- | :--- | :--- | :--- |
-| Havasupai | 24.1 | 3,526 | 5,186 |---
+| Havasupai | 24.1 | 3,526 | 5,186 |
 
 ---
 
