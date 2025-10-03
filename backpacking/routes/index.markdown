@@ -8,39 +8,45 @@ locale: ko_KR
 
 아래 목록에서는 각 트레킹/백패킹 코스에 대한 정보를 다음 세 가지 지표를 사용하여 표시했습니다.
 
-* **거리 (mi):** 코스의 총 길이입니다.
+* **↔️ 거리 (mi):** 코스의 총 길이입니다.
 * **📈 누적 상승고도 (ft):** 코스를 따라 오르막길의 **상승한 고도의 총합**을 나타냅니다. 내리막길의 하강 고도는 합산에서 제외됩니다.
 * **🔼 최고 고도 (ft):** 코스 중 도달하는 **가장 높은 지점의 고도**입니다.
 
 ---
 
-## 🗺️ 트레킹/백패킹 코스 목록
-
 ### ☀️ 캘리포니아 (California)
 
-| 코스명 | 거리 (mi) | 📈 누적 상승고도 (ft) | 🔼 최고 고도 (ft) |
+| 코스명 | ↔️ (mi) | 📈 (ft) | 🔼 (ft) |
 | :--- | :--- | :--- | :--- |
-| [**Rae Lakes Loop**](/backpacking/routes/rae-lakes-loop) | 39.1 | 7,670 | 11,926 |
-| [**Half Dome & Clouds Rest**](/backpacking/routes/half-dome-clouds-rest) | 20.09 | 4,508 | 9,935 |
-| **Big Pine Lakes** | 14.7 | 3,841 | 11,267 |
-| **Duck Pass and Pika Lake** | 10.1 | 2,148 | 10,814 |
-| **San Gorgonio** | 19 | 4,704 | 11,503 |
+| [Rae Lakes Loop](/backpacking/routes/rae-lakes-loop) | 39.1 | 7,670 | 11,926 |
+| [Half Dome & Clouds Rest](/backpacking/routes/half-dome-clouds-rest) | 20.09 | 4,508 | 9,935 |
+| Kearsarge Pass Trail to Kearsarge Lakes | 15.4 | 3,953 | 11,710 |
+| Big Pine Lakes | 14.7 | 3,841 | 11,267 |
+| Duck Pass and Pika Lake | 10.1 | 2,148 | 10,814 |
+| San Gorgonio | 19 | 4,704 | 11,503 |
 
----
 
 ### 🏜️ 유타 (Utah)
 
-| 코스명 | 거리 (mi) | 📈 누적 상승고도 (ft) | 🔼 최고 고도 (ft) |
+| 코스명 | ↔️ (mi) | 📈 (ft) | 🔼 (ft) |
 | :--- | :--- | :--- | :--- |
-| [**Zion Traverse**](https://www.alltrails.com/explore/map/zion-traverse-lee-pass-to-east-rim-trailhead-2b515e2) | 35.81 | 4,721 | 7,500 |
+| [The Narrows (Top Down)](https://www.alltrails.com/trail/us/utah/the-narrows-top-down)  | 16.1 | 2,076 | 5,800 |
+| [Zion Traverse](https://www.alltrails.com/explore/map/zion-traverse-lee-pass-to-east-rim-trailhead-2b515e2) | 35.81 | 4,721 | 7,500 |
 
----
 
 ### ⛰️ 콜로라도 (Colorado)
 
-| 코스명 | 거리 (mi) | 📈 누적 상승고도 (ft) | 🔼 최고 고도 (ft) |
+| 코스명 | ↔️ (mi) | 📈 (ft) | 🔼 (ft) |
 | :--- | :--- | :--- | :--- |
-| **Four Pass Loop** | 25.7 | 7,752 | 12,500 |---
+| Four Pass Loop | 25.7 | 7,752 | 12,500 |---
+
+### 🌵 아리조나 (Arizona)
+
+| 코스명 | ↔️ (mi) | 📈 (ft) | 🔼 (ft) |
+| :--- | :--- | :--- | :--- |
+| Havasupai | 24.1 | 3,526 | 5,186 |---
+
+---
 
 도움이 되었기를 바랍니다. [백패킹 페이지](/backpacking)에 다른 글도 있으니 살펴보세요.
 
