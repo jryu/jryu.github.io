@@ -9,14 +9,28 @@ locale: ko_KR
 ### ☀️ 캘리포니아 (California)
 
 ### [Rae Lakes Loop](/backpacking/routes/rae-lakes-loop)
+
+[![](https://live.staticflickr.com/65535/54833896234_8bf90c7866_n.jpg)](/backpacking/routes/rae-lakes-loop)
+
+시에라 네바다의 가장 사랑받는 코스 중 하나로, 폭포, 초원, 고산 호수를 아우르며 다채로운 풍경을 즐기는 코스
+
 * **↔️ 거리:** 39.1 mi
 * **📈 누적 상승고도:** 7,670 ft
 * **🔼 최고 고도:** 11,926 ft
 
+---
+
 ### [Half Dome & Clouds Rest](/backpacking/routes/half-dome-clouds-rest)
+
+[![](https://live.staticflickr.com/65535/54833943999_4e23799324_n.jpg)](/backpacking/routes/half-dome-clouds-rest)
+
+요세미티의 하프 돔과 클라우즈 레스트 두 상징적인 봉우리를 1박 2일 백패킹으로 연결하는 코스
+
 * **↔️ 거리:** 20.09 mi
 * **📈 누적 상승고도:** 4,508 ft
 * **🔼 최고 고도:** 9,935 ft
+
+---
 
 ### Kearsarge Pass & Lakes
 * **↔️ 거리:** 15.4 mi
