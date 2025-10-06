@@ -56,13 +56,17 @@ locale: ko_KR
 
 ## 🏜️ 유타 (Utah)
 
-### ▶ [The Narrows (Top Down)](https://www.alltrails.com/trail/us/utah/the-narrows-top-down)
+### ▶ [The Narrows (Top Down)](/backpacking/routes/narrows-top-down)
 
-![](https://live.staticflickr.com/65535/54835704485_4afcbae6bf_n.jpg)
+[![](https://live.staticflickr.com/65535/54835704485_4afcbae6bf_n.jpg)](/backpacking/routes/narrows-top-down)
+
+자이언 협곡을 가로지르는 강물 위를 걷는 비현실적인 여정. 단 12팀에게만 허락된 고요한 특권.
 
 * **↔️ 거리:** 16.1 mi
 * **📈 누적 상승고도:** 2,076 ft
 * **🔼 최고 고도:** 5,800 ft
+
+---
 
 ### [Zion Traverse](https://www.alltrails.com/explore/map/zion-traverse-lee-pass-to-east-rim-trailhead-2b515e2)
 * **↔️ 거리:** 35.81 mi
