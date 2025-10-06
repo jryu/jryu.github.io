@@ -60,7 +60,7 @@ locale: ko_KR
 
 [![](https://live.staticflickr.com/65535/54835704485_4afcbae6bf_n.jpg)](/backpacking/routes/narrows-top-down)
 
-자이언 협곡을 가로지르는 강물 위를 걷는 비현실적인 여정. 단 12팀에게만 허락된 고요한 특권.
+자이언 협곡을 가로지르는 강물 속을 걷는 비현실적인 여정. 단 12팀에게만 허락된 고요한 특권.
 
 * **↔️ 거리:** 16.1 mi
 * **📈 누적 상승고도:** 2,076 ft
