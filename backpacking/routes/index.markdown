@@ -8,7 +8,7 @@ locale: ko_KR
 
 ### ☀️ 캘리포니아 (California)
 
-### [Rae Lakes Loop](/backpacking/routes/rae-lakes-loop)
+### **[Rae Lakes Loop](/backpacking/routes/rae-lakes-loop)**
 
 [![](https://live.staticflickr.com/65535/54833896234_8bf90c7866_n.jpg)](/backpacking/routes/rae-lakes-loop)
 
@@ -20,7 +20,7 @@ locale: ko_KR
 
 ---
 
-### [Half Dome & Clouds Rest](/backpacking/routes/half-dome-clouds-rest)
+### **[Half Dome & Clouds Rest](/backpacking/routes/half-dome-clouds-rest)**
 
 [![](https://live.staticflickr.com/65535/54833943999_4e23799324_n.jpg)](/backpacking/routes/half-dome-clouds-rest)
 
