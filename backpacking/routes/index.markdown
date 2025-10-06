@@ -6,9 +6,9 @@ locale: ko_KR
 
 아래 목록은 각 트레킹/백패킹 코스에 대한 상세 정보입니다.
 
-### ☀️ 캘리포니아 (California)
+## ☀️ 캘리포니아 (California)
 
-### **[Rae Lakes Loop](/backpacking/routes/rae-lakes-loop)**
+### ▶ [Rae Lakes Loop](/backpacking/routes/rae-lakes-loop)
 
 [![](https://live.staticflickr.com/65535/54833896234_8bf90c7866_n.jpg)](/backpacking/routes/rae-lakes-loop)
 
@@ -20,7 +20,7 @@ locale: ko_KR
 
 ---
 
-### **[Half Dome & Clouds Rest](/backpacking/routes/half-dome-clouds-rest)**
+### ▶ [Half Dome & Clouds Rest](/backpacking/routes/half-dome-clouds-rest)
 
 [![](https://live.staticflickr.com/65535/54833943999_4e23799324_n.jpg)](/backpacking/routes/half-dome-clouds-rest)
 
@@ -54,9 +54,12 @@ locale: ko_KR
 
 ---
 
-### 🏜️ 유타 (Utah)
+## 🏜️ 유타 (Utah)
 
-### [The Narrows (Top Down)](https://www.alltrails.com/trail/us/utah/the-narrows-top-down)
+### ▶ [The Narrows (Top Down)](https://www.alltrails.com/trail/us/utah/the-narrows-top-down)
+
+![](https://live.staticflickr.com/65535/54835704485_4afcbae6bf_n.jpg)
+
 * **↔️ 거리:** 16.1 mi
 * **📈 누적 상승고도:** 2,076 ft
 * **🔼 최고 고도:** 5,800 ft
@@ -68,21 +71,24 @@ locale: ko_KR
 
 ---
 
-### ⛰️ 콜로라도 (Colorado)
+## 🌵 아리조나 (Arizona)
+
+### ▶ Havasupai
+
+![](https://live.staticflickr.com/65535/54835620394_223c240a8d_n.jpg)
+
+* **↔️ 거리:** 24.1 mi
+* **📈 누적 상승고도:** 3,526 ft
+* **🔼 최고 고도:** 5,186 ft
+
+---
+
+## ⛰️ 콜로라도 (Colorado)
 
 ### Four Pass Loop
 * **↔️ 거리:** 25.7 mi
 * **📈 누적 상승고도:** 7,752 ft
 * **🔼 최고 고도:** 12,500 ft
-
----
-
-### 🌵 아리조나 (Arizona)
-
-### Havasupai
-* **↔️ 거리:** 24.1 mi
-* **📈 누적 상승고도:** 3,526 ft
-* **🔼 최고 고도:** 5,186 ft
 
 ---
 

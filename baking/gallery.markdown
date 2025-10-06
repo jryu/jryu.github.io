@@ -19,9 +19,9 @@ locale: ko_KR
   
 **한글로 된 메뉴 이름**은 ATK 레시피가 아니거나, 제가 변형한 레시피입니다. 별도로 소개드려요:
 
-## 🍰 직접 만든 레시피들
+## 🍰 변형한 레시피
 
-▶ **[호두 타르트](/baking/recipes/walnut_tart)**: 실패와 수정 끝에 완성된 인생 호두 타르트 레시피
+▶ **[호두 타르트](/baking/recipes/walnut_tart)**: 실패와 수정 끝에 완성된 인생 레시피
 
 ![](https://live.staticflickr.com/65535/52685126083_65eceb22c7_n.jpg)
 
