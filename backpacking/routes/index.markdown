@@ -77,9 +77,11 @@ locale: ko_KR
 
 ## 🌵 아리조나 (Arizona)
 
-### ▶ Havasupai
+### ▶ [Havasupai](/backpacking/routes/havasupai)
 
-![](https://live.staticflickr.com/65535/54835620394_223c240a8d_n.jpg)
+[![](https://live.staticflickr.com/65535/54835620394_223c240a8d_n.jpg)](/backpacking/routes/havasupai)
+
+붉은 협곡과 에메랄드빛 폭포가 만들어내는 이색적인 풍경. 워터파크 같은 재미와 하이킹의 묘미를 동시에 즐길 수 있는 코스
 
 * **↔️ 거리:** 24.1 mi
 * **📈 누적 상승고도:** 3,526 ft
