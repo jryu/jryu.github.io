@@ -21,13 +21,13 @@ locale: ko_KR
 
 ## 🍰 변형한 레시피
 
-▶ **[호두 타르트](/baking/recipes/walnut_tart)**: 실패와 수정 끝에 완성된 인생 레시피
+▶ **[호두 타르트](/baking/recipes/walnut_tart)**: 4번의 시행착오 끝에, 고급스러운 풍미를 완성
 
-![](https://live.staticflickr.com/65535/52685126083_65eceb22c7_n.jpg)
+[![](https://live.staticflickr.com/65535/52685126083_65eceb22c7_n.jpg)](/baking/recipes/walnut_tart)
 
-* 식빵
+▶ **[식빵](/baking/recipes/sandwich_bread)**: 수년간 설탕, 계란, 버터 비율을 조정하고 통밀을 추가해 맛과 식감을 극대화
 
-![](https://live.staticflickr.com/65535/50056927126_26925b35a0_n.jpg)
+[![](https://live.staticflickr.com/65535/50056927126_26925b35a0_n.jpg)](/baking/recipes/sandwich_bread)
 
 * 아몬드 튀일
 
