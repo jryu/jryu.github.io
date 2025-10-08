@@ -29,9 +29,9 @@ locale: ko_KR
 
 [![](https://live.staticflickr.com/65535/50056927126_26925b35a0_n.jpg)](/baking/recipes/sandwich_bread)
 
-* 아몬드 튀일
+▶ **[아몬드 튀일](/baking/recipes/almond_tulies)**: 레시피는 단순하지만, 바삭함은 디테일에서
 
-![](https://live.staticflickr.com/65535/54315326476_3a86eee553_n.jpg)
+[![](https://live.staticflickr.com/65535/54315326476_3a86eee553_n.jpg)](/baking/recipes/almond_tulies)
 
 * 프랑스 사과 케이크
 
