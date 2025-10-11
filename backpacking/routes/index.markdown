@@ -32,15 +32,24 @@ locale: ko_KR
 
 ---
 
+### ▶ [Big Pine Lakes](/backpacking/routes/big-pine-lakes)
+
+[![Big Pine Lakes 전경](https://live.staticflickr.com/65535/54842642085_21ace20c93_n.jpg)](/backpacking/routes/big-pine-lakes)
+
+에메랄드빛 호수로 유명한, Inyo Wilderness에서 퍼밋 예약 경쟁이 가장 치열한 곳
+
+* **↔️ 거리:** 14.7 mi
+* **📈 누적 상승고도:** 3,841 ft
+* **🔼 최고 고도:** 11,267 ft
+
+---
+
 ### Kearsarge Pass & Lakes
 * **↔️ 거리:** 15.4 mi
 * **📈 누적 상승고도:** 3,953 ft
 * **🔼 최고 고도:** 11,710 ft
 
-### Big Pine Lakes
-* **↔️ 거리:** 14.7 mi
-* **📈 누적 상승고도:** 3,841 ft
-* **🔼 최고 고도:** 11,267 ft
+---
 
 ### Duck Pass and Pika Lake
 * **↔️ 거리:** 10.1 mi
@@ -68,7 +77,12 @@ locale: ko_KR
 
 ---
 
-### [Zion Traverse](https://www.alltrails.com/explore/map/zion-traverse-lee-pass-to-east-rim-trailhead-2b515e2)
+### ▶ [Zion Traverse](/backpacking/routes/zion-traverse)
+
+[![](https://live.staticflickr.com/65535/54843512162_c2785b9bd5_n.jpg)](/backpacking/routes/zion-traverse)
+
+자이언 국립공원을 종단하며, 일출과 일몰을 모두 볼 수 있는 능선을 지나가는 드라마 같은 백패킹 코스
+
 * **↔️ 거리:** 35.81 mi
 * **📈 누적 상승고도:** 4,721 ft
 * **🔼 최고 고도:** 7,500 ft
