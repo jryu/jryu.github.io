@@ -2,11 +2,15 @@
 layout: default
 title: 다녀온 백패킹 코스
 locale: ko_KR
+nocomment: true
+
 ---
 
 직접 다녀온 백패킹 코스들을 정리했습니다. 각 코스를 클릭하면 자세한 내용을 볼 수 있어요.
 
 ## ☀️ 캘리포니아 (California)
+
+---
 
 ### ▶ [Rae Lakes Loop](/backpacking/routes/rae-lakes-loop)
 
@@ -44,22 +48,7 @@ locale: ko_KR
 
 ---
 
-### Kearsarge Pass & Lakes
-* **↔️ 거리:** 15.4 mi
-* **📈 누적 상승고도:** 3,953 ft
-* **🔼 최고 고도:** 11,710 ft
-
----
-
-### Duck Pass and Pika Lake
-* **↔️ 거리:** 10.1 mi
-* **📈 누적 상승고도:** 2,148 ft
-* **🔼 최고 고도:** 10,814 ft
-
-### San Gorgonio
-* **↔️ 거리:** 19 mi
-* **📈 누적 상승고도:** 4,704 ft
-* **🔼 최고 고도:** 11,503 ft
+> ➕ 그 외에도 발길 닿았던 곳들이 있어요. [캘리포니아의 나머지 코스는 이곳에](/backpacking/routes/honorable-mention) 따로 정리했습니다.
 
 ---
 
@@ -105,17 +94,12 @@ locale: ko_KR
 
 ## ⛰️ 콜로라도 (Colorado)
 
-### Four Pass Loop
+### ▶ [Four Pass Loop](/backpacking/routes/four-pass-loop)
+
+[![](https://live.staticflickr.com/65535/54850088627_ac8fd68f3e_n.jpg)](/backpacking/routes/four-pass-loop)
+
+콜로라도 백패킹의 대표 단풍 코스. 12,000피트가 넘는 고개 네 곳을 넘으며 가을의 절정을 만났습니다
+
 * **↔️ 거리:** 25.7 mi
 * **📈 누적 상승고도:** 7,752 ft
 * **🔼 최고 고도:** 12,500 ft
-
----
-
-도움이 되었기를 바랍니다. [백패킹 페이지](/backpacking)에 다른 글도 있으니 살펴보세요.
-
----
-
-궁금한 점이 있다면 댓글을 남겨주세요. 댓글을 남기려면 [GitHub](http://github.com) 계정을 만들어야 해서 좀 번거롭습니다. 광고 없이 무료로 사이트를 운영하려다 보니 불편하시겠지만, 이해해 주셔서 감사드립니다. 🙂
-
-*GitHub는 세계적으로 많은 개발자와 기업들이 신뢰하는 플랫폼으로, 코드 관리와 협업에 매우 안전합니다.*
