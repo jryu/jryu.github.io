@@ -30,11 +30,22 @@ locale: ko_KR
 
 필수 도구에 **13 x 9 베이킹 팬 하나만 더!** 그러면 더 다양한 맛과 재미를 즐길 수 있어요.
 
-> ![](https://live.staticflickr.com/65535/53348463068_75ef632fae_n.jpg)  
+> ![](https://live.staticflickr.com/65535/53348463068_75ef632fae_n.jpg)\
 > Ultranutty Pecan Bars
 
-> ![](https://live.staticflickr.com/65535/54542589163_c928aca125_n.jpg)  
+> ![](https://live.staticflickr.com/65535/54542589163_c928aca125_n.jpg)\
 > Chewy Brownies
+
+---
+
+## ▶ [**식빵 팬**](/baking/equipments/loaf-pan) ◀
+
+💰 **가격: $20–25**
+
+필수 도구에 식빵 팬 하나만 추가하면, 바나나 브레드처럼 가장 인기 있는 입문자 레시피도 만들 수 있어요.
+
+> ![](https://live.staticflickr.com/65535/54861157982_dd0db0ee3a_n.jpg)\
+> Ultimate Banana Bread
 
 ---
 

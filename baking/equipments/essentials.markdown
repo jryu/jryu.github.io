@@ -110,24 +110,24 @@ locale: ko_KR
 
 # 🍪 이 도구들로 만들 수 있는 레시피
 
-위 도구들을 준비하셨다면, 이제 더 이상 다른 도구를 장만하지 않아도 만들 수 있는 쉽고 맛있는 레시피를 만나보세요! 👇
+위에서 소개한 7가지 도구만 준비되면, 이제 별다른 장비 없이도 근사한 베이킹을 시작할 수 있어요. 쉽고 맛있는 레시피를 만나보세요! 👇
 
 ---
 
-## Triple Coconut Macaroons
+## 🥥 Triple Coconut Macaroons
 
 ![](https://live.staticflickr.com/65535/52462006792_e654b881ea_n.jpg)
 
 모든 재료를 한 그릇에 섞은 후 베이킹 트레이에 일정량씩 올려 구워주세요.  
-* [ATK 레시피](https://www.americastestkitchen.com/recipes/495-the-best-chocolate-dipped-triple-coconut-macaroons)는 초콜릿을 바르는데, 너무 달아서 저는 생략합니다.
+* [ATK 레시피](https://www.americastestkitchen.com/recipes/495-the-best-chocolate-dipped-triple-coconut-macaroons)에서는 초콜릿을 입히지만, 저는 단맛을 줄이기 위해 생략했어요.
 
 ---
 
-## Best Buttermilk Pancakes
+## 🥞 Best Buttermilk Pancakes
 
 ![](https://live.staticflickr.com/65535/54542579608_0550d9e5ca_n.jpg)
 
-마트에서 파는 팬케이크 믹스와는 차원이 다른 맛! 버터밀크를 사용해 부드럽고 풍부한 팬케이크를 만들어 보세요.  
+마트에서 파는 팬케이크 믹스와는 차원이 다른 맛! 버터밀크를 넣어 구우면 촉촉하면서도 부드러운 식감이 살아나요.  
 * [ATK 레시피](https://www.americastestkitchen.com/recipes/4815-best-buttermilk-pancakes)
 
 ---
