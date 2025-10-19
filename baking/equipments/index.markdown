@@ -72,8 +72,4 @@ locale: ko_KR
 > ![](https://live.staticflickr.com/65535/54863783604_f6e6a0db00_n.jpg)\
 > Fresh Fruit Tart
 
-
-📷 소개한 모든 레시피는  
-[홈 베이킹 갤러리](/baking/gallery)에서 사진과 함께 만나보실 수 있어요.
-
 ---
