@@ -16,8 +16,9 @@ locale: ko_KR
 ![](/assets/img/baking/equipments/measuring_spoons.jpg)
 
 계량스푼 없이는 아무것도 만들 수 없어요. 1 tbsp, 1 tsp, 1/2 tsp, 1/4 tsp, 1/8 tsp 세트로 준비하세요.  
-* [ATK 리뷰](https://www.americastestkitchen.com/equipment_reviews/1920-measuring-spoons)  
-* [추천제품 Amazon 링크](https://www.amazon.com/dp/B00004SU1I/)
+
+* 🔗 [ATK 리뷰](https://www.americastestkitchen.com/equipment_reviews/1920-measuring-spoons)  
+* 🛒 [추천제품 Amazon 링크](https://www.amazon.com/dp/B00004SU1I/)
 
 ---
 
@@ -28,8 +29,8 @@ locale: ko_KR
 
 ![](/assets/img/baking/equipments/measuring_cup.jpg)
 
-* [ATK 리뷰](https://www.americastestkitchen.com/equipment_reviews/2041-liquid-measuring-cups)  
-* [추천제품 Amazon 링크](https://www.amazon.com/dp/B00005RKOF/)
+* 🔗 [ATK 리뷰](https://www.americastestkitchen.com/equipment_reviews/2041-liquid-measuring-cups)  
+* 🛒 [추천제품 Amazon 링크](https://www.amazon.com/dp/B00005RKOF/)
 
 ---
 
@@ -44,8 +45,8 @@ locale: ko_KR
 
 [![Kitchen Scale Review YouTube](/assets/img/baking/equipments/kitchen_scales_thumbnail.jpg)](https://youtu.be/-OrUMyXYlRU?si=H1wXRDvJwjWEF5Z-)
 
-* [ATK 리뷰](https://www.americastestkitchen.com/equipment_reviews/1696-digital-kitchen-scales)  
-* 추천제품 Amazon 링크
+* 🔗 [ATK 리뷰](https://www.americastestkitchen.com/equipment_reviews/1696-digital-kitchen-scales)  
+* 🛒 추천제품 Amazon 링크
   * [고급형](https://www.amazon.com/dp/B079D9B82W/)
   * [보급형](https://www.amazon.com/dp/B01JK4OEHQ)
 
@@ -60,8 +61,8 @@ locale: ko_KR
 
 > 💡 계란말이나 계란찜 만들면서 계란을 풀 때 아주 유용해요.
 
-* [ATK 리뷰](https://www.americastestkitchen.com/equipment_reviews/2449-all-purpose-whisks)  
-* [추천제품 Amazon 링크](https://www.amazon.com/dp/B00004OCNS)
+* 🔗 [ATK 리뷰](https://www.americastestkitchen.com/equipment_reviews/2449-all-purpose-whisks)  
+* 🛒 [추천제품 Amazon 링크](https://www.amazon.com/dp/B00004OCNS)
 
 ---
 
@@ -74,8 +75,8 @@ locale: ko_KR
 
 > 💡 전을 부치거나 돈가스를 튀긴 후에도 식힘망에서 식히면 확실히 더 바삭해요.
 
-* [ATK 리뷰](https://www.americastestkitchen.com/equipment_reviews/1724-wire-racks)  
-* [추천제품 Amazon 링크](https://www.amazon.com/dp/B00WS3OCWE/)
+* 🔗 [ATK 리뷰](https://www.americastestkitchen.com/equipment_reviews/1724-wire-racks)  
+* 🛒 [추천제품 Amazon 링크](https://www.amazon.com/dp/B00WS3OCWE/)
 
 ---
 
@@ -88,8 +89,8 @@ locale: ko_KR
 
 [![Sheet Review YouTube](/assets/img/baking/equipments/baking_sheet_thumbnail.jpg)](https://www.youtube.com/watch?v=NTIwEQGyZJ0)
 
-* [ATK 리뷰](https://www.americastestkitchen.com/equipment_reviews/1718-rimmed-baking-sheets)  
-* [추천제품 Amazon 링크](https://www.amazon.com/dp/B0049C2S32/)
+* 🔗 [ATK 리뷰](https://www.americastestkitchen.com/equipment_reviews/1718-rimmed-baking-sheets)  
+* 🛒 [추천제품 Amazon 링크](https://www.amazon.com/dp/B0049C2S32/)
 
 ---
 
@@ -103,8 +104,8 @@ locale: ko_KR
 > 💡 갈비 양념 만들 때 갈은 과일을 걸러내는 데도 아주 유용해요!  
 
 
-* [ATK 리뷰](https://www.americastestkitchen.com/equipment_reviews/1744-fine-mesh-strainers)  
-* [추천제품 Amazon 링크](https://www.amazon.com/dp/B007426KZG/)
+* 🔗 [ATK 리뷰](https://www.americastestkitchen.com/equipment_reviews/1744-fine-mesh-strainers)  
+* 🛒 [추천제품 Amazon 링크](https://www.amazon.com/dp/B007426KZG/)
 
 ---
 
@@ -119,7 +120,7 @@ locale: ko_KR
 ![](https://live.staticflickr.com/65535/52462006792_e654b881ea_n.jpg)
 
 모든 재료를 한 그릇에 섞은 후 베이킹 트레이에 일정량씩 올려 구워주세요.  
-* [ATK 레시피](https://www.americastestkitchen.com/recipes/495-the-best-chocolate-dipped-triple-coconut-macaroons)에서는 초콜릿을 입히지만, 저는 단맛을 줄이기 위해 생략했어요.
+* 🔗 [ATK 레시피](https://www.americastestkitchen.com/recipes/495-the-best-chocolate-dipped-triple-coconut-macaroons)에서는 초콜릿을 입히지만, 저는 단맛을 줄이기 위해 생략했어요.
 
 ---
 
@@ -128,7 +129,7 @@ locale: ko_KR
 ![](https://live.staticflickr.com/65535/54542579608_0550d9e5ca_n.jpg)
 
 마트에서 파는 팬케이크 믹스와는 차원이 다른 맛! 버터밀크를 넣어 구우면 촉촉하면서도 부드러운 식감이 살아나요.  
-* [ATK 레시피](https://www.americastestkitchen.com/recipes/4815-best-buttermilk-pancakes)
+* 🔗 [ATK 레시피](https://www.americastestkitchen.com/recipes/4815-best-buttermilk-pancakes)
 
 ---
 

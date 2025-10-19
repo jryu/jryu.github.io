@@ -38,16 +38,40 @@ locale: ko_KR
 
 ---
 
-## ▶ [**식빵 팬**](/baking/equipments/loaf-pan) ◀
+## ▶ [**식빵팬**](/baking/equipments/loaf-pan) ◀
 
 💰 **가격: $20–25**
 
-필수 도구에 식빵 팬 하나만 추가하면, 바나나 브레드처럼 가장 인기 있는 입문자 레시피도 만들 수 있어요.
+필수 도구에 **식빵 팬** 하나만 추가하면, 바나나 브레드처럼 가장 인기 있는 입문자 레시피도 만들 수 있어요.
 
 > ![](https://live.staticflickr.com/65535/54861157982_dd0db0ee3a_n.jpg)\
 > Ultimate Banana Bread
 
 ---
+
+## ▶ [**스프링폼 팬**](/baking/equipments/springform-pan) ◀
+
+💰 **가격: $16–50**
+
+아니면 스프링폼 팬을 추가해서 고급스런 프랑스 사과 케이크를 만들 수도 있죠. 결코 바나나 브레드보다 어렵지 않은데 초보 티를 확 벗어버릴 수 있습니다.
+
+> ![](https://live.staticflickr.com/65535/53808856734_0f2080fe45_n.jpg)\
+> 프랑스 사과 케이크
+
+---
+
+## ▶ [**타르트팬** + 그레이터](/baking/equipments/tart-pan) ◀
+
+💰 **총 비용: $40–60**
+
+타르트 중에서도 도구 없이 손으로 타르트쉘을 만들 수 있는 레시피도 있습니다. 그런 타르트는 ~~팬만 하나 있으면 만들 수 있어요.~~ 라고 말하고 싶으나 **그레이터**도 필요합니다. 😥
+
+> ![](https://live.staticflickr.com/65535/49840120307_4c1ecb10cd_n.jpg)\
+> Lemon–Olive Oil Tart
+
+> ![](https://live.staticflickr.com/65535/54863783604_f6e6a0db00_n.jpg)\
+> Fresh Fruit Tart
+
 
 📷 소개한 모든 레시피는  
 [홈 베이킹 갤러리](/baking/gallery)에서 사진과 함께 만나보실 수 있어요.

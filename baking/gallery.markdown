@@ -33,9 +33,9 @@ locale: ko_KR
 
 [![](https://live.staticflickr.com/65535/54315326476_3a86eee553_n.jpg)](/baking/recipes/almond_tulies)
 
-* 프랑스 사과 케이크
+▶ **[프랑스 사과 케이크](/baking/recipes/french_apple_cake)**: ATK 레시피의 단점 보완 후, 식감과 풍미 모두 살린 황금비율 완성
 
-![](https://live.staticflickr.com/65535/53808856734_0f2080fe45_n.jpg)
+[![](https://live.staticflickr.com/65535/53808856734_0f2080fe45_n.jpg)](/baking/recipes/french_apple_cake)
 
 * 저온 발효 와플
 
