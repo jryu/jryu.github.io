@@ -20,15 +20,15 @@ locale: ko_KR
 
 ## 🍰 그대로 따라 만든 레시피
 
-**영어 레시피 이름**은 *America’s Test Kitchen (ATK)* 레시피를 그대로 따라 만들었습니다.
+레시피 이름이 **영어**로 된 것은 *America’s Test Kitchen (ATK)* 레시피를 그대로 따라 만들었습니다.
 
 ATK 레시피를 따라하는 방법은 👉 [ATK 안내 페이지](/baking/atk)를 참고하세요.
 
 ---  
 
-## 🧁 제가 변형한 레시피
+## 🧁 변형한 레시피
 
-**한글 레시피 이름**은 ATK 레시피가 아니거나, 제가 변형한 레시피입니다. 하나씩 소개해 드려요:
+레시피 이름이 **한글**로 된 것은 ATK 레시피가 아니거나, 제가 변형한 레시피입니다. 하나씩 소개해 드려요:
 
 ### ▶ **[호두 타르트](/baking/recipes/walnut_tart)**  
 4번의 시행착오 끝에 고급스러운 풍미를 완성  
@@ -52,7 +52,7 @@ ATK 레시피를 따라하는 방법은 👉 [ATK 안내 페이지](/baking/atk)
 ---
 
 ### ▶ **[프랑스 사과 케이크](/baking/recipes/french_apple_cake)**  
-ATK 레시피의 단점을 보완하여, 식감과 풍미 모두 살린 황금비율 완성  
+ATK 레시피의 단점을 보완하여, 식감과 풍미 모두 살림   
 
 [![](https://live.staticflickr.com/65535/53808856734_0f2080fe45_n.jpg)](/baking/recipes/french_apple_cake)
 
