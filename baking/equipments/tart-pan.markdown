@@ -40,7 +40,7 @@ locale: ko_KR
 
 ![](https://live.staticflickr.com/65535/49840120307_4c1ecb10cd_n.jpg)
 
-제작 과정이 유튜브에 공개되어 있으니 참고해 보세요:
+🔗 [ATK 레시피](https://www.americastestkitchen.com/recipes/11432-lemon-olive-oil-tart)뿐만 아니라, 제작 과정이 유튜브에 공개되어 있으니 참고해 보세요:
 
 [![lemon tart video](/assets/img/baking/equipments/lemon-tart.jpg)](https://youtu.be/CCOqVu2sYJs?si=y-nbW1aPWSaCRKJK)
 
@@ -54,7 +54,7 @@ locale: ko_KR
 
 ![](https://live.staticflickr.com/65535/54863783604_f6e6a0db00_n.jpg)
 
-조금 손이 가지만, 고가의 도구 없이 만들 수 있는 보람 있는 레시피예요.
+조금 손이 가지만, 고가의 도구 없이 만들 수 있는 보람이 있어요. 🔗 [글로 된 레시피는 여기](https://www.americastestkitchen.com/recipes/9725-fresh-fruit-tart) 있고, 비디오가 무료로 공개되어 있어서 공유합니다:
 
 [![fruit tart video](/assets/img/baking/equipments/fruit-tart.jpg)](https://youtu.be/ITMCoZrLH4c?si=VpJ3F4zufwoWuY3f)
 
