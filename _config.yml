@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: J류.NET
+title: jryu.net
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   백패킹, 캠핑, 베이킹 등 직접 경험한 활동을 바탕으로 실용적인 정보와 팁을 정리했습니다.
