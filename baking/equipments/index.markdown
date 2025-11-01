@@ -1,74 +1,78 @@
 ---
 layout: default
-title: 베이킹 도구
-locale: ko_KR
+title: Baking Tools
+locale: en_US
 nocomment: true
 ---
-베이킹을 시작하려고 할 때, 도구의 가격이 부담스러워서 망설여지죠. 하지만 **처음에는 가성비 좋고, 다른 요리에도 유용한 도구부터** 장만해도 충분히 시작할 수 있어요.
 
-조금씩 장비를 늘려가며 자신감을 키울 수 있도록 차근차근 안내해 드리겠습니다.
+When you’re just getting started with baking, the cost of equipment can feel intimidating.  
+
+But don’t worry — you can **start small with affordable, multi-purpose tools** that are also great for everyday cooking.
+
+I’ll walk you through each step so you can gradually build your collection and your confidence along the way.
 
 ---
-## ▶ [**필수 도구**](./essentials) ◀
 
-💰 **총 비용: $110–180**
+## ▶ [**Essential Tools**](./essentials) ◀
 
-**7가지 필수 도구**와 그 도구만으로 만들 수 있는 **쉽고 맛있는 레시피**부터 소개할게요.
+💰 **Total cost: $110–180**
 
-> 👆 위의 링크를 클릭하시면 내용을 보실 수 있습니다.
+Let’s begin with **7 must-have tools** and some **simple, delicious recipes** you can make using only these essentials.
+
+> 👆 Click the link above to view details.
 
 > ![](https://live.staticflickr.com/65535/52462006792_e654b881ea_n.jpg)  
-> Triple Coconut Macaroons
+> Triple Coconut Macaroons  
 
 > ![](https://live.staticflickr.com/65535/54542579608_0550d9e5ca_n.jpg)  
-> Best Buttermilk Pancakes
+> Best Buttermilk Pancakes  
 
 ---
 
-## ▶ [**13 x 9 베이킹 팬**](./9x13pan) ◀
+## ▶ [**13 x 9 Baking Pan**](./9x13pan) ◀
 
-💰 **가격: $30–50**
+💰 **Price: $30–50**
 
-필수 도구에 **13 x 9 베이킹 팬 하나만 더!** 그러면 더 다양한 맛과 재미를 즐길 수 있어요.
+Just add one **13 x 9 baking pan** to your essentials, and you can enjoy a variety of flavors and fun.
 
 > ![](https://live.staticflickr.com/65535/53348463068_75ef632fae_n.jpg)\
-> Ultranutty Pecan Bars
+> Ultranutty Pecan Bars  
 
 > ![](https://live.staticflickr.com/65535/54542589163_c928aca125_n.jpg)\
-> Chewy Brownies
+> Chewy Brownies  
 
 ---
 
-## ▶ [**식빵팬**](./loaf-pan) ◀
+## ▶ [**Loaf Pan**](./loaf-pan) ◀
 
-💰 **가격: $20–25**
+💰 **Price: $20–25**
 
-필수 도구에 **식빵 팬** 하나만 추가하면, 바나나 브레드처럼 가장 인기 있는 입문자 레시피도 만들 수 있어요.
+Add a **loaf pan** to your basic setup, and you’ll be able to make beginner favorites like banana bread.
 
 > ![](https://live.staticflickr.com/65535/54861157982_dd0db0ee3a_n.jpg)\
-> Ultimate Banana Bread
+> Ultimate Banana Bread  
 
 ---
 
-## ▶ [**스프링폼 팬**](./springform-pan) ◀
+## ▶ [**Springform Pan**](./springform-pan) ◀
 
-💰 **가격: $16–50**
+💰 **Price: $16–50**
 
-아니면 스프링폼 팬을 추가해서 고급스런 프랑스 사과 케이크를 만들 수도 있죠. 결코 바나나 브레드보다 어렵지 않은데 초보 티를 확 벗어버릴 수 있습니다.
+Alternatively, pick up a **springform pan** to make elegant desserts like a French Apple Cake. It's truly no harder than banana bread, but it will instantly elevate you past the beginner stage.
 
 > ![](https://live.staticflickr.com/65535/53808856734_0f2080fe45_n.jpg)\
-> 프랑스 사과 케이크
+> French Apple Cake  
 
 ---
 
-## ▶ [**타르트팬** + 그레이터](./tart-pan) ◀
+## ▶ [**Tart Pan** + Grater](./tart-pan) ◀
 
-💰 **총 비용: $40–60**
+💰 **Total cost: $40–60**
 
-타르트 중에서도 도구 없이 손으로 타르트쉘을 만들 수 있는 레시피도 있습니다. 그런 타르트는 ~~팬만 하나 있으면 만들 수 있어요.~~ 라고 말하고 싶으나 **그레이터**도 필요합니다. 😥
+Some tarts can be made by pressing the crust by hand — no special tools needed. I'd like to say you can make those with just a **tart pan**, but you'll also need a **grater.** 😉
 
 > ![](https://live.staticflickr.com/65535/49840120307_4c1ecb10cd_n.jpg)\
-> Lemon–Olive Oil Tart
+> Lemon–Olive Oil Tart  
 
 > ![](https://live.staticflickr.com/65535/54863783604_f6e6a0db00_n.jpg)\
-> Fresh Fruit Tart
+> Fresh Fruit Tart  

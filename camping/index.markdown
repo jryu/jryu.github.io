@@ -1,16 +1,18 @@
 ---
 layout: default
-title: ⛺ 캠핑 ⛺
-locale: ko_KR
+title: ⛺ Camping ⛺
+locale: en_US
 nocomment: true
 ---
 
-캠핑 준비와 캠핑장 예약에 도움이 되는 정보를 모았습니다.
+Here you’ll find helpful information for planning your camping trips.
 
 ---
-## 🪵 **[캠핑 준비물](./gears)**
-> 텐트, 침낭, 슬리핑패드 등 캠핑에 꼭 필요한 기본 장비들을 소개합니다. 처음 시작하는 분들도 쉽게 따라할 수 있는 실용적인 팁을 담았어요.
+
+## 🪵 **[Camping Gear](./gears)**
+> Learn about the basic gear every camper needs — tents, sleeping bags, pads, and more.
 
 ---
-## 📅 **[캠핑장 예약하기](./reservation)**
-> 국립공원, 주립공원, 그리고 동네공원 등 다양한 캠핑장 예약 방법을 상세히 안내해 드립니다. 성공적인 예약을 위한 전략을 공개합니다.
+
+## 📅 **[Booking Campsites](./reservation)**
+> Detailed guidance on how to reserve campsites in various places, including national parks, state parks, and local parks. Strategies for successful booking are revealed.

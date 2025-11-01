@@ -1,20 +1,23 @@
 ---
 layout: default
-title: 🌲 백패킹 🌲
+title: 🌲 Backpacking 🌲
 locale: ko_KR
 nocomment: true
 ---
 
-미국에서 직접 경험한 백패킹 정보를 정리했습니다. 초보자부터 경험자까지 참고할 수 있는 유용한 내용을 담고 있습니다.
+I’ve compiled practical information based on my own backpacking experiences in the United States.
 
 ---
-## 🥾 **[장비 고르기](./gears)**
-> 백패킹에 필요한 기본 장비와 추천 아이템을 자세히 소개하며, 제가 사용하는 체크리스트도 함께 공유합니다.
+
+## 🥾 **[Choosing Gear](./gears)**
+> A detailed guide to essential backpacking equipment and recommended items, along with a checklist that I personally use.
 
 ---
-## 📝 **[퍼밋 받기](./permits)**
-> 주요 백패킹 지역별 퍼밋 예약 방법과 유의사항을 안내합니다. 지역별 특징과 예약 팁을 통해 보다 수월한 예약을 도와드립니다.
+
+## 📝 **[Getting Permits](./permits)**
+> Guidance on how to reserve permits and important considerations for major backpacking areas.
 
 ---
-## ⛰️ **[다녀온 백패킹 코스](./routes)**
-> 제가 다녀온 캘리포니아, 유타, 콜로라도, 아리조나의 주요 코스를 소개합니다.
+
+## ⛰️ **[Trails I’ve Hiked](./routes)**
+> Introduction to some of my favorite backpacking routes across California, Utah, Colorado, and Arizona.

@@ -3,23 +3,23 @@ layout: default
 nocomment: true
 ---
 
-아래 항목을 클릭하시면 각 주제별 상세 페이지로 이동합니다.
+Click on a topic below to explore each section in detail.
 
 ---
 
-## 🌲 **[백패킹](./backpacking)**
-> 자연 속에서 자유롭게 걷고, 직접 짐을 지고 다니는 백패킹의 매력을 소개합니다. 필수 장비와 노하우도 함께 알려드려요!
+## 🌲 **[Backpacking](./backpacking)**
+> Experience the freedom of backpacking — walking through nature with everything you need on your back. Learn about essential gear, practical tips.
 
 ---
 
-## ⛺ **[캠핑](./camping)**
-> 친구, 가족과 함께하는 캠핑! 캠핑장 예약부터, 캠핑 초보자도 쉽게 따라 할 수 있는 팁과 아이디어가 가득합니다.
+## ⛺ **[Camping](./camping)**
+> Camping with friends and family! From finding and reserving campsites to tips ideas for beginners.
 
 ---
 
-## 🍰 **[베이킹](./baking)**
-> 홈 베이킹 입문자를 위한 기본 도구부터 America's Test Kitchen 기반의 신뢰도 높은 레시피까지, 달콤한 빵과 디저트를 만드는 즐거움을 공유해요.
+## 🍰 **[Baking](./baking)**
+> Whether you're new to home baking or looking for trustworthy recipes inspired by **America’s Test Kitchen**, discover the simple joy of making sweet breads and desserts right from your kitchen.
 
 ---
 
-*저와 비슷한 관심사를 가진 분들을 만날 수 있지 않을까 하는 기대와 함께 외롭고 심심해서 글을 쓰기 시작했습니다. 유명해지고 부자 되고 싶은 마음은 눈곱만큼도 ~~없~~있어요!* 😆
+*I started writing out of boredom and a bit of loneliness — hoping to meet people who share similar interests. I have ~~absolutely no~~ desire to become famous or rich! 😆*
