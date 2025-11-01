@@ -132,9 +132,8 @@ locale: ko_KR
 * 🔗 [ATK 레시피](https://www.americastestkitchen.com/recipes/4815-best-buttermilk-pancakes)
 
 ---
-
-> 📬 궁금한 점이나 결과나 후기 댓글로 남겨주세요!  
+> 📬 궁금한 점이나, 후기 댓글로 남겨주세요!  
 >
-> 댓글을 남기려면 [GitHub](http://github.com) 계정을 만들어야 해서 좀 번거롭습니다. 광고 없이 무료로 사이트를 운영하려다 보니 불편하시겠지만, 이해해 주셔서 감사드립니다. 🙂
+> 댓글 작성은 [GitHub 계정](https://github.com)이 필요합니다. *광고 없이 사이트를 운영하고 있어요.* 번거롭지만 양해 부탁드려요! 🙏
 
 ---

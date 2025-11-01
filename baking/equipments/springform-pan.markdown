@@ -16,22 +16,21 @@ locale: ko_KR
 
 ## 🍏 프랑스 사과 케이크
 
-이 레시피에 대해서는 드릴 말씀이 좀 많아서 🔗 [**별도의 페이지**](/baking/recipes/french_apple_cake)를 따로 만들었습니다.
+이 레시피에 대해서는 드릴 말씀이 좀 많아서 🔗 [**별도의 페이지**](../recipes/french_apple_cake)를 따로 만들었습니다.
 
 ATK 원본 레시피의 아쉬운 점을 보완한 과정과, 그 결과로 완성된 아주 만족스러운 맛을 공유합니다.
 
-[![](https://live.staticflickr.com/65535/53808856734_0f2080fe45_n.jpg)](/baking/recipes/french_apple_cake)
+[![](https://live.staticflickr.com/65535/53808856734_0f2080fe45_n.jpg)](../recipes/french_apple_cake)
 
 사과 타르트나 애플파이는 익숙하지만, 사과 케이크는 제가 만들기 전에 먹어본 적이 없어요. 같이 나눠 먹은 사람들도 다들 생소했는데요, 전혀 기대하지 않았던 은은하고 고급스러운 맛에 모두 놀랐고, 저 자신이 가장 놀랐습니다.
 
-[![](https://live.staticflickr.com/65535/53808532216_b6d7dc7cef_n.jpg)](/baking/recipes/french_apple_cake)
+[![](https://live.staticflickr.com/65535/53808532216_b6d7dc7cef_n.jpg)](../recipes/french_apple_cake)
 
 사진만 보고는 이 맛을 상상하기 어려우실 거예요. 꼭 한번 만들어 보세요! ㅎㅎ
 
 ---
-
-> 📬 궁금한 점이나 결과나 후기 댓글로 남겨주세요!  
+> 📬 궁금한 점이나, 후기 댓글로 남겨주세요!  
 >
-> 댓글을 남기려면 [GitHub](http://github.com) 계정을 만들어야 해서 좀 번거롭습니다. 광고 없이 무료로 사이트를 운영하려다 보니 불편하시겠지만, 이해해 주셔서 감사드립니다. 🙂
+> 댓글 작성은 [GitHub 계정](https://github.com)이 필요합니다. *광고 없이 사이트를 운영하고 있어요.* 번거롭지만 양해 부탁드려요! 🙏
 
 ---

@@ -6,7 +6,7 @@ locale: ko_KR
 
 *America’s Test Kitchen (ATK)* 레시피를 따라서 만들다가 약간의 변화를 주게 된 레시피를 모았습니다.
 
-> ATK 레시피를 그대로 따라한건 [홈 베이킹 갤러리](/baking/gallery)에 모아뒀어요.
+> ATK 레시피를 그대로 따라한건 [홈 베이킹 갤러리](../gallery)에 모아뒀어요.
 
 ---
 
