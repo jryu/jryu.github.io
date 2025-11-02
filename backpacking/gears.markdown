@@ -10,18 +10,20 @@ Here are five of the heaviest items among backpacking gear.
 1. [Stove](#4-stove)
 1. [Backpack](#5-backpack)
 
-When choosing backpacking gears, I mainly refer to [outdoorgearlab.com](http://outdoorgearlab.com). This site scores each item across categories, making comparisons easy, and highlights products that offer **excellent value for money** even if their performance is slightly lower, which is very useful.
-
-I hope this guide helps you choose gear using that site.
+> When choosing backpacking gears, I mainly refer to [outdoorgearlab.com](http://outdoorgearlab.com). It scores each item across categories, making comparisons easy.
+> 
+> This guide will help you to choose gear using that site.
 
 ---
 
 # 1. Tent
 On [outdoorgearlab.com](http://outdoorgearlab.com), tents are categorized into [**Backpacking Tents**](https://www.outdoorgearlab.com/topics/camping-and-hiking/best-backpacking-tent) and [**Ultralight Tents**](https://www.outdoorgearlab.com/topics/camping-and-hiking/best-ultralight-tent).
 
-[**Backpacking Tents**](https://www.outdoorgearlab.com/topics/camping-and-hiking/best-backpacking-tent) are typically the 1-person size of a general tent, usually weighing about 3–5 lbs. Any product under 4 lbs on this page is a solid choice.
+🔗 [**Backpacking Tents**](https://www.outdoorgearlab.com/topics/camping-and-hiking/best-backpacking-tent) are typically the 1-person size of a general tent, usually weighing about 3–5 lbs. Any product under 4 lbs on this page is a solid choice.
 
-[**Ultralight Tents**](https://www.outdoorgearlab.com/topics/camping-and-hiking/best-ultralight-tent) eliminate the tent poles and instead use **trekking poles** instead. This reduces weight and volume, usually keeping the tent under 2 lbs. However, you need to firmly secure at least four corners, making it difficult to set up on rock or uneven ground without soil.
+🔗 [**Ultralight Tents**](https://www.outdoorgearlab.com/topics/camping-and-hiking/best-ultralight-tent) eliminate the tent poles and instead use **trekking poles** instead. This reduces weight and volume, usually keeping the tent under 2 lbs.
+
+However, you need to firmly secure at least four corners, making it difficult to set up on rock or tight space.
 
 ![Tent by the lake](/assets/img/backpacking/tent_big_pines_lake_640.jpg)
 
@@ -34,7 +36,7 @@ If you are unsure, pick one from [**Backpacking Tents**](https://www.outdoorgear
 # 2. Sleeping Bag
 Like tents, [outdoorgearlab.com](http://outdoorgearlab.com) classifies sleeping bags into two types.
 
-[**Backpacking Sleeping Bags**](https://www.outdoorgearlab.com/topics/camping-and-hiking/best-backpacking-sleeping-bag) are the familiar style of sleeping bag, most of which look similar. You can use these numbers to help make your selection:
+🔗 [**Backpacking Sleeping Bags**](https://www.outdoorgearlab.com/topics/camping-and-hiking/best-backpacking-sleeping-bag) are the familiar style of sleeping bag, most of which look similar. You can use these numbers to help make your selection:
 
 1. **Temperature Rating**: The coldest temperature you can use it in.
 1. **Fill Power**: How light and efficient the insulation is.
@@ -42,7 +44,10 @@ Like tents, [outdoorgearlab.com](http://outdoorgearlab.com) classifies sleeping 
 Price depends on these factors. Once you know the target temperature, the rest is straightforward. Spending more usually means a lighter bag with smaller compressed volume.
 
 ## Temperature Rating 🌡️
-For your first sleeping bag, I recommend a **Temperature Rating** in the 20°-30°F range. Assuming backpacking in California:
+
+⚡ **TL;DR:** For your first sleeping bag, Choose a bag rated in the 20-30°F range.
+
+ Assuming backpacking in California, I recommend a **Temperature Rating** in the 20°-30°F range because of following reasons:
 
 * Popular backpacking destinations in California are typically **above 8,000 ft**.
 * These areas are accessible only between **June and October** without snow gear.
@@ -51,16 +56,18 @@ For your first sleeping bag, I recommend a **Temperature Rating** in the 20°-30
 
 This leaves early summer and fall, when temperatures above 8,000 ft usually drop to around 40°F. Note that **Temperature Ratings** is not the temperature suitable for comfortable sleep, so select a rating 10°-20° lower than your expected sleeping temperature.
 
-✅ **Conclusion**: Choose a bag rated in the 20-30°F range.
-
 ## Fill Power 🪶
-Once temperature is set, decide how much to invest in **Fill Power**. It's a difficult decision, but one guideline I can offer is that it's an **awesome deal** if you can reduce the weight by **1 lb for a $100 investment**. This applies to other gear too, but for sleeping bags, reducing weight also reduces volume when compressed.
 
-Once you understand this, you’re ready to select a bag from [**Backpacking Sleeping Bags**](https://www.outdoorgearlab.com/topics/camping-and-hiking/best-backpacking-sleeping-bag).
+💡 **Rule of thumb:** Spending **$100 to reduce 1 lb** is a great deal—especially for sleeping bags, where lighter weight also means smaller packed volume.
+
+**Fill Power** measures the quality of the down insulation: the higher the number (e.g., 650 vs. 850), the **lighter and more compressible** the sleeping bag for the same warmth. In other words, higher Fill Power means better warmth-to-weight efficiency but also a higher price tag.
+
+Once you’ve set your temperature rating, decide how much to invest in **Fill Power**, then pick one from [**Backpacking Sleeping Bags**](https://www.outdoorgearlab.com/topics/camping-and-hiking/best-backpacking-sleeping-bag).
+
 
 ---
 
-[**Ultralight Sleeping Bags**](https://www.outdoorgearlab.com/topics/camping-and-hiking/best-ultralight-sleeping-bag) come in two types:
+🔗 [**Ultralight Sleeping Bags**](https://www.outdoorgearlab.com/topics/camping-and-hiking/best-ultralight-sleeping-bag) come in two types:
 
 1. The first are sleeping bags of the regular shape but with higher **Fill Power** for lighter weight and smaller volume.
   > At this price range, spending $100 more often has little effect, so **we will skip this** for now.
@@ -83,7 +90,7 @@ I often sleep on my side or stomach, which is awkward in a traditional sleeping 
 
 # 3. Sleeping Pad
 
-[Outdoorgearlab.com](http://outdoorgearlab.com) doesn’t categorize products for Ultralight Backpacking separately within, so all [**Backpacking Sleeping Pads**](https://www.outdoorgearlab.com/topics/camping-and-hiking/best-sleeping-pad) are on one page.
+🔗 [**Backpacking Sleeping Pads**](https://www.outdoorgearlab.com/topics/camping-and-hiking/best-sleeping-pad) are all listed on a single page, as [outdoorgearlab.com](http://outdoorgearlab.com) doesn’t separate products for Ultralight Backpacking.
 
 The key metric is **R-Value**, which indicates insulation. Unlike sleeping bags, it’s not temperature-rated. So this table comes from [REI - How to Choose Sleeping Pads](https://www.rei.com/learn/expert-advice/sleeping-pads.html#sleeping-pad-warmth) is useful:
 
@@ -95,7 +102,7 @@ The key metric is **R-Value**, which indicates insulation. Unlike sleeping bags,
 
 The lowest temperature I mentioned when introducing sleeping bags above was 40°F. According to this table, an **R-Value** of 2-4 is suitable in that environment.
 
-I personally use warmer pads because I took into account that when using a **Quilt**.
+I personally use warmer pads (with an R-Value of 4 or higher) because I took into account that when using a **Quilt**.
   * My back is in direct contact with the sleeping pad.
   * It is easier to control temprature by putting my arms or legs out of Quilt when it is too warm.
 
@@ -113,7 +120,9 @@ This video will give you idea. It is a bit long, so feel free to skip through it
 
 [![Stove Nesting Video](/assets/img/backpacking/windmaster_nesting.jpg)](https://youtu.be/sDUln6SWgJo)
 
-On [**Backpacking Stoves**](https://www.outdoorgearlab.com/topics/camping-and-hiking/best-backpacking-stove), Jetboil look distinctly different from others. Since deciding whether to choose Jetboil makes selecting the rest easy, I will focus my explanation on it.
+---
+
+In 🔗 [**Backpacking Stoves**](https://www.outdoorgearlab.com/topics/camping-and-hiking/best-backpacking-stove) page, Jetboil products look distinctly different from others. Since deciding whether to choose Jetboil makes selecting the rest easy, I will focus my explanation on it.
 
 ## Jetboil 🔥
 To compare Jetboil with other stoves, we must include the pot that would be used with them, right? So, I compared it with the 850mL pot and stove that I use:
@@ -139,21 +148,23 @@ If neither is an issue, skip Jetboil and pick a standard stove from [**Backpacki
 
 A backpack is the heaviest item, so it should have been introduced first if the list was ordered by weight, but I waited until now because the backpack choice can be influenced by the gear you have selected so far.
 
-If you followed recommended products, a 60L pack should hold everything. I recommend choosing a product from that weighs under 4 lbs from [**Backpacking Backpacks**](https://www.outdoorgearlab.com/topics/camping-and-hiking/best-backpacks-backpacking).
+🔗 [**Backpacking Backpacks**](https://www.outdoorgearlab.com/topics/camping-and-hiking/best-backpacks-backpacking) — If you followed recommended products, a 60L pack should hold everything. I recommend choosing a product that weighs under 4 lbs from this category.
 
-If you picked Ultralight tents and sleeping bags, go to [**Ultralight Backpacks**](https://www.outdoorgearlab.com/topics/camping-and-hiking/best-ultralight-backpack). These packs are smaller, sometimes frameless, and weigh around 2 lbs.
+🔗 [**Ultralight Backpacks**](https://www.outdoorgearlab.com/topics/camping-and-hiking/best-ultralight-backpack) — If you picked Ultralight tents and sleeping bags, choose from this category instead. These packs are smaller, sometimes frameless, and weigh around 2 lbs.
 
 More than other gears, backpacks are a matter of personal preference, so I recommend trying them out before purchasing. Buying from REI, which has an easy refund and exchange policy, is also a good option.
 
 ## Torso Size 📏
 
-Beginners often focus on pack volume (e.g., 55L, 60L). However, volume is fixed by model; within a model, torso sizes vary: Small, Medium, Large.
+Beginners purchasing a backpacking pack often think of volume when talking about size (e.g., 55L, 60L). However, a backpack's volume is fixed by the model; within the same model, it is categorized into Small, Medium, and Large based on the **torso size**.
 
 Backpacks are mainly supported by the hips; shoulders balance the load. You don’t lift with your shoulders. This video helps illustrate:
 
 [![How to Fit a Backpacking Pack](/assets/img/backpacking/backpack.jpg)](https://youtu.be/0SGiGZlppMM)
 
-To maintain that balance, it is crucial to match the backpack's torso size to your body shape. Therefore, if you order online, you must measure it yourself, and if it is your first time, getting help from a store employee is recommended. At REI, an employee will use a tool to measure your torso length while you wear the hip belt.
+To maintain that balance, it is crucial to match the backpack's torso size to your body shape.
+
+If it is your first time, getting help from a store employee is recommended. At REI, an employee will use a tool to measure your torso length while you wear the hip belt.
 
 # What about the rest of the gear?
 
@@ -162,4 +173,6 @@ Now that I have covered the gear that can affect your backpack choice, I will pr
 * [First backpacking trip](https://lighterpack.com/r/vzkn3h)
 * [Currently used gear](https://lighterpack.com/r/rpqtg7)
 
-Of course, if I was satisfied with the initial gear setup, I would have kept using it. I had some regrets, so I started changing items one by one. But the reason I share the old gear too is because I'm not sure if I would have chosen the gear I currently use from the very beginning, even if I could turn back time. That's why I share both.
+Of course, if I was satisfied with the initial gear setup, I would have kept using it. I had some regrets, so I started changing items one by one.
+
+But the reason I also share the old gear too is because I'm not sure if I would have spent more money and chosen the gear I currently use from the very beginning.
