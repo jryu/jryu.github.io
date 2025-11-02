@@ -55,9 +55,3 @@ Compensated for the shortcomings of the ATK recipe, improving both texture and f
 ---
 
 ➕ There are also a few [**recipes with small adjustments**](./recipes/small_adjustments) collected on a separate page.
-
----
-
-> 📬 If you have any questions or feedback, please leave a comment!  
->
-> Writing a comment requires a [GitHub account](https://github.com). *This site runs ad-free,* so thank you for understanding the extra step! 🙏

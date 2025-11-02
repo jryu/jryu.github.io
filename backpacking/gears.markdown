@@ -165,8 +165,3 @@ Now that I have covered the gear that can affect your backpack choice, I will pr
 * [Currently used gear](https://lighterpack.com/r/rpqtg7)
 
 Of course, if I was satisfied with the initial gear setup, I would have kept using it. I had some regrets, so I started changing items one by one. But the reason I share the old gear too is because I'm not sure if I would have chosen the gear I currently use from the very beginning, even if I could turn back time. That's why I share both.
-
----
-> 📬 Questions or feedback? Leave a comment!  
->
-> Commenting requires a [GitHub account](https://github.com). *I run the site ad-free, so thank you for understanding.* 🙏

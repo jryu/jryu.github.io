@@ -87,10 +87,3 @@ locale: ko_KR
 
 🎥 참고 영상도 공유드려요:  
 [![Cranberry Curd Tart](/assets/img/baking/recipes/cranberry-tart-thumbnail.jpg)](https://youtu.be/MNHdyeM4YlY?si=_ROlkeikrQADvPDx)
-
----
-> 💬 궁금한 점이나 후기, 댓글로 남겨주세요.  
->
-> *광고 없이 사이트를 운영하려다보니* 댓글 작성은 [GitHub 계정](https://github.com)이 필요합니다. 번거롭지만 양해 부탁드려요! 🙏
-
----

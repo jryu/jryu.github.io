@@ -130,10 +130,3 @@ locale: ko_KR
 
 마트에서 파는 팬케이크 믹스와는 차원이 다른 맛! 버터밀크를 넣어 구우면 촉촉하면서도 부드러운 식감이 살아나요.  
 * 🔗 [ATK 레시피](https://www.americastestkitchen.com/recipes/4815-best-buttermilk-pancakes)
-
----
-> 📬 궁금한 점이나, 후기 댓글로 남겨주세요!  
->
-> 댓글 작성은 [GitHub 계정](https://github.com)이 필요합니다. *광고 없이 사이트를 운영하고 있어요.* 번거롭지만 양해 부탁드려요! 🙏
-
----

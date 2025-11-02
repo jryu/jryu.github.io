@@ -99,9 +99,3 @@ locale: ko_KR
 
 ![](https://live.staticflickr.com/65535/53808532216_b6d7dc7cef.jpg)
 
----
-> 📬 궁금한 점이나, 후기 댓글로 남겨주세요!  
->
-> 댓글 작성은 [GitHub 계정](https://github.com)이 필요합니다. *광고 없이 사이트를 운영하고 있어요.* 번거롭지만 양해 부탁드려요! 🙏
-
----

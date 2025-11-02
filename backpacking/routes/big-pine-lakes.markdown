@@ -49,11 +49,3 @@ locale: ko_KR
 📍 **Palisade Glacier까지 다녀오는 경로**도 👉 [AllTrails에 따로 만들어 두었습니다](https://www.alltrails.com/explore/custom-routes/palisade-glacier-trail-305ddad).
 
 *언젠가 가고 말꺼야. ~~치토스~~! 😅*
-
-
----
-> 📬 궁금한 점이나, 후기 댓글로 남겨주세요!  
->
-> 댓글 작성은 [GitHub 계정](https://github.com)이 필요합니다. *광고 없이 사이트를 운영하고 있으니* 번거롭지만 양해 부탁드려요! 🙏
-
----
