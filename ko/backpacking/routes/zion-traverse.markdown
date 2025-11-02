@@ -1,7 +1,5 @@
 ---
-layout: default
 title: Zion Traverse
-locale: ko_KR
 ---
 
 40번째 생일을 맞아, 첫 백패킹을 다녀왔습니다. 20대 시절 비록 지리산 종주를 해본적이 있지만 백패킹은 색다른 경험이었습니다.

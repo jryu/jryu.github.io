@@ -1,7 +1,5 @@
 ---
-layout: default
 title: 캠핑 준비물
-locale: ko_KR
 ---
 
 캠핑장에서 필요한 준비물을 소개합니다.

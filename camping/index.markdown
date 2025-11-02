@@ -1,7 +1,5 @@
 ---
-layout: default
 title: ⛺ Camping ⛺
-locale: en_US
 nocomment: true
 ---
 

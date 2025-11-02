@@ -1,7 +1,5 @@
 ---
-layout: default
 title: America's Test Kitchen (ATK)
-locale: ko_KR
 ---
 
 ATK 레시피로 베이킹을 배우기 시작한 것은 제 인생에서 가장 좋은 경험 중 하나였습니다. ATK는 미국에서 유명한 요리 잡지인 [Cook’s Illustrated](https://www.americastestkitchen.com/cooksillustrated)를 출판하고 있으며, 서점이나 도서관의 요리 잡지 코너에서 쉽게 찾아볼 수 있습니다.

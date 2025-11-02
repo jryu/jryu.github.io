@@ -1,7 +1,5 @@
 ---
-layout: default
 title: 타르트팬
-locale: ko_KR
 ---
 ## 타르트팬 (Tart Pan)
 

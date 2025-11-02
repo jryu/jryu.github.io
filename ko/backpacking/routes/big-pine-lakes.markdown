@@ -1,7 +1,5 @@
 ---
-layout: default
 title: Big Pine Lakes
-locale: ko_KR
 ---
 
 **에메랄드빛 호수**로 유명한 Big Pine Lakes는 **[Inyo Wilderness 퍼밋](https://www.recreation.gov/permits/233262)** 중에서 예약 경쟁이 가장 치열합니다. 이곳에 가려면 **Big Pine Creek North Fork**를 예약해야 합니다.

@@ -1,7 +1,5 @@
 ---
-layout: default
 title: 백패킹 코스 (보너스)
-locale: ko_KR
 nocomment: true
 
 ---

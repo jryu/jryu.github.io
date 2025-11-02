@@ -1,7 +1,5 @@
 ---
-layout: default
 title: 스프링폼 팬
-locale: ko_KR
 ---
 
 **스프링폼 팬(Springform Pan)**은 케이크를 뒤집지 않고 틀에서 꺼낼 수 있어서, 모양이 섬세하거나 부서지기 쉬운 케이크를 만들 때 유용합니다.

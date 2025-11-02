@@ -1,7 +1,5 @@
 ---
-layout: default
 title: Backpacking Gears
-locale: en_US
 ---
 
 Here are five of the heaviest items among backpacking gear.

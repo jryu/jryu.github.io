@@ -1,7 +1,5 @@
 ---
-layout: default
 title: 필수 도구
-locale: ko_KR
 ---
 
 베이킹에 꼭 필요한 7가지 기본 도구들을 소개합니다.

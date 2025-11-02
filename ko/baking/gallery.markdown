@@ -1,7 +1,5 @@
 ---
-layout: default
 title: 홈 베이킹 갤러리
-locale: ko_KR
 ---
 
 📸 그동안 자주 만들고 마음에 들었던 레시피들의 사진을 모아 [Flickr 갤러리](https://flickr.com/photos/95940733@N07/albums/)에 정리해두었습니다.

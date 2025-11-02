@@ -47,8 +47,11 @@ defaults:
       path: ""            # root directory
     values:
       lang: "en"
-      base_url: ""
+      base_url: "/"
       site_title: "jryu.net"
+      layout: "default"
+
+  
 
 # Exclude from processing.
 # The following items will not be processed, by default.

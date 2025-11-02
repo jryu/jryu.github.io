@@ -1,7 +1,5 @@
 ---
-layout: default
 title: Narrows Top Down
-locale: ko_KR
 ---
 
 자이언 국립공원의 협곡 바닥을 따라 16마일 이상 이어지는 이 코스는, 물살을 가르며 걷는 독특한 하이킹 경험을 선사합니다.  

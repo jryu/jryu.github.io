@@ -1,7 +1,5 @@
 ---
-layout: default
 title: Half Dome & Clouds Rest
-locale: ko_KR
 ---
 
 요세미티 국립공원 내에서 가장 상징적인 두 곳의 뷰포인트 **Half Dome**과 **Clouds Rest**를 연결하는 백패킹 코스를 소개합니다.

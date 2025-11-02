@@ -1,7 +1,5 @@
 ---
-layout: default
 title: Rae Lakes Loop
-locale: ko_KR
 ---
 
 JMT 완주를 꿈꾸며 이런저런 산행을 시작한 지 2년 만에, 그 여정의 일부를 품고 있는 Rae Lakes Loop를 걷게 되었습니다.

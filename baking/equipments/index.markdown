@@ -1,7 +1,5 @@
 ---
-layout: default
 title: Baking Tools
-locale: en_US
 nocomment: true
 ---
 

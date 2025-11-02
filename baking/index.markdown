@@ -1,7 +1,5 @@
 ---
-layout: default
 title: 🍰 Baking 🍰
-locale: en_US
 nocomment: true
 ---
 

@@ -1,7 +1,5 @@
 ---
-layout: default
 title: 다녀온 백패킹 코스
-locale: ko_KR
 nocomment: true
 
 ---

@@ -1,7 +1,5 @@
 ---
-layout: default
 title: 프랑스 사과 케이크
-locale: ko_KR
 ---
 
 **ATK(America’s Test Kitchen)** 레시피는 늘 신뢰하지만 이 케이크만큼은 **“왜 이렇게 만들었을까?”** 하는 의문이 남는 레시피였습니다.

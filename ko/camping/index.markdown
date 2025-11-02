@@ -1,7 +1,5 @@
 ---
-layout: default
 title: ⛺ 캠핑 ⛺
-locale: ko_KR
 nocomment: true
 ---
 

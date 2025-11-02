@@ -1,7 +1,5 @@
 ---
-layout: default
 title: Home Baking Gallery
-locale: en_US
 ---
 
 📸 I’ve gathered photos of my favorite and most frequently baked recipes in a [Flickr gallery](https://flickr.com/photos/95940733@N07/albums/).

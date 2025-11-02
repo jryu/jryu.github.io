@@ -1,7 +1,5 @@
 ---
-layout: default
 title: Backpacking Routes
-locale: en_US
 nocomment: true
 ---
 

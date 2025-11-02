@@ -1,7 +1,5 @@
 ---
-layout: default
 title: 식빵팬
-locale: ko_KR
 ---
 
 **식빵 팬(Loaf Pan)**을 추가하면 바나나 브레드부터 시작해 다양한 파운드 케이크류까지 도전할 수 있어요.

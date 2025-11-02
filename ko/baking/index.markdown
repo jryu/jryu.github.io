@@ -1,7 +1,5 @@
 ---
-layout: default
 title: 🍰 베이킹 🍰
-locale: ko_KR
 nocomment: true
 ---
 

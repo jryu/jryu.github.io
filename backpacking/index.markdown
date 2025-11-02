@@ -1,7 +1,5 @@
 ---
-layout: default
 title: 🌲 Backpacking 🌲
-locale: ko_KR
 nocomment: true
 ---
 
