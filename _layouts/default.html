@@ -46,6 +46,7 @@
   <main id="content" class="main-content" role="main">
     {{ content }}
 
+    {% unless page.nocomment == true %}
     <hr />
     <blockquote>
     {% if page.lang == "ko" %}
@@ -58,7 +59,6 @@
     </blockquote>
     <hr />
 
-    {% unless page.nocomment == true %}
     <script src="https://giscus.app/client.js" data-repo="jryu/jryu.github.io"
       data-repo-id="MDEwOlJlcG9zaXRvcnk0NDY1OTEwOQ==" data-category="Announcements"
       data-category-id="DIC_kwDOAqlxpc4CjGmG" data-mapping="pathname" data-strict="0" data-reactions-enabled="0"
