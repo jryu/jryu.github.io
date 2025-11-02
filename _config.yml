@@ -33,6 +33,21 @@ plugins:
   - jekyll-feed
   - jekyll-remote-theme
 
+defaults:
+  # Default for Korean pages
+  - scope:
+      path: "ko"          # applies to everything in the 'ko' directory
+    values:
+      lang: "ko"
+      base_url: "/ko"
+
+  # Optional: Default for English pages
+  - scope:
+      path: ""            # root directory
+    values:
+      lang: "en"
+      base_url: ""
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
