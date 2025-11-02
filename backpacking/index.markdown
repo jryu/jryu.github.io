@@ -9,7 +9,7 @@ I’ve compiled practical information based on my own backpacking experiences in
 
 ---
 
-## 🥾 **[Choosing Gear](./gears)**
+## 🥾 **[Choosing Gears](./gears)**
 > A detailed guide to essential backpacking equipment and recommended items, along with a checklist that I personally use.
 
 ---
