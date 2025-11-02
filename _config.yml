@@ -40,6 +40,7 @@ defaults:
     values:
       lang: "ko"
       base_url: "/ko"
+      site_title: "J류.NET"
 
   # Optional: Default for English pages
   - scope:
@@ -47,6 +48,7 @@ defaults:
     values:
       lang: "en"
       base_url: ""
+      site_title: "jryu.net"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
