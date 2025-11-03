@@ -166,6 +166,8 @@ To maintain that balance, it is crucial to match the backpack's torso size to yo
 
 If it is your first time, getting help from a store employee is recommended. At REI, an employee will use a tool to measure your torso length while you wear the hip belt.
 
+---
+
 # What about the rest of the gear?
 
 Now that I have covered the gear that can affect your backpack choice, I will provide a list of everything else I carry in my backpack as a substitute.
