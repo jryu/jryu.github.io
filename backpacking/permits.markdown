@@ -1,122 +1,129 @@
 ---
-layout: default
-title: 백패킹 퍼밋 받기
-locale: ko_KR
+title: Backpacking Permit
 ---
 
-미국에서 대부분의 백패킹 코스는 퍼밋이 필요하고 인원 수 제한이 있어 예약이 중요합니다.
+In the United States, **most backpacking require a permit**, and there are often limits on the number of hikers per day, so booking in advance is crucial.
 
-*"이렇게 하면 됩니다"* 라고 간결하게 정리하고 싶지만, 안타깝게도 지역마다 예약 방법과 규칙이 다릅니다. 따라서 정부 운영 사이트와 민간 사이트를 각각 예로 들어 안내해 드리겠습니다.
+I wish I could summarize it simply as *“Here's how to do it”* but unfortunately, the **reservation methods and rules vary by location**. So, I’ll give examples using both government-operated sites and private sites.
 
-1. [시에라네바다](#1-시에라네바다) (정부 운영 사이트)
-1. [하바수파이](#2-하바수파이) (민간 사이트)
+1. [Sierra Nevada](#1-sierra-nevada) 🏔️ 
+2. [Havasupai](#2-havasupai) 💧
 
-# 1. 시에라네바다
-시에라네바다는 자그마치 3개의 국립공원이 있는 산맥으로, 세계 3대 트레일 중 하나인 존 뮤어 트레일(JMT)을 품고 있습니다.
+---
+
+# 1. Sierra Nevada 🏔️
+
+The Sierra Nevada is a mountain range boasting **three national parks** and includes the John Muir Trail (JMT), one of the world’s three great trails.  
 
 ![Rae Lake](/assets/img/backpacking/rae_lake.jpg)
 
-## 어디서 예약하나요?
+## 🖥️ Where to Make Reservations
 
-예약은 정부 운영 사이트인 [recreation.gov](http://recreation.gov)에서 진행합니다. 사이트 내에서도 지역에 따라 예약 페이지가 나누어지므로, **출발점**이 속한 공원의 예약 페이지에서 예약을 진행합니다. 걷다가 공원의 경계를 넘어가더라도 **출발점** 기준으로 예약해야 합니다.
-* 요세미티: [Yosemite National Park Wilderness Permits](https://www.recreation.gov/permits/445859)
-* 세콰이어 & 킹스캐년: [Sequoia and Kings Canyon National Parks Wilderness Permits](https://www.recreation.gov/permits/445857)
+Reservations are made on the government-operated website [recreation.gov](http://recreation.gov). Within the site, the reservation pages are divided by area, so you should make your reservation on the page for the **park where your starting point is located**. Even if you cross park boundaries while hiking, reservations are based on your starting point.  
 
-국립공원 밖에서 출발하는 경우, 다음 링크에서 예약할 수 있습니다:
-* [Inyo National Forest - Wilderness Permits](https://www.recreation.gov/permits/233262)
+* 🔗 [**Yosemite** National Park Wilderness Permits](https://www.recreation.gov/permits/445859)  
+* 🔗 [**Sequoia and Kings Canyon** National Parks Wilderness Permits](https://www.recreation.gov/permits/445857)  
 
-페이지에 들어가서 우상단의 **Explore Available Permits** 파란 버튼을 누르면 예약을 시작할 수 있습니다.
+If you’re starting outside a national park, you can reserve here:  
+* 🔗 [**Inyo National Forest** - Wilderness Permits](https://www.recreation.gov/permits/233262)  
+
+Click the blue **Explore Available Permits** button at the top right to start your reservation.  
 
 ![Explore Available Permits Button](/assets/img/backpacking/permit_button.jpg)
 
-## 언제 예약하면 되나요?
+## ⏰ When to Make Reservations
 
-하지만, 지금 예약하려고 하면 원하는 날짜의 퍼밋은 이미 다 소진되었거나 예약이 시작되지 않았을 가능성이 높습니다. 언제 예약이 풀리는지 알아보려면 각 공원의 **Overview**부분을 읽어야 합니다. 공원마다 운영 방침이 다르므로, 몇 시에 예약이 시작되는지 꼼꼼히 읽어보세요.
+If you try to reserve now, the permits for your desired dates are likely already gone, or the reservation window hasn’t opened yet. To know when reservations open, read the **Overview** section of each park. Rules differ by park, so check carefully for the exact start time.  
 
-예를 들어 보겠습니다. **Inyo National Forest**는 규칙이 간단합니다. **가고 싶은 날의 6개월 전, 아침 7시**에 예약이 시작됩니다. 하지만 잘 읽지 않으면 지나치기 쉽죠. 아래 화면의 빨간색으로 표시된 부분에 설명되어 있습니다.
+For example, **Inyo National Forest** has simple rules: reservations open **6 months before your desired date at 7 a.m.** It’s easy to miss if you don’t read carefully. It's explained in the red-highlighted section of the screen below.
 
 ![Inyo National Forest Permit open](/assets/img/backpacking/permit_open_1.jpg)
 
-**요세미티**는 좀 복잡합니다. **24주 전에 추첨**으로 예약을 받고, 넉넉하게 1주일 내내 신청을 받기 때문에 알람을 맞추고 기다릴 필요는 없고, 달력에만 표시해 두면 충분합니다. 당첨 여부는 다음 주 월요일에 이메일로 알려주고요.
+**Yosemite** is more complex. Reservations are made via a **lottery 24 weeks in advance**, with applications accepted for an entire week. You don’t need to watch the clock—just mark the date on your calendar. You'll be notified of the lottery results by email the following Monday.  
 
-하지만 추첨에서 떨어졌다고 해서 기회가 없는 것은 아닙니다. 당첨된 사람이 결제를 하지 않거나 정원이 미달된 경우, **남는 퍼밋을** 살 수 있는 시간이 있습니다. 바로 **금요일 오전 9시** 입니다. 이러한 정보는 하단을 자세히 읽어야 알 수 있습니다.
+Even if you lose the lottery, you still have a chance. If winners don’t pay or if the quota isn’t filled, **remaining permits** become available. This happens **Friday at 9 a.m.**. This information can only be found by reading the lower sections closely. 👇
 
 ![Yosemite Permit open](/assets/img/backpacking/permit_open_2.jpg)
 
-금요일에 풀리는 퍼밋이 생각보다 쏠쏠한데, 추첨에 참여해보면 그 이유를 짐작할 수 있습니다. 추첨 신청 시 1순위부터 8순위까지 입력할 수 있는데, 1순위만 입력하든 8개 모두 입력하든 신청하는 시점에서는 비용이 동일합니다. 대인배라면 처음 계획한 것만 입력하겠지만, 저 같은 사람은 갈까 말까 망설여지는 옵션도 채워넣고보죠.
+> 💡 **Many leftover permits are surprisingly available on Fridays**. Here’s why: you can list preferences from 1 to 8 when applying. The cost is the same whether you list just your top choice or all eight.
+> 
+> A person of great integrity might only enter their initial plan, but people like me often fill in options they are even slightly considering.
+> 
+> When one of those lower-priority options is selected, people sometimes abandon the reservation process when they have to answer extra questions and pay the fee corresponding to the group size to finalize the permit. That's likely why these permits become available.
 
-그렇게 채워넣은 낮은 순위의 옵션이 막상 당첨되면, 퍼밋을 내 것으로 만들기 위해 추가 질문에 답하고, 인원 수에 해당하는 비용을 결제하려고 하다가 포기하는 경우도 종종 있습니다. 그래서 이런 퍼밋이 풀리는게 아닐까 싶습니다.
+## 📝 How to Make Reservations
 
-## 어떻게 예약하나요?
-
-위에서 소개한 **Explore Available Permits** 파란 버튼을 클릭하면 몇 가지 질문이 나오는데, 입력을 마치면 예약 가능한 시작점과 날짜를 표로 보여줍니다.
+Clicking the blue **Explore Available Permits** button introduced above will prompt a few questions. After answering them, it displays a table of available trailheads and dates.
 
 ![Permit Overview](/assets/img/backpacking/permit_overview.jpg)
 
-시작점의 이름을 알고 있다면 화면 좌측의 표에서 바로 찾을 수 있고, 아니면 오른쪽 지도에서 출발점을 클릭해서 이름을 확인할 수도 있습니다.
+If you know the trailhead's name, you can find it directly in the table on the left, or you can click on the starting point on the map on the right to confirm its name.
 
 ![Permit Map](/assets/img/backpacking/permit_map.jpg)
 
-등산로 시작점에서 출발하는 날짜를 선택하면 다음 페이지로 넘어갑니다.
+Selecting your start date at the trailhead will take you to the next page.
 
-거기서 몇가지 질문에 답하다보면, 백패킹을 마치는 날짜, **Exit Date**을 입력하게 됩니다. 그걸 입력하고 나면 하루하루 어디에서 잘 것인지 물어봅니다. 첫날은 필수 입력 사항이며, 출발점으로부터 하루만에 도착할 수 있는 곳만 나와서 어렵지 않습니다.
+After answering a few more questions, you'll be asked to enter the **Exit Date** (the day you finish backpacking). Then, you’ll indicate where you plan to camp each night.
+
+The first night is a mandatory entry, and only places reachable within a day from the trailhead are listed, making it easy.
 
 ![Permit Camp Area](/assets/img/backpacking/permit_camp_area.jpg)
 
-둘째 날부터는 시에라네바다의 모든 장소가 나열되기 때문에 조금 번거롭습니다. 필수 입력 사항은 아니고, 이 부분을 비워두거나 엉뚱한 장소를 입력한다고 해서 불이익이 있는지는 확실하지 않습니다. 그러나 나중에 조난 등의 상황이 발생했을 때 도움이 될 수 있으므로, 가능하면 정확한 정보를 입력하는 것이 좋겠죠.
+From the second night onward, all locations in the Sierra Nevada are listed, which can be a bit tedious. Filling in accurate information isn’t mandatory, but it can help in emergencies.  
 
-## 주의사항
+## ⚠️ Important Notes
 
-퍼밋을 예약하는 페이지에서는 퍼밋을 스스로 프린트할 수 있는지, 아니면 지정된 장소에서 픽업해야 하는지를 안내합니다. 정해진 시간 내에 퍼밋을 인쇄하거나 픽업하지 않으면 예약이 취소되니 계획에 참고하세요.
+The permit page will indicate whether you can print your permit yourself or must pick it up at a designated location. **If you don’t print or pick up your permit within the specified time, your reservation may be canceled**.
 
-예를 들어 집에서 인쇄하는 퍼밋이라면 오후에도 산행을 시작할 수 있지만, 픽업 장소에 직접 가야 하는 경우에는 정해진 시간까지 픽업하지 않으면 예약이 취소되고 다른 사람에게 넘어갈 수 있습니다.
+If you can print at home, you can start hiking any time in the afternoon. If you must pick it up in person, failure to pick it up by the designated time may result in cancellation, and the permit could be given to someone else.
 
-# 2. 하바수파이
+---
 
-하바수파이는 많은 이들의 버킷 리스트에 오르는 여행지입니다. 이곳을 가보고 싶어서 백패킹에 입문하는 사람들도 많죠. 푸른 폭포와 붉은 암석의 조화는 독특한 경관으로 유명하며, 그랜드 캐년 경계선과 맞닿아 있습니다. ~~그랜드 캐년의 한 구석에 원주민 보호구역이 알박기 하고 있다고 할 수 있죠.~~
+# 2. Havasupai 💧
+
+Havasupai is a bucket-list destination for many. Some people even start backpacking just to visit here. The combination of turquoise waterfalls and red rocks is famous, and it borders the Grand Canyon.
 
 ![Havasupai](/assets/img/backpacking/havasupai.jpg)
 
-여름철에는 걸어들어가기 너무 덥고, 겨울엔 물에 들어가기 추워서 적절한 날씨의 성수기에 퍼밋 받기가 정말 힘듭니다.
+Summer is too hot to hike in, winter is too cold for swimming, and getting a permit during the ideal season is very difficult.  
 
-## 어디서 예약하나요?
+## 🖥️ Where to Make Reservations
 
-하바수파이의 예약은 [Havasupai Reservations](https://www.havasupaireservations.com/) 웹사이트를 통해 진행합니다. 첫 화면부터 인사말 없이 로그인부터 하라는 다소 황당한 디자인이지만, 공식 홈페이지입니다. 이 사이트에서는 예약에 필요한 최소한의 정보만 제공하며, 더 유용한 소식은 [공식 페이스북 페이지](https://www.facebook.com/HavasupaiTribeTourismOfficial/)에서 자주 업데이트됩니다.
+Reservations are made through the 🔗 [Havasupai Reservations](https://www.havasupaireservations.com/) website. The design is a bit confusing—you must log in first—but it is the official site. This site only provides minimal reservation info. For updates and useful news, check the [official Facebook page](https://www.facebook.com/HavasupaiTribeTourismOfficial/) frequently.  
 
-## 언제 예약하면 되나요?
+## 🗓️ When to Make Reservations
 
-매년 2월 1일 아리조나 현지 시간으로 오전 8시에 1년치 예약이 한 번에 열립니다. 정말 간단하면서도 무식한 방식이죠? 정부에서 운영하는 것이 아니기 때문에 언제든지 변경될 수 있으니 방심하지 말고 정기적으로 확인하는 것이 좋습니다.
+The entire year's worth of reservations are released all at once at **8:00 a.m. Arizona time on February 1**. It’s simple but inflexible. Since it’s not government-operated, the rules can change, so please check every season.  
 
-2024년에는 1월 5~18일 사이에 'Presale'이라는 새로운 시스템을 도입했는데, 이 기간 동안 추가 비용 $15를 지불하면 원하는 날짜를 미리 선택할 기회가 생깁니다. 추첨을 통해 당첨된 사람에게는 일반 예약이 시작되기 전에 퍼밋을 먼저 구매할 수 있는 혜택을 주죠.
+In 2024, they introduced a new 'Presale' system during **Jan 5–18**. For an additional fee of $15, this gave applicants a chance to choose their preferred dates in advance. Those who won the lottery received the benefit of purchasing permits before the general reservation opened.  
 
-"내년까지 못 기다리겠다, 남는 퍼밋이 있으면 내 일정을 조절해서라도 가겠다!"면 다른 사람이 취소하려고 하는 퍼밋을 살 수 있습니다. 아래 화면의 빨간색으로 표시한 **Cancellations / Transfers List** 버튼을 누르면 매일 아침 아리조나 현지 시간으로 오전 8시에 새로운 매물이 업데이트됩니다.
+If you can’t wait until next year and want a permit, you can buy cancellations. Click the red-highlighted **Cancellations / Transfers List** button, and new permits are updated every morning at 8 a.m. Arizona time.  
 
 ![Havasupai Permit Transfer](/assets/img/backpacking/havasupai_transfer.jpg)
 
-저는 가고 싶은 날을 2달 앞두고 2주 동안 매일 알람 맞춰놓고 확인했더니 결국 퍼밋을 구해서 다녀왔습니다.
+Two months before my desired date, I set alarms and checked every morning for 14 days and eventually got a permit from cancellations.
 
-## 어떻게 예약하나요?
+## 📝 How to Make Reservations
 
-이게 예약 버튼입니다.
+Here’s the reservation button:  
 
 ![Havasupai Permit Reservation Button](/assets/img/backpacking/havasupai_reservation.jpg)
 
-예약 버튼을 누르하면 인원수를 물어봅니다. 입력하고 나면 예약 가능한 날짜가 표시된 달력이 나오지요.
+Click it, enter the number of people, and a calendar shows available dates.  
 
 ![Havasupai Permit Reservation Button](/assets/img/backpacking/havasupai_calendar.jpg)
 
-숫자가 보이지 않는 날은 예약이 불가능한 날입니다. ~~얼핏 보면 페이지의 오류인것 같아보입니다. 빈칸으로 처리하거나 흐리게라도 숫자를 보여줄법 한데 말이죠~~
+Dates without a number are unavailable. (At a glance, it looks like a page error. Numbers are hidden instead of grayed out! 🤦)
 
-고약한건, 퍼밋의 기간이 무조건 3박 4일로 고정되어 있고, 4일이 연달아 비어있지 않는 날은 선택이 불가능합니다. 예를 들어 이렇게 띄엄띄엄 비어있는 날을 선택하면, 중간에 비어 있는 날 때문에 예약이 안됩니다.
+Permits are **fixed at 3 nights, 4 days**, and you can only book four consecutive days. If days aren’t consecutive, you can’t reserve.  
 
 ![Havasupai Permit Reservation Button](/assets/img/backpacking/havasupai_not_available.jpg)
 
-4일이 연달아 비어있는 날을 선택하고 나면 페이지 하단에 **Continue** 버튼이 생기고요, 그걸 누르고 나서 예약을 마무리 할 수 있습니다.
+Once you select a date with four consecutive days available, a **Continue** button appears at the bottom of the page, allowing you to finalize the reservation.
 
 ![Havasupai Permit Reservation Button](/assets/img/backpacking/havasupai_available.jpg)
 
-## 주의사항
+## ⚠️ Important Notes
 
-* 회원 가입 시 개인정보와 결제 정보를 미리 입력해두는 것이 좋습니다. 이렇게 하면 나중에 예약할 때 입력 시간을 줄일 수 있습니다.
-
-* 퍼밋은 가격이 비싸고 환불이 불가능합니다. 환불을 원할 경우 다른 사람에게 퍼밋을 판매해야 하는데, 내가 취소하려고 내놓은 퍼밋을 사가는 사람이 없으면 환불이 되지 않습니다. 또한, 판매가 이루어졌다고 해서 전액을 돌려주는 것도 아니며, 상당한 수수료가 공제된 후에 반환됩니다. 따라서 신속하게 결제하되, 신중하게 결정하세요.
+* It’s best to register an account and enter personal/payment info in advance. This will save time during the reservation process later.  
+* Permits are expensive and non-refundable. If you cancel, you must sell it to someone else. If nobody buys it, no refund is given. Even if sold, a significant fee is deducted.
