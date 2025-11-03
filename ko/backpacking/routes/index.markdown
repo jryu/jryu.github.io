@@ -10,7 +10,7 @@ nocomment: true
 
 ---
 
-### ▶ [Rae Lakes Loop](./rae-lakes-loop)
+### 🔗 [**Rae Lakes Loop** →](./rae-lakes-loop)
 
 [![](https://live.staticflickr.com/65535/54833896234_8bf90c7866_n.jpg)](./rae-lakes-loop)
 
@@ -22,7 +22,7 @@ nocomment: true
 
 ---
 
-### ▶ [Half Dome & Clouds Rest](./half-dome-clouds-rest)
+### 🔗 [**Half Dome & Clouds Rest** →](./half-dome-clouds-rest)
 
 [![](https://live.staticflickr.com/65535/54833943999_4e23799324_n.jpg)](./half-dome-clouds-rest)
 
@@ -34,7 +34,7 @@ nocomment: true
 
 ---
 
-### ▶ [Big Pine Lakes](./big-pine-lakes)
+### 🔗 [**Big Pine Lakes** →](./big-pine-lakes)
 
 [![Big Pine Lakes 전경](https://live.staticflickr.com/65535/54842642085_21ace20c93_n.jpg)](./big-pine-lakes)
 
@@ -52,7 +52,7 @@ nocomment: true
 
 ## 🏜️ 유타 (Utah)
 
-### ▶ [The Narrows (Top Down)](./narrows-top-down)
+### 🔗 [**The Narrows - Top Down** →](./narrows-top-down)
 
 [![](https://live.staticflickr.com/65535/54835704485_4afcbae6bf_n.jpg)](./narrows-top-down)
 
@@ -64,7 +64,7 @@ nocomment: true
 
 ---
 
-### ▶ [Zion Traverse](./zion-traverse)
+### 🔗 [**Zion Traverse** →](./zion-traverse)
 
 [![](https://live.staticflickr.com/65535/54843512162_c2785b9bd5_n.jpg)](./zion-traverse)
 
@@ -78,7 +78,7 @@ nocomment: true
 
 ## 🌵 아리조나 (Arizona)
 
-### ▶ [Havasupai](./havasupai)
+### 🔗 [**Havasupai** →](./havasupai)
 
 [![](https://live.staticflickr.com/65535/54835620394_223c240a8d_n.jpg)](./havasupai)
 
@@ -92,7 +92,7 @@ nocomment: true
 
 ## ⛰️ 콜로라도 (Colorado)
 
-### ▶ [Four Pass Loop](./four-pass-loop)
+### 🔗 [**Four Pass Loop** →](./four-pass-loop)
 
 [![](https://live.staticflickr.com/65535/54850088627_ac8fd68f3e_n.jpg)](./four-pass-loop)
 

@@ -9,7 +9,7 @@ Here’s a collection of backpacking routes I’ve personally completed. Click o
 
 ---
 
-### ▶ [Rae Lakes Loop](./rae-lakes-loop)
+### 🔗 [**Rae Lakes Loop** →](./rae-lakes-loop)
 
 [![](https://live.staticflickr.com/65535/54833896234_8bf90c7866_n.jpg)](./rae-lakes-loop)
 
@@ -21,7 +21,7 @@ One of the most beloved trails in the Sierra Nevada, a route where you can enjoy
 
 ---
 
-### ▶ [Half Dome & Clouds Rest](./half-dome-clouds-rest)
+### 🔗 [**Half Dome & Clouds Rest** →](./half-dome-clouds-rest)
 
 [![](https://live.staticflickr.com/65535/54833943999_4e23799324_n.jpg)](./half-dome-clouds-rest)
 
@@ -33,7 +33,7 @@ A route that connects Yosemite's two iconic peaks, Half Dome and Clouds Rest, ov
 
 ---
 
-### ▶ [Big Pine Lakes](./big-pine-lakes)
+### 🔗 [**Big Pine Lakes** →](./big-pine-lakes)
 
 [![Big Pine Lakes View](https://live.staticflickr.com/65535/54842642085_21ace20c93_n.jpg)](./big-pine-lakes)
 
@@ -51,7 +51,7 @@ Famous for its emerald-green lakes, this is the most fiercely competitive spot f
 
 ## 🏜️ Utah
 
-### ▶ [The Narrows (Top Down)](./narrows-top-down)
+### 🔗 [**The Narrows - Top Down** →](./narrows-top-down)
 
 [![](https://live.staticflickr.com/65535/54835704485_4afcbae6bf_n.jpg)](./narrows-top-down)
 
@@ -63,7 +63,7 @@ An unreal journey walking through the river that runs across Zion Canyon. A quie
 
 ---
 
-### ▶ [Zion Traverse](./zion-traverse)
+### 🔗 [**Zion Traverse** →](./zion-traverse)
 
 [![](https://live.staticflickr.com/65535/54843512162_c2785b9bd5_n.jpg)](./zion-traverse)
 
@@ -77,7 +77,7 @@ A dramatic backpacking route that traverses Zion National Park, passing over rid
 
 ## 🌵 Arizona
 
-### ▶ [Havasupai](./havasupai)
+### 🔗 [**Havasupai** →](./havasupai)
 
 [![](https://live.staticflickr.com/65535/54835620394_223c240a8d_n.jpg)](./havasupai)
 
@@ -91,7 +91,7 @@ An exotic landscape created by red canyons and emerald-green waterfalls. A place
 
 ## ⛰️ Colorado
 
-### ▶ [Four Pass Loop](./four-pass-loop)
+### 🔗 [**Four Pass Loop** →](./four-pass-loop)
 
 [![](https://live.staticflickr.com/65535/54850088627_ac8fd68f3e_n.jpg)](./four-pass-loop)
 
