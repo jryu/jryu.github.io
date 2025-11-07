@@ -1,32 +1,29 @@
 ---
-layout: default
-title: 백패킹 코스 (보너스)
-locale: ko_KR
+title: Backpacking Routes (Honorable Mention)
 nocomment: true
-
 ---
 
-스크롤 압박으로 첫 페이지에 누락되었으나 다녀오고 좋았던 백패킹 코스를 소개합니다.
+These are some backpacking routes that didn’t fit on the first page due to space — but were absolutely worth the trip! ✨
 
-## ☀️ 캘리포니아 (California)
+## ☀️ California
 
 ---
 
 ### Kearsarge Pass & Lakes
-* **↔️ 거리:** 15.4 mi
-* **📈 누적 상승고도:** 3,953 ft
-* **🔼 최고 고도:** 11,710 ft
+* **↔️ Distance:** 15.4 mi  
+* **📈 Elevation Gain:** 3,953 ft  
+* **🔼 Highest Elevation:** 11,710 ft  
 
 ---
 
 ### Duck Pass and Pika Lake
-* **↔️ 거리:** 10.1 mi
-* **📈 누적 상승고도:** 2,148 ft
-* **🔼 최고 고도:** 10,814 ft
+* **↔️ Distance:** 10.1 mi  
+* **📈 Elevation Gain:** 2,148 ft  
+* **🔼 Highest Elevation:** 10,814 ft  
 
 ---
 
 ### San Gorgonio
-* **↔️ 거리:** 19 mi
-* **📈 누적 상승고도:** 4,704 ft
-* **🔼 최고 고도:** 11,503 ft
+* **↔️ Distance:** 19 mi  
+* **📈 Elevation Gain:** 4,704 ft  
+* **🔼 Highest Elevation:** 11,503 ft  
