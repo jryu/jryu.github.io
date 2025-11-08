@@ -1,46 +1,43 @@
 ---
-layout: default
 title: Zion Traverse
-locale: ko_KR
 ---
 
-40번째 생일을 맞아, 첫 백패킹을 다녀왔습니다. 20대 시절 비록 지리산 종주를 해본적이 있지만 백패킹은 색다른 경험이었습니다.
+🎂 For my **40th birthday**, I went on my very first **backpacking trip**.
 
 ![](https://live.staticflickr.com/65535/54843512162_c2785b9bd5.jpg)
 
-제 나이도 그때보다 1.5배, 총 거리도 1.5배, 물이 귀해서 한번에 2리터를 들고가야 하는 구간도 있고 해서 느껴지는 피로는 거의 **두 배**에 가까웠죠.
-
-혼자였다면 엄두도 못냈을텐데, 한국 지사 시절부터 인연이 있었던 분들의 배려와 경험 덕분에 많은 도움을 받고 완주할 수 있었습니다.
+If I were to do it by myself, I probably wouldn’t have dared to try it, but thanks to the kindness and experience of friends I’ve known since my time at the Seoul office,  I received a lot of help and was able to finish the whole trail.
 
 ---
 
-## 가장 기억에 남는 순간
+## Most Memorable Moment
 
 ![](https://live.staticflickr.com/65535/54843504582_ea158b906f.jpg)
 
-가장 깊이 남는 순간은 **해발 2,200미터 능선의 캠핑장**이었습니다. 일몰과 일출을 모두 볼 수 있는 자리에서 참치 김치 라면 한 그릇과 함께 하늘을 바라본 그 시간은, 지치고 힘든 하루를 충분히 보상해주는 선물 같은 시간이었습니다.
+The moment that left the deepest impression was at the **campsite on the West Rim** ⛺️ where you can watch both the **sunset** and **sunrise**.
+
+Eating a bowl of **tuna kimchi ramen 🍜** was like a gift that fully rewarded the tiring and difficult day.
 
 ---
 
-## 코스 정보 & 링크
+## Route Info & Links
 
-제가 걸은 **Zion Traverse** 경로는 [AllTrails 지도](https://www.alltrails.com/explore/map/zion-traverse-lee-pass-to-east-rim-trailhead-2b515e2)에서 보실 수 있습니다.
+The Zion Traverse route I walked can be seen on the [AllTrails](https://www.alltrails.com/explore/map/zion-traverse-lee-pass-to-east-rim-trailhead-2b515e2).
 
-가장 인상적인 캠핑장이 있는 능선만 목표로 한다면, 이 코스를 **거꾸로 걸으며 1박 2일만** 다녀와도 충분할 것 같습니다.
+If your goal is only the ridge with the most impressive campsite, it might be enough to do this course **in reverse as a 2-day, 1-night** ⏱️
 
-> 이 구간이 전 구간을 걸을 만한 가치가 있는지 고민된다면, 아래 영상을 참고해 보세요.
+> 🤔 If you’re wondering whether the full traverse is worth it, check out the video below.
 >
-> 영상의 **초반 1/3**은 2박 일정, **후반 2/3**는 마지막 1박 일정을 담고 있습니다.
-
+> The **initial 1/3** of the video covers a 2-night itinerary, and the **latter 2/3** covers the final 1-night itinerary (West Rim).
 
 [![](/assets/img/backpacking/routes/zion-traverse-video.jpg)](https://youtu.be/9LLaaWLyrxs)
 
 ---
 
-## 마무리
+## Closing Thoughts
 
-당일치기 하이킹이 영화 한 편이라면, 백패킹은 **한 편의 드라마를 정주행하는 경험**과 같았습니다.
+If a **day hike** is like watching a **movie 🎥**, then **backpacking** is like **binge-watching a season of a drama 📺**.
 
-영화였다면 편집됐을 장면들이, 백패킹에서는 **걷고, 먹고, 자는 모든 일상이 스토리**가 됩니다.
+The scenes that would have been edited out in a movie — the walking, eating, and sleeping — all become **part of the story** in backpacking.
 
-수많은 낯선 사람들과 빽빽하게 앉아 관람하는 극장이 아니라, 편한 사람들과 함께 즐기는 드라마처럼, 백패킹은 **완전히 다른 장르의 여행**이었습니다.
+Unlike a crowded theater where you sit among countless strangers, backpacking was a completely different genre of travel, like **enjoying a drama with comfortable companions**.
