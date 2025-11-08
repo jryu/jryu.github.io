@@ -1,64 +1,62 @@
 ---
-layout: default
 title: Narrows Top Down
-locale: ko_KR
 ---
 
-자이언 국립공원의 협곡 바닥을 따라 16마일 이상 이어지는 이 코스는, 물살을 가르며 걷는 독특한 하이킹 경험을 선사합니다.  
-절벽 사이로 좁게 틈을 낸 강은 하루 12팀에게만 허락된 고요한 풍경 속에서, 깊은 몰입감을 안겨줍니다.
+**The Narrows (Top-Down)** is a 16-mile journey along the canyon floor of Zion National Park — a truly unique hike where you walk *through* the river itself.  
 
-![Narrows 사진](https://live.staticflickr.com/65535/54835704485_4afcbae6bf_z.jpg)
+The river, narrowly carving a path between the towering cliffs, provides a deep sense of immersion in a quiet landscape granted to only **12 groups per day**.
 
-강수량이 적은 해여서 혹시 밋밋하지 않을까 걱정했지만, 괜한 우려였습니다. 첫날 캠핑장(약 10마일 지점)에 도착해 텐트를 치다 몸을 일으킬 때마다 어지러움을 느꼈는데, 몇 년 전 **Rae Lakes Loop**의 **Glen Pass**를 넘었을 때와 비슷한 증상이었습니다.
+![Narrows photo](https://live.staticflickr.com/65535/54835704485_4afcbae6bf_z.jpg)
 
-평평한 길이 아닌 둥근 바위 위를 물살에 저항하며 걷다 보니, 그 피로가 누적된 듯했습니다. 이보다 물이 더 많았더라면 뻗어버렸겠다는 생각도 들었습니다.
+Because it had been a dry year, I worried the river might feel underwhelming — but that concern quickly vanished.
+
+By the time I reached the campsite about 10 miles in and started pitching my tent, I felt dizzy every time I stood up. It reminded me of how I’d felt years ago after crossing **Glen Pass** on the **Rae Lakes Loop**.
+
+Walking through the current over rounded, slippery rocks — instead of on flat ground — had clearly taken its toll. I even thought that if the water had been any deeper, I might not have made it. 💦
 
 ---
 
-## 하루 12팀 에게만 허락되는 고요함
+## An Immersion in Solitude: Only 12 Groups a Day
 
-이 코스는 하루에 단 **12개 그룹만 퍼밋**을 받을 수 있고, 모든 팀이 **Top-Down 방향**으로만 이동하도록 되어 있습니다.  
-그 결과 하루 종일 마주친 팀은 두 팀뿐이었고, 협곡 전체가 조용하고 평화롭게 느껴졌습니다.
+Only **12 groups per day** are granted permits for this route, and everyone must hike **Top-Down**. As a result, I met just two other groups all day — the canyon felt peaceful and almost entirely my own.
 
-특히 **4번 캠핑장** 앞 너른 바위 위에서 보낸 저녁 시간은 잊기 힘든 기억입니다. 모기도 없었고, 밤새 춥지도 않아 별을 보며 눕기 딱 좋은 날씨였습니다. 캠핑의 모든 요소가 이상적이었죠.
+The evening I spent on the broad rock in front of **Campsite #4** is a memory I’ll never forget. No mosquitoes, no chill — just perfect weather for lying back and stargazing. Every element of that night felt ideal.
 
-> 이 영상의 중간쯤을 보시면, 캠핑장을 둘러볼 수 있는 간접 경험을 하실 수 있습니다.
+> 🎥 Midway through this video, you can get a glimpse of what the campsite looks like.
 
 [![](/assets/img/backpacking/routes/narrows-video.jpg)](https://youtu.be/V4GQIgE39FI)
 
 ---
 
-## 현실적인 고려 사항
+## Practical Considerations
 
-다만 일반적인 백패킹과는 다른, 사전에 꼭 알아두어야 할 점이 두 가지 있습니다.
+However, there are two key differences from typical backpacking that you must know in advance:
 
-- **식수**  
-  제가 첫 백패킹을 했던 2021년부터 이미 이 강물은 **유독성 남조류**로 오염되어 있어 **정수를 해도 마실 수 없는 물**이었습니다. 저는 **4.5L**를 준비해 갔고, 아침 식사 후엔 약 500ml만 남았습니다.  
+- **💧 Drinking Water**  
+  Since my first Zion visit, the river water has been contaminated with **toxic cyanobacteria (blue-green algae)**, so **the water is unsafe to drink even after filtering**. I carried **4.5 L**, and after breakfast the next morning, only about 500 mL remained.  
 
-  > 다행히 **11.5마일 지점의 Big Springs**에서는 안전하게 물을 리필할 수 있으나 보통 둘째날 아침에 그곳을 지납니다.
+  > ✅ Fortunately, you can safely refill at **Big Springs (mile 11.5)**, though most hikers reach it on the second morning.
 
-- **인분 처리**  
-  협곡 내에서는 **배설물을 포장해 나가야**합니다. 소변은 물에다 보라고 하더라구요. 관련 키트는 미리 구입할 수도 있고, 퍼밋 수령 시 현장에서 구매도 가능합니다.
-
----
-
-## 퍼밋 팁 및 캠핑장 정보
-
-- **홀수 번호 캠핑장**: 온라인 예약 가능  
-- **짝수 번호 캠핑장**: 현장 방문 수령만 가능  
-
-저는 온라인으로 미리 홀수 번호 퍼밋을 예약했고, **하이킹 전날 오후 3시**에 퍼밋을 수령하러 갔을 때 현장용 짝수 번호는 아무도 가져가지 않은 상태였습니다. 7월 성수기였는데도 말이죠.
-
-> 직원에게 확인한 바에 따르면, 여러 명이 이용 가능한 사이트도 **하나의 팀에게 독점 제공**된다고 합니다.
+- **🚽 Waste Disposal**  
+  You must **pack out all human waste** from the canyon. Urination, however, is permitted directly into the river. Waste-carry kits can be purchased in advance or at the permit office when you pick up your pass.
 
 ---
 
-## 마무리
+## ⛺ Permit Tips & Campsite Info
 
-내리막이라 얼마나 힘들겠나 싶었는데, 웬만한 오르막보다 더 힘들었습니다.
+- **Odd-numbered campsites** → available for online reservation  
+- **Even-numbered campsites** → issued only in person on the day of pickup  
 
-하지만 물가를 따라 걷는 것이 아닌, **물 한가운데를 가로지르며 협곡 사이를 걷는 경험**은 어디서도 쉽게 만날 수 없는 특별한 시간이었습니다.
+I reserved an odd-numbered site online and went to pick up my permit at **3 p.m. the day before the hike**. Surprisingly, none of the even-numbered sites had been claimed yet. This was even during the peak season in July ☀️
 
-어디를 가든 사진이나 영상은 실제 풍경을 따라가지 못하지만, 이곳은 특히 그 차이가 큽니다. 협곡 특성상 햇빛이 잘 들지 않아 카메라로는 질감도, 깊이도 제대로 담기지 않거든요.
+> According to the staff, even campsites that can accommodate more people are **assigned exclusively to a single group**. 👍
 
-직접 걸어보셔야 압도적인 그 감각을 이해하실 수 있습니다. **괜히 버킷리스트라고 불리는 게 아니라고, 저도 전적으로 동의**합니다.
+---
+
+## Final Thoughts
+
+I thought the downhill nature would make it easy, but it was harder than a regular uphill climb. However, the experience of **walking through the middle of the water and between the canyons** is unlike anything else. 
+
+Photos and videos never capture the reality of the scenery anywhere you go, but the difference is particularly stark here. Due to the canyon's nature, sunlight doesn't penetrate well, so the camera cannot properly capture the texture or the depth. 
+
+You truly have to walk it yourself to feel that overwhelming sense of awe. **I wholeheartedly agree that it's called a bucket list trip for a reason.**

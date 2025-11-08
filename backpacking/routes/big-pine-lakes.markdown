@@ -22,7 +22,7 @@ I was truly thrilled to pitch my tent in a spot right overlooking the lake.
 
 ---
 
-## Experiencing Altitude Sickness for the First Time 🏔️
+## 🏔️ Experiencing Altitude Sickness for the First Time
 
 I thought I was used to hiking above 3,000 m on day trips, but spending **a full night at altitude** was a completely different experience.
 
@@ -30,7 +30,7 @@ In the middle of the night, I suddenly woke up with nausea and shortness of brea
 
 ---
 
-## What I'd Like to Do Next Time ✨
+## ✨ What I'd Like to Do Next Time
 
 Due to time and energy limits, I couldn’t make it all the way to the glacier this time — and that remains my biggest regret 🥲.
 
@@ -39,7 +39,7 @@ When I return, I’d like to:
 * Spend a night first at the **[Big Pine Creek Campground](https://www.recreation.gov/camping/campgrounds/232305)** right by the trailhead to acclimate to the altitude.
 * Take a **two-night trip** along the trail so I can hike to the **Palisade Glacier** at a relaxed pace.
 
-You can view the trail I hiked on **[Big Pine Lakes Trail – AllTrails](https://www.alltrails.com/trail/us/california/big-pine-lakes-trail)** 🗺️
+You can view the trail I hiked on **[Big Pine Lakes Trail – AllTrails](https://www.alltrails.com/trail/us/california/big-pine-lakes-trail)**
 
 ---
 
