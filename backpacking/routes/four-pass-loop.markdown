@@ -97,7 +97,7 @@ The trail itself is lined with colorful trees, making the whole hike delightful.
 
 ---
 
-## 🎒 Final Thoughts
+## Final Thoughts
 
 The fall colors were breathtaking, but after seeing **photos of this area in spring and summer**, it almost feels like an entirely different world.
 
