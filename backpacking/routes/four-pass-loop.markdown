@@ -1,105 +1,104 @@
 ---
-layout: default
 title: Four Pass Loop
-locale: ko_KR
 ---
 
-콜로라도 백패킹 코스 중 단풍 경관으로 가장 손꼽히는 Four Pass Loop. 12,000피트가 넘는 고개 4개를 지납니다.
+The Four Pass Loop is one of the most highly-regarded backpacking courses in Colorado for its 🍁 **autumn foliage views**. The trail crosses **four mountain passes**, each over 12,000 feet high.
 
 ![](https://live.staticflickr.com/65535/54850088627_ac8fd68f3e_z.jpg)
 
-3박 4일짜리 백패킹은 이번이 세 번째였습니다. 그동안 다녀온 코스들과 비교해 **누적 상승 고도(elevation gain)**는 비슷한데, **전체 거리는 훨씬 짧아서** 이번엔 좀 여유롭게 다닐 수 있겠거니 했죠.
+This was my **third 4-day backpacking trip**. Compared to other routes I’ve done, the **total elevation gain** was similar — but since the **overall distance was much shorter**, I thought this hike would feel more relaxed.
 
-하지만 생각이 짧았습니다. **거리가 짧다는건 경사가 더 가파르다는** 거고, 전반적으로 **고도가 더 높다 보니** 지금까지 다녀본 중에 고산병으로 가장 많이 고생했던 곳입니다.
+But that was wishful thinking. A **shorter distance means steeper climbs**, and since the **overall altitude is higher**, this was the trip where I suffered the most from altitude sickness among all the hikes I've been on.
 
-> 고산병 징징은 뒤에 계속하고, 좋았던 이야기 먼저 나눠볼게요.
+> I’ll save the altitude sickness whining for later, but first, let me share the good stories.
 
 ---
 
-## 🍁 단풍 타이밍이 완벽했던 산행
+## 🍁 Perfect Timing for Fall Colors
 
-**벚꽃 만큼이나 단풍도 타이밍 맞추기 어려운데** 이번 산행을 준비해주신 분 덕분에 타이밍이 완벽했습니다.
+Just like cherry blossoms, **catching peak autumn foliage** is all about timing — and thanks to the person who planned this trip, our timing was absolutely perfect.
 
-- 첫날엔 **70~80% 정도 물든 상태**였고,
-- 3박 4일 산행 마지막 날에는 **절정**을 찍었습니다.
+- On the first day, the colors were about **70–80% turned**,  
+- and by the final day of our 4-day hike, the foliage was at **its peak**.
 
 ![](https://live.staticflickr.com/65535/54850956091_8f29939d0b_z.jpg)
 
-그중에서도 **Snowmass Lake**의 풍경이 가장 인상적이었습니다. 호수의 푸른 물빛과 단풍의 색감이 어우러져 정말 환상적이었어요.
+The scenery at **Snowmass Lake** was especially breathtaking — the deep blue water and the golden leaves created a magical combination.
 
 ![](https://live.staticflickr.com/65535/54851212043_d471a5edaf_z.jpg)
 
-캘리포니아에서 보기 힘든 색감입니다. 이 호수는 등산로 입구에서 8마일 이상 걸어올라가야 만나볼 수 있는 곳이라, 백패킹으로 방문한 보람이 있었습니다
+These colors are hard to find in California. This lake is **over 8 miles up from the trailhead**, so visiting it on a backpacking trip was well worth the effort.
 
-> 📷 [360도 사진으로 둘러보기](https://maps.app.goo.gl/oxo6YVCrxS5WprnR8)
+> 📷 [Take a 360-degree tour](https://maps.app.goo.gl/oxo6YVCrxS5WprnR8)
 
 ---
 
-## 🥵 고산병은 역시 만만치 않았다
+## 🥵 Altitude Sickness Was No Joke
 
-첫 번째 패스에서는 아무 문제 없었습니다. “어? 오늘 컨디션 괜찮은데?” 하며 가뿐하게 넘겼죠.  
+I had no issues at the **first pass**. “Hey, I’m feeling great today!” I thought as I crossed it easily.  
 
 ![](https://live.staticflickr.com/65535/54851196854_dfc918404d_z.jpg)
 
-하지만 **두 번째와 세 번째 패스에서 고산병 증상**이 시작됐습니다. 입맛이 없어 식사도 못 하고, 사탕만 간신히 빨아 먹었죠.
+But by the **second and third passes**, symptoms of altitude sickness started to hit. I lost my appetite and couldn’t eat, barely managing to suck on a piece of candy.
 
-재미있는 건, 네 개의 패스 모두 해발 12,000피트 대라서 **고도 자체는 비슷한데**, 첫 번째 패스에서는 멀쩡했던것으로 보아 **고산병은 단순히 고도만의 문제가 아니라, 체력과 피로의 누적**의 영향도 받는다는걸 알았습니다.
+Interestingly, since **all four passes are around 12,000 feet** above sea level, the altitude itself is similar. The fact that I was fine on the first pass shows that **altitude sickness is not just an altitude**. It is also **affected by accumulated fatigue and physical condition**.
 
 ![](https://live.staticflickr.com/65535/54851212323_e34ac73c9d_z.jpg)
 
-다행히 **마지막 패스를 넘을 땐 어느 정도 고도에 적응된 상태**였는지 여유도 생겨서 위와 같이 멋진 사진도 찍을 수 있었습니다.
+Thankfully, by the **final pass**, I seemed to have somewhat acclimated to the altitude, giving me enough composure to take beautiful photos like the one above.
 
 ---
 
-## 👥 함께 걷는 이들이 있어 가능했던 여정
+## 👥 A Journey Made Possible by Companionship
 
-이번 산행에는 총 8명이 함께했고, 1군과 2군으로 나뉘어 각자 속도에 맞춰 걸었습니다.
+There were **eight of us** on this trip. We split into two groups — one faster and one slower — and each hiked at our own pace.
 
-저는 2군, 그리고 영상을 만드신 분은 1군에 계셔서 영상에 제 모습은 첫날과 마지막날에만 잠깐 등장합니다.
+I was in the second group, while the person who filmed the video was in the first, so I only appear briefly on the first and last days.
 
 [![](/assets/img/backpacking/routes/four-pass-loop-video.jpg)](https://youtu.be/kTcy8CF-PNY)
 
-*📹 제작자 분의 허락을 받아, 제가 다녀온 코스 중심으로 영상을 편집했습니다. 저의 평소 영상 퀄리티와는 비교가 안 될 만큼 고퀄입니다.*
+*📹 With the creator’s permission, I edited the video to focus on the sections I hiked. The quality is far beyond anything I could usually produce — it’s truly top-notch.*
 
 ---
 
-## 📌 단풍의 하이라이트를 즐기는 당일치기 추천 코스
+## 📌 Recommended Day Hikes to Enjoy Peak Fall Colors
 
-우리가 걸은 **25마일 루프 전체를** 다 돌기는 어렵더라도, **단풍이 가장 아름다운 구간**은 **당일치기로도 충분히** 다녀올 수 있습니다.
+Even if hiking the **entire 25-mile loop** sounds daunting, the **most scenic fall foliage sections** can easily be enjoyed **as day hikes**.
 
-### 1) Maroon Lake 주변 산책
+### 1) Stroll Around Maroon Lake
 
-📍 등산로 입구 바로 앞에 있는데, ~~인정하기 싫지만~~ 3박4일동안 걸어간 그 어디보다 더 멋있었습니다.
+📍 Located right at the trailhead — and though I hate to admit it — this area was **even more stunning than any place we saw during the 4-day trek**.
 
 ![](https://live.staticflickr.com/65535/54851034526_7eb2d77078_z.jpg)
 
-- 📷 [360도 사진 보기](https://maps.app.goo.gl/XJd5QEtqZRzb1vtv9)  
-- 🗺 [Alltrails - Maroon Bells Scenic Loop Trail](https://www.alltrails.com/trail/us/colorado/maroon-bells-scenic-loop-trail)
+- 📷 [View 360° photo](https://maps.app.goo.gl/XJd5QEtqZRzb1vtv9)  
+- 🗺 [AllTrails – Maroon Bells Scenic Loop Trail](https://www.alltrails.com/trail/us/colorado/maroon-bells-scenic-loop-trail)
 
-### 2) Crater Lake를 내려다보는 전망지점
+### 2) Overlook with a View of Crater Lake
 
-Maroon Lake에서 **1.5마일만 더 걸어 올라가면** 단풍나무 숲을 내려다볼 수 있는 **트인 전망 지점**이 나옵니다.  
+From Maroon Lake, **hike just 1.5 miles further** to reach a **wide-open viewpoint** where you can look down on the aspen forest.
 
-> Crater Lake를 향해 가다가 호수로 내려가는 갈림길이 나오면 내려가지 말고 조금만 더 올라가세요.
+> As you head toward Crater Lake, skip the junction that descends to the lake and continue a bit higher — that’s where the best view is.
 
-- 📷 [180도 사진 보기](https://photos.app.goo.gl/hNJ5G2uwqUXHLXsu7)
-- 📍 [구글 지도의 위치](https://goo.gl/maps/UojMMwjeLNwT1NwD9)를 표시했습니다.
+- 📷 [View 180° photo](https://photos.app.goo.gl/hNJ5G2uwqUXHLXsu7)  
+- 📍 [View location on Google Maps](https://goo.gl/maps/UojMMwjeLNwT1NwD9)
 
-가는 길도 단풍길이라 즐기며 걸을 수 있어요.
+The trail itself is lined with colorful trees, making the whole hike delightful.
 
 ![](https://live.staticflickr.com/65535/54851212313_eb5da6898b_z.jpg)
 
 ![](https://live.staticflickr.com/65535/54851212203_b29b85ea5c_z.jpg)
 
-> 🚗 등산로 입구 접근을 위해선 [셔틀 또는 주차 예약](https://aspenchamber.org/plan-trip/trip-highlights/maroon-bells/reservations)이 필수입니다.  
-
-> 🍂 **단풍 시기:** 9월 마지막 주 ~ 10월 첫째 주  
-> → 유튜브에서 “Colorado fall colors forecast”로 검색하고, 최근 한 달 필터를 켜면 뉴스 영상이 나옵니다.
+> 🚗 To access the trailhead, a [shuttle or parking reservation](https://aspenchamber.org/plan-trip/trip-highlights/maroon-bells/reservations) is required.  
+>
+> 🍂 **Best fall color season:** late September to early October
+>
+> → On YouTube, search for “Colorado fall colors forecast” and filter by “past month” to see recent news videos.
 
 ---
 
-## 🎒 마무리하며
+## 🎒 Final Thoughts
 
-가을의 단풍도 아름다웠지만, 이곳의 **봄·여름철의 푸릇푸릇한 사진**을 보니 마치 전혀 다른 세상처럼 보이더라고요.
+The fall colors were breathtaking, but after seeing **photos of this area in spring and summer**, it almost feels like an entirely different world.
 
-언젠가 다시, **초록으로 덮인 계절의 Four Pass Loop도 걸어보고 싶다**는 꿈이 생겼고, **Chicago Basin** 같은 콜로라도의 다른 유명한 코스도 경험해보고 싶어졌습니다.
+Now I dream of returning someday to hike the **Four Pass Loop in its lush green season**, and maybe even exploring other famous Colorado routes like **Chicago Basin**.
