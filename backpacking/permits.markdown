@@ -6,8 +6,8 @@ In the United States, **most backpacking require a permit**, and there are often
 
 I wish I could summarize it simply as *“Here's how to do it”* but unfortunately, the **reservation methods and rules vary by location**. So, I’ll give examples using both government-operated sites and private sites.
 
-1. [Sierra Nevada](#1-sierra-nevada) 🏔️ 
-2. [Havasupai](#2-havasupai) 💧
+1. [Sierra Nevada](#1-sierra-nevada-️) 🏔️ 
+2. [Havasupai](#2-havasupai-) 💧
 
 ---
 

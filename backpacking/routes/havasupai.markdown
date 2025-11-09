@@ -1,59 +1,63 @@
 ---
-layout: default
 title: Havasupai
-locale: ko_KR
 ---
 
-**녹색빛 물과 붉은 협곡**이 만들어내는 이국적인 색감. 사진을 많이 보고 갔지만, 실제로 눈앞에 펼쳐졌을 때의 대비는 훨씬 더 생생했습니다.
+**💦 Green water** and **🏜️ red canyons** create an exotic contrast of colors.
+
+I had seen many photos, but the contrast when it unfolded before my eyes in reality was far more vivid.
 
 ![](https://live.staticflickr.com/65535/54835387416_1a086b1435_w.jpg)
 
-보통 하이킹을 다녀오고 나면 *"경이롭다"*, *"감동적이다"*, *"힘들지만 보람 있었다"* 같은 표현을 쓰게 되지만 이곳은 달랐습니다.
+Usually, I describe my hike using these expressions: *awe-inspiring*, *moving*, or *difficult but rewarding*, but this place was different. The words that came to mind first were **“It was so much fun 😄”**
 
-**"정말 재미있었다"**는 말이 가장 먼저 떠올랐습니다.
+- **Mooney Falls**, steeper than Angel’s Landing ⛰️  
+- **Beaver Falls**, which feels like a natural waterpark 💧  
 
-- Angel’s Landing보다 더 가파르게 내려가는 **Mooney Falls**
-- 워터파크 같은 느낌의 **Beaver Falls**
-
-모험성과 오락성이 모두 높은 코스였습니다.
+It was a course full of both adventure and playfulness.
 
 ![](https://live.staticflickr.com/65535/54835620394_223c240a8d_w.jpg)
 
-또 한 가지 인상 깊었던 건 **사람들의 구성**이었습니다. 보통 고산 백패킹에서는 **남초현상**이 두드러지는데 이 코스에서는 그런 성비의 불균형이 느껴지지 않았습니다. 흔히 볼 수 없는 중년 여성들로 구성된 그룹도 많았고, **남녀노소 누구에게나 매력적인 장소**라는 생각이 들었습니다.
+Another thing that left a strong impression was **the makeup of the people there**. In most high-altitude backpacking trips, there’s a noticeable **male-dominant ratio**, but here, that imbalance didn’t exist here.
 
-심지어 제가 다녀온 사진과 영상을 함께 본 **사춘기 딸**이  
-> "성인이 되면 배낭 메고 직접 가보고 싶다"
+There were multiple groups of **middle-aged women**, which you rarely see, and I thought,  
+> “This is a place that appeals to everyone, regardless of age or gender.”
 
-는 말을 *처음으로 스스로 꺼냈습는데* 그 영상 한번 보시죠:
+Even my **teenage daughter 💕**, after watching the photos and videos I brought back said,
+> When I become an adult, I want to go there with a backpack myself.”
+
+Here’s the video I showed her 🎥:
 
 [![](/assets/img/backpacking/routes/havasupai-video.jpg)](https://youtu.be/TgFcSS_I4Q8)
 
-## 타이밍이 만든 기회
+---
 
-하바수파이는 **퍼밋 예약 경쟁이 치열고 가격도 비싼 편**입니다.
+## 🌤️ A Chance Created by Timing
 
-[공식 Facebook 페이지](https://www.facebook.com/HavasupaiTribeTourismOfficial/)를 팔로우하다가, **리노베이션을 마친 Lodge 재오픈 공지**를 우연히 접했고 운 좋게 **샤워와 침대가 가능한 숙소**를 예약할 수 있었습니다.
+Getting a Havasupai permit is **very competitive and quite expensive 💰**
 
-> 보통은 1년치 예약이 열리자마자 사라지는 곳인데, 예고 없이 공지돼 여유롭게 예약할 수 있었습니다.
+While following the [official Facebook page](https://www.facebook.com/HavasupaiTribeTourismOfficial/), I happened to see a post announcing the **reopening of the Lodge after renovation, 🏠** and luckily managed to book a **room with a bed and shower 🚿**
 
-## 날씨, 물의 온도 — 모든 조건이 이상적이었던 트립
-
-10월 중순에 다녀왔는데 최고기온이 88℉(31℃) 였습니다.
-  > **더 더웠다면** 복귀길이 고역이었을 것이고 **더 추웠다면** 물에서 놀 수 없었을 것입니다.
-  
-물의 온도는 **캘리포니아 가을철 난방 없는 수영장 정도**
-  > 결코 편안하게 오래 머물 수 있는 온도는 아닙니다. 햇빛이 없으면 금새 추운데 이보다 더 시원할때 가면 들어갈 수나 있을지 모르겠네요.
+> Normally, reservations for the entire year sell out as soon as they open, but since the announcement came without prior notice, I was able to book leisurely.
 
 ---
 
-## 퍼밋 정보 및 예약 팁
+## ☀️ Weather, Water Temperature — All Conditions Were Perfect
 
-하바수파이 퍼밋 받는 방법은 [**백패킹 퍼밋 받기**](../permits#2-하바수파이) 페이지에 스크린샷과 함께 상세하게 적어뒀습니다.
+I went in **mid-October 🍂**, when the daytime high was **88°F (31°C)**.  
+- **If it had been hotter**, the hike back would’ve been miserable;  
+- **if it had been colder**, we wouldn’t have been able to enjoy the water.
+
+The water temperature felt like **an unheated California pool in autumn**: 
+> It is by no means a temperature you can comfortably stay in for a long time. You get cold quickly without sunlight, and I wonder if I could even get in if it were any cooler than this.
 
 ---
 
-## 마무리
+## Permit Info and Booking Tips
 
-하바수파이는 **백패킹에 ‘재미’라는 감각을 더해준 특별한 장소**였습니다.
+Details on how to get a Havasupai permit — including screenshots — can be found on the [**Backpacking Permits**](../permits#2-havasupai-) page.
 
-언젠가 딸과 함께 **배낭을 메고 이 협곡을 걷게 되는 날을 상상하게 되는 여행**이었습니다.
+---
+
+## In Closing
+
+Havasupai was **a special place that added a sense of “fun” to backpacking**. It was a journey that made me imagine a day when I might **walk through that canyon again with my daughter, both of us wearing backpacks**.
