@@ -1,95 +1,90 @@
 ---
-layout: default
-title: 호두 타르트
-locale: ko_KR
+title: Walnut Tart
 ---
 
-# 🍯 실패와 시행착오 끝에 찾은 호두 타르트 레시피
+# The Recipe Perfected Through Trial and Error
 
-40년 동안 만들어 먹고, 사 먹어본 수많은 타르트 중에서 **단연 최고였던 호두 타르트 레시피**를 소개합니다.
+This is the undeniably best walnut tart recipe. It is better than any I have ever baked or bought.
 
-달고 끈적하기만 한 평범한 피칸파이 스타일이 아닌, **복합적이고 고급스러운 맛**을 원하셨다면 꼭 한번 시도해보세요.
+If you desire a **complex and sophisticated flavor** rather than a plain, sweet, and sticky pecan pie style, you must try this.
 
 ![](https://live.staticflickr.com/65535/52685126083_65eceb22c7.jpg)
 
 ---
 
-## 🧪 배경: 왜 새로운 레시피를 찾게 되었는가?
+## Background: Why Did I Seek a New Recipe?
 
-- *America's Test Kitchen(ATK)*에도 호두 타르트 레시피가 있지만, 사실상 피칸파이 레시피와 비슷해서 너무 달고 끈적했습니다.  
-- 네이버에서 여러 레시피를 찾아 시도했지만, 비율만 조금씩 다를 뿐 뚜렷한 차별점은 없었습니다.  
-- [NYT 레시피](https://cooking.nytimes.com/recipes/1017652-walnut-tart) 중 설탕을 녹여 만든 캐러멜에 크림을 섞는 방식도 봤지만, 느끼하고 너무 달 것 같아 시도하지 않았습니다.  
+- *America’s Test Kitchen (ATK)* does have a walnut tart recipe, but it’s practically a pecan pie, making it too sweet and sticky
+- To reproduce what I have enjoyed in Korea, I have tried several Korean recipes I found online, but they were largely indistinguishable, differing only slightly in ratios.  
+- I also saw the [NYT recipe](https://cooking.nytimes.com/recipes/1017652-walnut-tart), which involves dissolving sugar to make caramel and then mixing it with cream, but I didn't try it, fearing it would be too heavy and sweet.  
 
-그러던 중 우연히 발견한 이 레시피 👇
+Then, I stumbled upon this recipe 👇
 
-[🔗 YouTube 레시피 링크 (시작 시간 14:30)](https://youtu.be/2bUeLbqmktU?t=870)
+[🔗 YouTube Recipe (starts at 14:30)](https://youtu.be/2bUeLbqmktU?t=870)
 
-기존의 캐러멜 + 크림 방식에 **계란 노른자와 버터**, 심지어 **사과식초**까지 더해져 느끼함은 잡고, 맛의 깊이는 더해주는 구조가 인상적이었습니다.  
-
----
-
-## 🧁 실패와 성공의 기록
-
-### 🥧 1차 시도
-- 레시피를 그대로 따름  
-- 문제: 타르트 쉘이 부스러지고, 식초 맛이 끝에 남아 불쾌  
-- 그래도 복잡하고 깊은 풍미가 인상적이라 재시도 결심
+Unlike the traditional caramel + cream method, it adds **egg yolks, butter, and even apple cider vinegar**, to cut through the richness and deepen the flavor. Brilliant.
 
 ---
 
-### 🥧 2차 시도
-- **식초량을 1/3로 줄임** → 맛이 훨씬 부드럽고 균형 잡힘  
-- 쉘은 **통밀 비율을 반으로 줄였지만 여전히 부서짐**  
-- 검색 결과, 신뢰할만한 레시피 중 **통밀 사용은 거의 없음**
+## 🧁 Records of Failure and Success
+
+### 🥧 Attempt 1
+- Followed the recipe exactly  
+- **Problem**: The tart shell crumbled, and a lingering taste of vinegar was unpleasant.
+- Nevertheless, the complex and deep flavor was impressive, leading to a decision to retry.  
 
 ---
 
-### 🥧 3차 시도
-- 필링은 2차와 동일  
-- 타르트쉘은 가장 기본적인 **Pâte Sucrée** 레시피로 변경 → **쉘은 성공적으로 유지**  
-- 단점: 쉘의 단맛이 필링과 약간 분리된 느낌
+### 🥧 Attempt 2
+- **Reduced vinegar to 1/3** → much smoother, more balanced flavor.
+- Used **half the whole wheat flour** in the shell, but it still crumbled.
+- After some research, I found that **trusted tart recipes rarely use whole wheat flour**.
 
 ---
 
-### 🥧 4차 시도 ✅ **대성공!**
-- **쉘에 아몬드 가루를 섞는 레시피 (Pâte Sucrée aux Amandes) 사용**
-  - 고소함이 더해지고 단맛도 자연스럽게 조화됨  
-  - 예전에 ATK 초콜릿 타르트에서 사용했던 방식
-
-- **캐러멜을 만들 때 버터를 먼저 완전히 녹이고 거품을 없앤 후 다른 재료 투입**  
-  - 이 과정을 통해 **스카치 캔디 같은 고급스러운 풍미**가 더해짐  
+### 🥧 Attempt 3
+- Same filling as Attempt 2  
+- Switched to a classic **Pâte Sucrée** for the tart shell → **successfully held together**  
+- Downside: The shell’s sweetness felt slightly separate from the filling  
 
 ---
 
-## 📌 최종 레시피 정리
+### 🥧 Attempt 4 ✅ **Breakthrough!**
+- Used a recipe that mixes **almond flour** into the shell (Pâte Sucrée aux Amandes)
+  - The nuttiness was enhanced, and the sweetness blended naturally.  
+  - Followed the ATK chocolate tart recipe.
 
+- When making caramel, I have **browned the melted butter** before adding other ingredients.
+  - This created a **rich, Scotch candy–like depth of flavor**
+
+---
+
+## 📌 Final Recipe Summary
 
 ![](https://live.staticflickr.com/65535/52685052475_7329b7a3b9.jpg)
 
+### 🍯 Tart Filling  
+- Original recipe: [🔗 Milk Street French Walnut Tart](https://www.177milkstreet.com/recipes/french-walnut-tart)  
+- **Modifications**
+  - Apple cider vinegar: **1 tablespoon → 1 teaspoon (reduced to 1/3)**  
+  - **Browned melted butter** before adding other ingredients.
 
-### 🍯 타르트 필링  
-- 원본 레시피:
-  - [🔗 Milk Street French Walnut Tart](https://www.177milkstreet.com/recipes/french-walnut-tart)  
-- **변경 사항**
-  - 사과식초: **테이블스푼 → 티스푼 (1/3로 줄임)**  
-  - 버터 먼저 **완전히 녹이고 거품이 사라진 후에 다른 재료 추가**
-
-### 🧈 타르트 쉘  
-- [🔗 ATK 초콜릿 타르트 레시피](https://www.americastestkitchen.com/recipes/7490-rich-chocolate-tart)에서 타르트 쉘만 만들기
-- **그대로 사용 (수정 없음)**
+### 🧈 Tart Shell  
+- Use shell recipe from [🔗 ATK Rich Chocolate Tart](https://www.americastestkitchen.com/recipes/7490-rich-chocolate-tart)  
+- **Used as is** (No modification)
 
 ---
 
-## 🔧 선택항
+## 🔧 Optional Tip
 
-- **쉘의 가장자리를 타지 않게 가려주는 보호 도구**가 있습니다. 사용하지 않아도 맛은 큰 차이가 없으나 보기에 더 좋죠.
+- You can use a **pie shield** to prevent the shell’s edges from burning. The taste isn't significantly different without it, but it improves presentation.
 
-  → [🔗 Amazon 링크: Pie Shield](https://www.amazon.com/gp/product/B005FYC9XM/)
+  → [🔗 Amazon Link: Pie Shield](https://www.amazon.com/gp/product/B005FYC9XM/)
 
 ---
 
-## 📝 마치며
+## 📝 Closing Thoughts
 
-지금까지 제가 경험한 실패와 수정 과정을 통해 **“평생 잊지 못할 호두 타르트”**를 만들어냈습니다.
+Through all these trials and tweaks, I’ve finally created **a walnut tart I’ll never forget**.
 
-여러 가지 베이킹을 시도하다 보니, 원하는 결과가 나오지 않을 때 무엇을 바꿔야 할지 감이 잡히기 시작하더라고요. 그렇게 시행착오 끝에 어디에서도 찾아볼 수 없는 저만의 레시피가 탄생했고, 이 기쁨을 여러분과 함께 나누고 싶습니다.
+After attempting various baking projects, I started to develop an intuition for what needed to be changed when the desired result wasn't achieved. Through that trial-and-error, my own unique recipe, which cannot be found anywhere else, was born, and I wanted to share this joy with you.
