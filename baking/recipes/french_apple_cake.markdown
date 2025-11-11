@@ -1,100 +1,98 @@
 ---
-layout: default
-title: 프랑스 사과 케이크
-locale: ko_KR
+title: French Apple Cake
 ---
 
-**ATK(America’s Test Kitchen)** 레시피는 늘 신뢰하지만 이 케이크만큼은 **“왜 이렇게 만들었을까?”** 하는 의문이 남는 레시피였습니다.
+I usually trust the **ATK (America's Test Kitchen)** recipes completely, but this cake left me wondering, **"Why did they make it this way?"**
 
-처음엔 제가 뭔가 잘못 만든 줄 알았고, 두세 번 반복해도 결과는 같았습니다. **빵의 식감은 너무 무르고**, **사과는 전부 위로 떠올라** 모양과 식감이 만족스럽지 않았습니다. (맛은 괜찮았어요.)
+At first, I thought I had made a mistake. But even after repeating it a few more times, the result was the same. The **bread texture was too soft and mushy**, and **all the apples floated to the top**, making the texture and appearance unsatisfying.
 
-결국 다른 레시피와 비교/분석 뒤에 조절해서 만족스러운 결과를 얻을 수 있었습니다:
+After comparing and analyzing other recipes, I adjusted a few things and finally achieved a satisfying result:
 
 ![](https://live.staticflickr.com/65535/54862930222_844f834291.jpg)
 
 ---
 
-## ATK를 믿고 만들었지만…
+## I Trusted ATK, But...
 
-- ATK 레시피를 그대로 따라 만들었지만, **과하게 촉촉한 질감**과 **떠오른 사과 조각들**이 당황스러웠습니다.
-- 몇 번 반복해도 결과는 같았고, 결국 **다른 레시피 5개를 비교 분석**하게 되었습니다.
-- 그 결과 ATK 방식이 **상당히 독특하다는 걸 확인**했습니다.
-
----
-
-## 비교 실험과 최종 선택
-
-### 🧈 1. 식용유 vs. 버터  
-- 비교한 5개 레시피 중 버터 대신 **식용유** + **우유** 를 사용하는 건 ATK뿐이었습니다.  
-- 다른 레시피는 전부 **버터**를 사용하길래 즉시 버터로 대체했습니다.
+- Following the ATK recipe exactly led to a perplexing result: **an excessively moist texture** and **apple pieces that floated**.
+- Even after several tries, the result was the same, so I ended up **comparing and analyzing 5 other recipes**.
+- This analysis confirmed that the ATK method was **quite unusual**.
 
 ---
 
-### 🔪 2. 사과 써는 방식  
-- 어떤 레시피는 더 잘게 썰고, 어떤 건 큼직하게 썹니다.  
-- 이건 취향의 문제인것 같은데, 저는 **얇고 길게 썰었을 때** 보기에 좋고 식감도 좋았습니다.
+## Comparison Experiment and Final Choices
+
+### 🧈 1. Cooking Oil vs. Butter
+- Among the 5 recipes I compared, ATK was the only one that used **vegetable oil** + **milk** instead of butter.
+- Since all the other recipes used **butter**, so I immediately substituted the oil with butter.
 
 ---
 
-### 🥃 3. 술의 유무와 종류  
-비교한 **모든 레시피는 술을 사용**합니다.  
-- ATK는 **Calvados 1 tbsp + 레몬즙 1 tsp**을 넣더라고요.  
-- 대부분은 **Rum**을 사용하는데, 3 tbsp이 대세였습니다.
+### 🔪 2. How to Slice the Apples
+- Some recipes call for finely diced apples, while others suggest larger chunks.
+- This seems to be a matter of personal preference, but I found that **slicing them thinly and lengthwise** provided a better look and texture.
 
 ---
 
-## 📌 최종 레시피 정리
+### 🥃 3. The Presence and Type of Alcohol
+**All** the recipes I compared **use alcohol**.
+- ATK added **1 tbsp of Calvados + 1 tsp of lemon juice**.
+- Most recipes use **Rum**, with 3 tbsp being the prevailing amount.
 
-이 레시피를 보고 따라하시되, [🔗 [**Preppy Kitchen - French Apple Cake**](https://preppykitchen.com/french-apple-cake/)] **재료 비율만 아래와 같이 조정**해 만드시면 됩니다.
+---
 
-| 재료               | 분량            |
-|--------------------|------------------|
-| All-purpose flour  | 5 oz            |
-| Baking powder      | 1 tsp            |
-| Salt               | ½ tsp            |
-| Eggs               | 2개              |
-| Sugar              | ¾ cup            |
-| Butter         | 8 tbsp |
-| Vanilla extract    | 1 tsp            |
-| Apples             | 1.5 lbs          |
-| Lemon juice        | 1 tsp            |
-| Calvados       | 1 tbsp           |
+## 📌 Final Recipe Summary
 
-영상을 선호하시면 유튜브에서 보실 수 있습니다:
+You can follow this recipe, but make sure to **adjust the ingredient ratios** as listed below, referencing [🔗 [**Preppy Kitchen - French Apple Cake**](https://preppykitchen.com/french-apple-cake/)] for the method.
+
+| Ingredient         | Quantity |
+|--------------------|----------|
+| All-purpose flour  | 5 oz     |
+| Baking powder      | 1 tsp    |
+| Salt               | ½ tsp    |
+| Eggs               | 2 large  |
+| Sugar              | ¾ cup    |
+| Butter             | 8 tbsp   |
+| Vanilla extract    | 1 tsp    |
+| Apples             | 1.5 lbs  |
+| Lemon juice        | 1 tsp    |
+| Calvados           | 1 tbsp   |
+
+If you prefer a video, you can find it on YouTube:
 
 [![Preppy Kitchen - French Apple Cake video](/assets/img/baking/recipes/apple-cake-thumbnail.jpg)](https://youtu.be/PuTTohRfvbY?si=BVP8tWYTO6pNlFbE)
 
 ---
 
-## 🔧 ATK 레시피에서 유지한 2가지
+## Two Elements Kept from the ATK Recipe
 
-### 📍 사과를 초벌 익힘
+### 📍 Pre-cooking the Apples
 
-- ATK에선 사과를 썰은 뒤 **전자레인지에서 3분간 익혀**,  
-  - 살짝 **투명해지면서**,
-  - **휘어지지만 부러지지 않을 정도**로 만든 후 반죽과 섞습니다.
-- 이 과정을 생략하면, 아무리 오븐에서 케이크를 충분히 구워도 **사과가 아삭해서** 식감이 어색하다고 하네요.
+- In the ATK method, the sliced apples are **microwaved for 3 minutes**,
+  - until they become slightly **translucent**, and
+  - are **bendable but don't break**
+- They state that skipping this step results in a strange texture because the **apples remain crunchy**, even after the cake is fully baked in the oven.
 
-> 🧪 **과학적 이유:**  
-> ATK 설명에 따르면, 사과에 포함된 **pectin methylesterase(PME)**라는 효소가 **섭씨 70도(화씨 160도)** 이상으로 가열해야 비활성화되고 그래야 사과가 부드러워진다고 합니다.
+> 🧪 **Scientific Reason:**
+> According to ATK, apples contain an enzyme called **pectin methylesterase (PME)** must be heated above **70°C (160°F)** to be deactivated, which is necessary for the apples to soften.
 
 ---
 
-### 📍 Calvados + 레몬즙 조합
+### 📍 Calvados + Lemon Juice Combination
 
-- ATK 레시피의 **풍미 자체는 뛰어났습니다.**
-- 식감에는 문제가 있었지만, **맛은 유지하고 싶어서** 술과 레몬즙의 조합은 그대로 유지했습니다.
+- The **flavor** of the ATK recipe **was excellent.**
+- While the texture was problematic, I **wanted to retain the taste**, so I kept the combination of alcohol and lemon juice.
 
-> **Calbados**의 원료가 사과라서 잘 어울린다고 생각합니다. 하지만 Rum을 넣고 만들어본 적은 없어서 아직 비교해본건 아닙니다.
+> I believe **Calvados** pairs well it’s made from apples. However, I haven’t tried the rum version yet, so I can’t compare.
 >
-> 대부분의 다른 레시피는 **Rum 3 tbsp**만 사용하고 **레몬즙은 생략**합니다.  
+> Most other recipes only use **3 tbsp of Rum** and **omit the lemon juice**.
 
 ---
 
-## 📝 마치며
+## 📝 Final Thoughts
 
-믿고 만들던 ATK 레시피가 예상 밖의 결과를 주면서, 덕분에 **다른 레시피들을 탐색하고**, **직접 비교하고 수정하는 실험**으로 이어졌습니다.
+The unexpected results from my trusted ATK recipe led me to **explore other recipes** and conduct my **own comparison and modification experiment**.
 
-결과적으로는 **보기도 좋고, 식감도 훌륭하며, 맛도 만족스러운 프랑스 사과 케이크**를 완성하게 되었고, 혼자만 만들기 아까워서 공유합니다.
+As a result, I ended up with a French Apple Cake that has an excellent texture, and a satisfying flavor. It was too good not to share!
 
 ![](https://live.staticflickr.com/65535/53808532216_b6d7dc7cef.jpg)
