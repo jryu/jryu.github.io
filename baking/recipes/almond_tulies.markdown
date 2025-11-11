@@ -1,104 +1,102 @@
 ---
-layout: default
-title: 아몬드 튀일
-locale: ko_KR
+title: Almond Tuiles
 ---
 
-튀일은 재료도 단순하고 만들기도 쉬워 보여서, 레시피 찾기가 쉽겠다고 생각했는데, 의외로 제가 신뢰하는 **ATK, NYT** 같은 전문적인 출처에서는 다루지 않더군요.
+I thought finding a recipe for tuiles would be easy, as they seem simple in ingredients and preparation. Surprisingly, expert sources I trust, such as **ATK and NYT**, don't seem to cover them.
 
-제가 좋아하는 메뉴인 만큼, **13개 레시피를 수집하여 비교하고 실험**하며 완성한 **가장 만족스러운 비율과 노하우**를 공유합니다.
+Since it’s one of my favorite treats, I **collected and tested 13 recipes**, compared them, and refined them to the most satisfying ratio.
 
-![튀일 이미지](https://live.staticflickr.com/65535/47997548218_f322589f40_w.jpg)
-
----
-
-## 🧪 레시피는 단순 하지만 완성도를 높이기는 어렵다
-
-- 대부분 튀일 레시피는 **재료 구성은 거의 동일**하고, 설탕과 버터 양만 조금씩 다른 수준이라 **비교 분석은** 수월했습니다.
-- 하지만 직접 만들어보니, 얇은 부분은 타거나 부스러지고, 두꺼운 부분은 눅눅하더라고요.
-- 결국 완성도 높은 튀일을 위해서는 레시피의 비율보다도 일정한 **두께**와 **모양**을 만드는데 집중해야 했습니다.
+![Tuile Image](https://live.staticflickr.com/65535/47997548218_f322589f40_w.jpg)
 
 ---
 
-## 📌 황금비율 튀일 레시피
+## The Recipe is Simple, But Perfection is Hard to Achieve
 
-많은 레시피를 비교하고 시행착오 끝에 가장 만족스러운 배합을 공유합니다.
+- Most tuile recipes have **almost identical ingredients**, differing only slightly in the amounts of sugar and butter, which made **comparison and analysis** straightforward.
+- However, when I actually made them, the **thin parts** burned or crumbled, while the **thicker parts** stayed soft and soggy.
+- Ultimately, to achieve a high-quality tuile, I had to focus on creating a consistent **thickness** and **shape** more than the recipe's ratio itself.
 
-| 재료                | 분량        | 비고                  |
-|---------------------|-------------|------------------------|
-| Cake flour 혹은 중력분  | 50g         |                        |
-| 달걀 흰자           | 2개         |                        |
-| 설탕                | 70g         |                        |
-| 바닐라 익스트랙     | ½ tsp       |                        |
-| 버터                | 50g         | 녹인 상태             |
-| 아몬드     | 기호에 따라 | *미리 토스트할 것*    |
-| 소금                | 한 꼬집    |                        |
+---
 
-> **Note:** 레시피는 워낙 간단하고 다들 비슷비슷해서 여기선 재료의 비율만 정리했어요.
-> 
-> 레시피의 디테일(만드는 과정, 굽는 온도, 식힘 방식 등)은 **혹시 반응이 있으면** 나중에 추가해 보겠습니다 😉  
+## 📌 Golden Ratio Tuile Recipe
 
-## 🥜 아몬드는 슬리버드(칼아몬드)를 선호합니다
+After lots of testing and trial-and-error, here’s the most satisfying formulation I’ve found:
 
-대부분 레시피는 얇게 썬 슬라이스드 아몬드를 사용하지만, 저는 여러 번의 테스트 끝에 **슬리버드(칼아몬드)**를 선택했습니다.
+| Ingredient             | Quantity    | Notes                     |
+|------------------------|-------------|---------------------------|
+| Cake flour or AP flour | 50g         |                           |
+| Egg whites             | 2 large     |                           |
+| Sugar                  | 70g         |                           |
+| Vanilla Extract        | ½ tsp       |                           |
+| Butter                 | 50g         | Use melted butter    |
+| Almonds                | To taste    | *Must be toasted in advance*|
+| Salt                   | A pinch     |                           |
+
+> **Note:** The recipe is so simple and similar across sources that I've only organized the ingredient ratios here.
+>
+> I'll consider adding the recipe details (making process, baking temperature, cooling method, etc.) later **if there is interest** 😉
+
+## I Prefer Slivered Almonds
+
+Most recipes use thinly sliced almonds, but after numerous tests, I chose **slivered almonds**.
 
 ![](https://live.staticflickr.com/65535/47997592196_0cca4c922d_w.jpg)
 
-슬라이스드 아몬드는 먹을 때 존재감이 약하고, 반죽 위에 고르게 펼치기도 힘듭니다. 반면 슬리버드는 굵어서:
+Sliced almonds have a weak presence when eaten and are difficult to spread evenly over the batter. Slivered almonds, being thicker:
 
- - 씹는 맛(식감)이 확실히 살아 있고,
- - 서로 포개지지 않아 반죽 위에 고르게 올리기가 훨씬 쉽습니다.
+- Have a definitively better **crunch (texture)**, and
+- Do not overlap, making it much easier to spread them evenly over the batter.
 
-> **Note:** 단, 꼭 미리 토스트해서 사용해야 합니다.
-
----
-
-## 🎯 진짜 문제: 일정한 두께로 *얇고 균일하게* 펴는 법
-
-대부분 레시피는 "**숟가락 바닥으로 슬슬 펴세요**" 라고 간단히 설명합니다. 하지만 이 방법으로는 일정한 두께를 내기 어렵습니다.
-
-- 얇은 부분은 **금세 타거나 부서지고**  
-- 두꺼운 부분은 **덜 익고 눅눅**해지며
-- 결과적으로 **한 판 굽고 반은 버리는 상황**이 생깁니다.
-
-저는 이 문제를 해결하기 위해 **'템플릿 도구'**를 만들기로 했습니다.
+> **Note:** However, they absolutely must be toasted beforehand.
 
 ---
 
-## 🧰 튀일 템플릿 제작기
+## The real challenge: spreading it *thin and evenly*
 
-### 🧪 1단계: 얇은 플라스틱 도마 (아쉬운대로 쓸만함)
+Most recipes simply instruct, "**Spread it lightly with the back of a spoon**." However, this method makes it difficult to achieve a uniform thickness.
+
+- Thin parts **quickly burn or break**
+- Thick parts become **underbaked and soggy**
+- Resulting in a situation where **half a batch is thrown away** after baking.
+
+To solve this problem, I decided to create a **'template tool.'**
+
+---
+
+## Making the Tuile Template
+
+### Step 1: Thin plastic cutting board (works, but not ideal)
 
 ![](https://live.staticflickr.com/65535/47997552472_65f811fb87_w.jpg)
 
 ![](https://live.staticflickr.com/65535/49853427566_7bc24c9384_w.jpg)
 
-- 얇은 도마를 잘라 구멍을 뚫어 사용했습니다.
-- 모양은 일정했지만, **너무 얇아서 두께를 일정하게 유지하기 어려웠습니다.**  
-- 도마보다 살짝 높게 펴려고 하면 **손이 많이 가고 정확도도 떨어지고요.**
+- I cut holes in a thin plastic cutting board and used it as a stencil.
+- The shape was consistent, but **it was too thin to maintain an even thickness.**
+- Trying to spread the batter just slightly higher than the board **required too much effort and lacked precision.**
 
 ---
 
-### 🧱 2단계: 두꺼운 도마 (절반의 성공)
+### Step 2: Thicker Cutting Board (half success)
 
-- **두툼한 도마**를 구매해서 다시 제작했습니다.
-- 일정한 두께로 펴는 건 수월해졌고, 전체적인 품질도 개선되었습니다.  
-- 단, 종이 몇 장 정도의 두깨만큼만 더 두꺼웠으면 하는 아쉬움이 남았습니다.
+- I bought a **thick cutting board** and made another one.
+- This made it much easier to spread the batter evenly, and overall quality improved.
+- However, I was left with a slight desire for it to be just a little thicker, perhaps by the thickness of a few sheets of paper.
 
 ---
 
-### 🖨️ 3단계 ✅ 최종 완성: 3D 프린터로 맞춤 설계
+### Step 3: Custom Design with a 3D Printer
 
 ![](https://live.staticflickr.com/65535/54840110065_6f5f8ca378_w.jpg)
 
-- 3D 모델을 만들어서 **두께를 원하는 만큼 미세 조정**했습니다.
-- 지금까지 써본 것 중 **가장 깔끔하고 만족도 높은 도구**가 탄생했습니다.
-- 📁 [튀일 템플릿 STL 다운로드](https://www.printables.com/model/1438070-tuile-template)
+- I created a 3D model and was able to **finely adjust the thickness to my exact preference.**
+- This resulted in the **cleanest and most satisfying tool** I have ever used.
+- 📁 [Download Tuile Template STL](https://www.printables.com/model/1438070-tuile-template)
 
-> ⚠️ **주의:** 출력 방식과 소재에 따라 *식품 안전 문제가 생길 수 있으니* 사용 전 **재질, 세척 가능 여부** 등을 꼭 확인하세요.  
+> ⚠️ **Caution:** Depending on the printing method and material, there may be *food safety concerns*. Be sure to check the **material, washability,** and other factors before use.
 
 ---
 
-## 📝 마치며
+## 📝 Final Thoughts
 
-튀일은 정말 단순한 재료로도 **일정한 두께**로 고르게 펼치면 **고급스러운 과자**가 됩니다. 저는 템플릿 덕분에 이제는 버리는 것 없이 만들고 있습니다.
+Tuiles, made with truly simple ingredients, become an **elegant cookie** when spread evenly to a **consistent thickness**. Thanks to the template, I can now make them without any waste.
