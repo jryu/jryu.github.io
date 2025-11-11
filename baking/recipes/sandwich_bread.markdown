@@ -1,104 +1,103 @@
 ---
-layout: default
-title: 식빵
-locale: ko_KR
+title: Sandwich Bread
 ---
 
-수년간 베이킹을 하며 ATK의 여러 식빵 레시피를 시도했지만, **미국 빵은 한국 빵집의 식빵에 비할 바가 못 되더군요.** 몇 시간 공들인 보람이 없었습니다.
+After trying various *America’s Test Kitchen (ATK)* white bread recipes, I found that **American bread couldn't compare to the fluffy loaves from Korean bakeries.** 
 
-그러다 결국 **"어디서 먹어본 식빵보다 맛있다!"**고 느낀, 수년을 갈고닦은 **황금비율 식빵 레시피**를 소개합니다.
+Finally, I have refined this sandwich bread recipe over multiple years, which I can honestly say is **"Better than any sandwitch bread I've ever tasted!"**
 
 ![](https://live.staticflickr.com/65535/54314380442_1428296d70_w.jpg)
 
 ---
 
-## 🧪 배경: NYT 레시피에서 시작
+## Background: It All Started with the NYT Recipe
 
-- *America's Test Kitchen(ATK)*의 식빵 레시피들을 여럿 시도했지만, **공을 들인 만큼의 감동이 없었습니다.**
-- 그러던 중 [**New York Times의 Japanese Milk Bread 레시피**](https://cooking.nytimes.com/recipes/1016275-japanese-milk-bread)를 만났습니다.
-- **탕종**을 사용하니 속이 **촉촉함**이 남달랐고, 특히 겉 껍질의 **식감이 정말 좋았죠.**
-- 이 레시피가 제가 만든 빵이 **'한국 빵집보다 맛있다'**고 느낀 첫 번째 경험이었습니다.
+- I had tried several *ATK* bread recipes but found that **the results never justified the effort.**
+- Then I came across [**New York Times’ Milk Bread recipe**](https://cooking.nytimes.com/recipes/1016275-japanese-milk-bread).
+- Using the **tangzhong** method gave the **interior a unique moistness**, and the **crust had a wonderful texture**.
+- It was the first time I thought, "**This might actually be better than the Korean bakery bread** I grew up with."
 
-가족들이 좋아하다보니 여러번 만들게 되었고, **자주 먹는 빵**이다 보니, 꾸준히 개선하게 되었습니다. 👇
-
----
-
-## 🥖 수년간의 **숙련과 발전**: 황금 비율을 찾아서
-
-### 🍞 1단계: 첫 **조정**
-- NYT 원 레시피를 **처음 만들었을 때**, 가장 큰 문제는 **너무 달았다**는 것입니다.
-- **설탕량을 곧바로 절반으로 줄여** 만들었고 &rarr; 단맛이 훨씬 균형 잡히고 만족스러워졌습니다.
-
-### 🍞 2단계: 통밀로 풍미 **추가** (ATK 팁 적용)
-- **ATK 팁 적용:** 베이킹할 때 전체 밀가루의 **15%까지 통밀로 교체**해도 식감에 영향이 적다는 정보를 입수.
-- **10% (70g)를 통밀로 교체**했고 &rarr; 담백했던 식빵에 **복합적인 풍미가 더해져** 풍요로운 맛이 완성되었습니다.
-> *Tip: 통밀은 워낙 소량이고 쉽게 상해서 이스트와 함께 냉동 보관합니다.*
-
-### 🍞 3단계 ✅ **황금비율 완성**
-- 여러 햄버거 빵 레시피를 시도하다가 힌트를 얻음 (아직 만족스러운 햄버거 빵은 미완성입니다 😅).
-- 햄버거 빵 레시피에서 **계란/버터 비율**에 따라 **폭신함이 극대화**되는 지점을 발견.
-- 이 비율을 식빵 레시피에 **적용**해보니 **맙소사, 대박**이 났습니다!
-- **최종 변경:** **계란은 반으로 줄이고** (2개 &rarr; 1개), **버터는 3/4으로 줄임** (8 Tbsp &rarr; 6 Tbsp).
-- 줄여도 빵의 맛과 향은 변하지 않고 **식감이 개선되었습니다**
+Since my family loved it, I kept making it, and because it became the most frequently baked bread, I continuously sought improvements. 👇
 
 ---
 
-## 📌 최종 레시피 정리: 수년의 시행착오 끝에
+## Years of Refinement: Finding the **Golden Ratio**
+
+### 🍞 Step 1: First **Adjustment**
+- The biggest problem with the original NYT recipe was that **it was too sweet**.
+- I **cut the sugar in half**, and → the flavor became much more balanced and satisfying.
+
+### 🍞 Step 2: Adding Whole Wheat for **Depth of Flavor**
+**Applied ATK Tip:** I learned that substituting up to **15% of the total flour with whole wheat** has minimal impact on the texture.
+- I replaced **10% (70g) with whole wheat flour** → the plain white bread gained a **complex flavor** profile, completing a richer taste
+> *Tip: Since whole wheat flour is used in such small amounts and spoils quickly, I store it in the freezer.*
+
+### 🍞 Step 3 ✅ The **Golden Ratio** Complete
+- While experimenting with hamburger bun recipes (still not fully satisfied with those 😅), I've learned the point where **fluffiness** was maximized based on the **egg/butter ratio**.
+- I tried applying that ratio to my sandwich bread recipe, and it worked!
+  - **Halved the eggs** (2 → 1)
+  - **reduced butter to ¾** (8 Tbsp → 6 Tbsp).  
+- The bread's flavor and aroma remained unchanged, but the texture significantly improved.
+
+---
+
+## 📌 Final Recipe
 
 ![](https://live.staticflickr.com/65535/54204155110_44ba32a7bb_w.jpg)
 
-이스트 1파운드 넘게 써가며 완성한, 우리 가족 입맛에 최적화된 레시피입니다.
+This is the optimized recipe for my family's palate, perfected after using over a pound of yeast through countless trials.
 
-### 🍚 탕종 (원 레시피와 동일)
+### Tangzhong (same as the original recipe)
 
-| 재료 | 분량 |
+| Ingredient | Amount |
 | :--- | :--- |
 | Bread Flour | 45 g |
-| 우유 | 1/2 cup |
-| 물 | 1/2 cup |
+| Milk | 1/2 cup |
+| Water | 1/2 cup |
 
-### 🍞 반죽 (최종 비율)
+### Dough (Final Ratio)
 
-| 재료 | 분량 | 변경 내용 |
+| Ingredient | Amount | Adjustment |
 | :--- | :--- | :--- |
-| Bread Flour | 580 g | 통밀을 넣은만큼 줄임 |
-| **Whole Wheat Flour** | **70 g** | **풍미 추가 (10% 교체)** |
-| **설탕** | **60 g** | **원 레시피 대비 1/2로 줄임** |
-| 이스트 | 1 tbsp | |
-| **계란** | **1 개** | **원 레시피 대비 1/2로 줄임** |
-| 우유 | 7/8 cup | |
-| 소금 | 2 tsp | |
-| **버터** | **6 tbsp** | **원 레시피 대비 3/4로 줄임** |
+| Bread Flour | 580 g | Reduced to account for whole wheat |
+| **Whole Wheat Flour** | **70 g** | **Flavor added (10% substitution)** |
+| **Sugar** | **60 g** | **1/2 of the original recipe** |
+| Yeast | 1 tbsp | |
+| **Egg** | **1** | **1/2 of the original recipe** |
+| Milk | 7/8 cup | |
+| Salt | 2 tsp | |
+| **Butter** | **6 tbsp** | **¾ of the original recipe** |
 
-> **Tip 1:** 밀가루는 **King Arther** 브랜드를 사용합니다. 다른 밀가루를 쓰면 우유 양 조절이 필요할 수 있습니다.
+> **Tip 1:** I use **King Arthur** brand flour. If using other flours, you may need to adjust the milk quantity slightly.
 
-> **Tip 2:** 만드는 방법은 [NYT 레시피](https://cooking.nytimes.com/recipes/1016275-japanese-milk-bread)와 동일합니다. 다만, 저는 **탕종을 전부 사용**하여 **빵틀 2개** 분량을 만듭니다.
+> **Tip 2:** Follow the same procedure as in the [NYT recipe](https://cooking.nytimes.com/recipes/1016275-japanese-milk-bread), but I use **the entire tangzhong** to make **two loaves**.
 
 ---
 
-## 🔧 선택항: 사각형 빵틀 vs. 돔형 빵틀
+## Optional: Pullman Pan vs. Loaf Pan
 
-제가 이 레시피를 만들기 시작한 후, [**ATK에서도 Shokupan (Japanese White Bread) 레시피**](https://www.americastestkitchen.com/recipes/14709-shokupan-japanese-white-bread)를 발표했습니다. ATK 레시피는 담백하고 단단해서 샌드위치에 실용적이지만 여전히 감동적인 맛은 아닙니다.
+After I started developing this recipe, [**ATK released their Shokupan (Japanese White Bread) recipe**](https://www.americastestkitchen.com/recipes/14709-shokupan-japanese-white-bread).  
+It’s plain and firm, practical for sandwiches, but still lacks that “wow” factor.
 
-하지만 이 레시피를 계기로 **사각형 빵틀(Pullman Pan)**을 사용하기 시작했습니다.
+However, that recipe prompted me to start using a **Pullman Pan**.
 
 ![](https://live.staticflickr.com/65535/53348238246_cbf2163261_w.jpg)
 
-- **장점:** 모든 빵 조각의 크기가 일정하여 샌드위치 만들기가 편리합니다.
-- **단점:** 껍질이 단단해지지 않아 식감의 매력이 줄어듭니다.
+- **Pros:** Every slice is uniform in size, making sandwich making very convenient.
+- **Cons:** The crust does not harden, which reduces the appealing texture.
 
-> *Tip:* 장단점이 공존하기에 지금까지도 기분에 따라 두 가지 빵틀을 번갈아가며 사용합니다.
+> *Tip:* Because each has pros and cons, I still alternate between the two pans depending on my mood.
 
-### 📐 사각형 빵틀 사용 시 팁
+### Pullman Pan Tips
 
-- 반죽의 비율은 위의 황금비율과 동일하게 사용합니다.
-- **4개의 반죽 덩어리**로 나누어, 한 덩어리당 무게를 **8.5 oz**로 정확히 맞춥니다.
-- 뚜껑을 닫을 때, 부풀어 오르는 미세한 타이밍 때문에 빵을 망치기 쉽습니다. 저는 **뚜껑을 뒤집어 덮고** 그 위에 **다른 빵틀을 얹어 무게로 눌러**주는 방식을 사용합니다.
+- Use the same golden-ratio dough as above.
+- Divide the dough into **4 equal portions**, each weighing **8.5 oz**.
+- To brown the crust, I **open the lid about 10 minutes before the bread is done**. However, sliding the lid at that stage can easily ruin the loaf. To prevent that, I **invert the lid** and **place another pan on top as a weight** while it bakes.
 
 ---
 
-## 📝 마치며
+## 📝 Closing Thoughts
 
-이스트를 1파운드 넘게 쓰도록 여러번 만들게 된건 **가족들이 워낙 좋아했기** 때문이죠.
+The reason I made this bread so many times—using over a pound of yeast—is simply because **my family absolutely loves it.**
 
-ATK의 팁을 가져오고, 햄버거 빵 시행착오 과정에서 영감을 얻으며, 끊임없이 레시피를 **개선**해왔고, 이제 여러분과 함께 나누고 싶습니다.
+By incorporating tips from ATK, drawing inspiration from my hamburger bun experiments, and continuously improving the recipe, I have finally created this golden ratio, which I am now happy to share with you as well.
