@@ -9,7 +9,7 @@ title: 사소한 변화를 준 레시피
 ---
 
 ### 저온 발효 와플  
-**✔️ 가족 모두가 좋아하는, 주말 아침 필수템**
+**가족 모두가 좋아하는, 주말 아침 필수템**
 
 ![](https://live.staticflickr.com/65535/54315761030_1349e56b5a_n.jpg)
 
@@ -25,9 +25,7 @@ title: 사소한 변화를 준 레시피
 
 #### ⚠️ 반죽 만들 때 주의할 점!
 
-> ❗ 레시피에서 *Cool milk/butter mixture until warm to touch*라고 되어있는데요,  
->
-> 👉 **우유가 100~120℉일 때 이스트와 섞어야 해요.** 더 뜨거우면 이스트가 죽어 숙성이 안 됩니다.
+> ❗ 레시피에서 *Cool milk/butter mixture until warm to touch*라고 되어있는데요, **우유가 100~120℉일 때 이스트와 섞어야 해요.** 더 뜨거우면 이스트가 죽어 숙성이 안 됩니다.
 
 **제가 사용하는 방법:**
 
@@ -41,8 +39,8 @@ title: 사소한 변화를 준 레시피
 
 ---
 
-### 🎂 크레이프 케이크  
-**✔️ Lady M보다 맛있었던 개인 버전**
+### 크레이프 케이크  
+**Lady M보다 맛있었던 개인 버전**
 
 ![](https://live.staticflickr.com/65535/54073972367_21dd8bb5b8_n.jpg)
 
@@ -52,10 +50,12 @@ title: 사소한 변화를 준 레시피
 
 📝 ATK는 [레시피 개발 기사](https://www.americastestkitchen.com/articles/8190-a-showstopping-multilayered-crepe-cake-is-easier-to-make-than-you-think)에서 Lady M 케이크를 대놓고 소개하며,  
 > *“topped with brûléed sugar”*  
+
 라는 표현을 사용했어요.
 
 또, Lady M의 공식 홈페이지에서도 자신들의 시그니처 케이크를  
 > *“the top is gently caramelized golden”*  
+
 이라고 소개하죠.
 
 그런데 제가 먹어본 Lady M 케이크는 이 **brûlée 느낌이 너무 약해서 전혀 존재감이 없었어요.**  
@@ -65,8 +65,8 @@ title: 사소한 변화를 준 레시피
 
 ---
 
-### 🥧 크랜베리 타르트  
-**✔️ 필링은 훌륭, 크러스트는 교체가 정답**
+### 크랜베리 타르트  
+**필링은 훌륭하나, 크러스트는 변경이 필요함**
 
 ![](https://live.staticflickr.com/65535/54314452107_007eba0fd3_n.jpg)
 
@@ -77,7 +77,7 @@ title: 사소한 변화를 준 레시피
 처음엔 레시피대로 **아몬드 가루 100%로 만든 크러스트**를 사용했는데, 이게 **너무 단단해서 칼질이 안 될 정도**였어요. 썰다가 크러스트 바닥이 지진나듯 사방으로 쪼개지는 참사를 겪었습니다.  
 
 😕 **개인적인 평:**  
-밀가루 없이 아몬드 가루만으로 만든 건 **맛도 별로였고, 무리수**였어요.
+밀가루 없이 아몬드 가루만으로 만든 건 **맛도 별로였고, 무리수**였어요. 글루텐프리 레피를 만들기 위한 노력이지 맛을 위한건 아니라고 생각합니다.
 
 그래서 다음엔 🔗 [Lemon–Olive Oil Tart 레시피](https://www.americastestkitchen.com/recipes/11432-lemon-olive-oil-tart)의 **간단한 크러스트**로 교체했더니, **식감도 부드럽고** 필링과도 잘 어울렸습니다.
 
