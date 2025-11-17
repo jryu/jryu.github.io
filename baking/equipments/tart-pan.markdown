@@ -1,46 +1,45 @@
 ---
-layout: default
-title: 타르트팬
-locale: ko_KR
+title: Tart Pan
 ---
-## 타르트팬 (Tart Pan)
+## Tart Pan
 
-타르트팬은 꼭 바닥이 분리되는 제품을 사용하세요.
-> ⚠️ 바닥이 분리되지 않는 팬은 ATK에서 리뷰하지도 않습니다!
+Make sure to use a tart pan with a removable bottom.
 
-- 💰 가격: $20–40  
-- 🔗 [ATK 리뷰](https://www.americastestkitchen.com/equipment_reviews/1743-tart-pans)  
-- 🛒 [추천제품 Amazon 링크](https://www.amazon.com/dp/B004EBPRN6)  
+> ⚠️ ATK doesn't even review pans without a removable bottom!
 
-이번에 소개하는 레시피들은 모두 **손으로 간단히 반죽하는** 타르트쉘입니다.
+- 💰 Price: $20–40  
+- 🔗 [ATK Review](https://www.americastestkitchen.com/equipment_reviews/1743-tart-pans)  
+- 🛒 [Recommended Product on Amazon.com](https://www.amazon.com/dp/B004EBPRN6)  
 
-나중에 **푸드프로세서**를 장만하면 이 **타르트팬**으로 더 고급스럽고 섬세한 파이지 반죽도 도전할 수 있어요.  
+All the recipes introduced here use tart shells that are **simply mixed by hand**. Simple to make without special equipment.
 
----
-
-## 그레이터 (Rasp-style Grater)
-
-레몬과 라임 제스트(zest)를 껍질에서 얇게 벗겨낼 때 필수 도구입니다.  
-
-레시피에서 소개하는 두 타르트 모두 그레이터를 사용해 상큼한 풍미를 살려줍니다.
-
-- 💰 가격: $20 이하  
-- 🔗 [ATK 리뷰](https://www.americastestkitchen.com/equipment_reviews/1798-rasp-style-graters)  
-- 🛒 [추천제품 Amazon 링크](https://www.amazon.com/dp/B005GQXFTG)  
+Later, once you get a **food processor**, you can use this tart pan to make more delicate pastry crusts with this pan.
 
 ---
 
-> 도구가 준비 되었으면 레시피를 살펴볼까요? 👇
+## Rasp-style Grater
+
+This is an essential tool for zesting lemons and limes, removing the thin outer peel.
+
+Both tart recipes below use a grater to bring out a bright, refreshing flavor.
+
+- 💰 Price: Under $20  
+- 🔗 [ATK Review](https://www.americastestkitchen.com/equipment_reviews/1798-rasp-style-graters)  
+- 🛒 [Recommended Product on Amazon.com](https://www.amazon.com/dp/B005GQXFTG)  
+
+---
+
+> Now that the tools are ready, shall we look at the recipes? 👇
 
 ---
 
 ## 🍋 Lemon–Olive Oil Tart
 
-제가 지금까지 본 타르트 레시피 중 가장 쉽고 간단한 레시피입니다.
+This is the easiest and simplest tart recipe I have ever seen.
 
 ![](https://live.staticflickr.com/65535/49840120307_4c1ecb10cd_n.jpg)
 
-🔗 [ATK 레시피](https://www.americastestkitchen.com/recipes/11432-lemon-olive-oil-tart)뿐만 아니라, 제작 과정이 유튜브에 공개되어 있으니 참고해 보세요:
+In addition to the 🔗 [ATK recipe](https://www.americastestkitchen.com/recipes/11432-lemon-olive-oil-tart), the production process is publicly available on YouTube, so please refer to it:
 
 [![lemon tart video](/assets/img/baking/equipments/lemon-tart.jpg)](https://youtu.be/CCOqVu2sYJs?si=y-nbW1aPWSaCRKJK)
 
@@ -48,22 +47,24 @@ locale: ko_KR
 
 ## 🍑 Fresh Fruit Tart 🫐
 
-레모네이드는 좋아해도 베이킹에서는 레몬 신맛을 꺼리는 분들이 꽤 있더라고요.  
+There are quite a few people who love lemonade but dislike the sourness of lemon in baking.
 
-하지만 이 과일 타르트의 맛을 싫어하는 사람은 본 적이 없습니다.
+However, I have never met anyone who dislikes the flavor of this fruit tart.
 
 ![](https://live.staticflickr.com/65535/54863783604_f6e6a0db00_n.jpg)
 
-조금 손이 가지만, 고가의 도구 없이 만들 수 있는 보람이 있어요. 🔗 [글로 된 레시피는 여기](https://www.americastestkitchen.com/recipes/9725-fresh-fruit-tart) 있고, 비디오가 무료로 공개되어 있어서 공유합니다:
+It’s a bit more work, but absolutely worth making, and you don’t need expensive equipment.
+
+🔗 [The written recipe is here](https://www.americastestkitchen.com/recipes/9725-fresh-fruit-tart), and the video is freely available, so I'm sharing it:
 
 [![fruit tart video](/assets/img/baking/equipments/fruit-tart.jpg)](https://youtu.be/ITMCoZrLH4c?si=VpJ3F4zufwoWuY3f)
 
 ---
 
-🍋 **레몬과 라임즙을 짜는 도구도 있긴 하지만, 손으로 짜도 충분해요!**  
+**There are tools for juicing lemons and limes, but using your hands is perfectly fine!**
 
-저는 결국 구매했지만, 아직 베이킹이 적성에 맞는지 모르는 단계라면 무리하지 않아도 됩니다.  
-  * 손으로 짤 때는 양이 적을 수 있으니, 레시피 분량보다 1~2개 더 넉넉하게 준비하세요.  
-  * 반으로 자른 후 양손으로 꾹꾹 눌러주면 충분합니다.  
+I ended up buying one eventually, but if you’re still figuring out whether baking suits you, there’s no need to rush.
+  * When squeezing by hand, you may get a smaller amount, so prepare 1–2 more than the recipe calls for.
+  * After halving them, press firmly with both hands. That’s enough.
 
-🌟 **그리고 [필수 도구](../equipments/essentials)중 하나인 [고운체](../equipments/essentials#고운체-fine-mesh-strainer)로 씨와 건더기는 꼭 걸러내세요!**
+> 🌟 **And be sure to strain out the seeds and pulp using a [fine-mesh strainer](../equipments/essentials#fine-mesh-strainer), which is one of the [essential tools](../equipments/essentials)!**
