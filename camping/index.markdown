@@ -7,8 +7,8 @@ Here you’ll find helpful information for planning your camping trips.
 
 ---
 
-## 🪵 **[Camping Gear](./gears)**
-> Learn about the basic gear every camper needs — tents, sleeping bags, pads, and more.
+## 🪵 **[Camping Gears](./gears)**
+> Learn about the basic gears every camper needs — tents, sleeping bags, pads, and more.
 
 ---
 

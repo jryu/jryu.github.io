@@ -1,109 +1,112 @@
 ---
-layout: default
-title: 캠핑 준비물
-locale: ko_KR
+title: Camping Gears
 ---
 
-캠핑장에서 필요한 준비물을 소개합니다.
+Here are the essential items you need for a campsite.
 
-1. [슬리핑패드](#1-슬리핑패드)
-1. [텐트](#2-텐트)
-1. [침낭](#3-침낭)
-1. [개인 준비물](#4-개인-준비물)
-1. [공용 준비물](#5-공용-준비물)
+1. [Sleeping Pad](#1-sleeping-pad)
+1. [Tent](#2-tent)
+1. [Sleeping Bag](#3-sleeping-bag)
+1. [Personal Items](#4-personal-items)
+1. [Shared Items](#5-shared-items)
 
-# 1. 슬리핑패드
+# 1. Sleeping Pad
 
-캠핑을 준비할 때 가장 먼저 떠오르는 것이 텐트이지만, 저는 슬리핑패드를 우선 선택하는 것을 추천합니다. 침구류의 크기보다 텐트가 작으면 안되니까요.
+When preparing for camping, the first thing that comes to mind is usually a tent, but I recommend choosing the **sleeping pad** first. The tent shouldn't be smaller than the bedding you'll use.
 
-## 초보자를 위한 팁
+## Tip for Beginners
 
-캠핑이 생소한 분들을 염두에 두고, 최소한의 준비로 캠핑을 즐길 수 있는 방법을 제안합니다. 캠핑장의 최저 기온이 60°F 이상이라면, 슬리핑패드의 보온 기능은 크게 필요하지 않습니다. 침낭에 들어가서 잔다면, 뽀로로 매트를 깔아도 무방할 정도입니다. 캘리포니아의 저지대 캠핑장은 7월 부터 9월 까지 이러한 날씨를 경험할 수 있습니다.
+For those who are new to camping, I suggest a way to enjoy camping with minimal preparation. If the nighttime low is **above 60°F**, the insulation of the sleeping pad is not very important. If you are going to sleep inside a sleeping bag, even a simple indoor mat can be good enough. Low-altitude campsites in California can experience this weather from July to September.
 
 ![Trabuco Canyon Climate](/assets/img/camping/trabuco_canyon_climate.svg)
 
-가족이 캠핑을 좋아할지 확신이 서지 않는다면, 따뜻한 계절에 집에 있는 다양한 침구류를 활용해 간단히 캠핑을 해보는 것도 좋은 방법입니다. 오랜만에 침구류 세탁 한다고 생각하고, 집에서 쓰던거 가져가는거죠. 단, 바닥의 울퉁불퉁함을 고려해 두툼한 침구를 사용하는 것이 좋습니다.
+If you're unsure whether your family will enjoy camping, a good way to start is to simply use the various bedding items you have at home during the warmer seasons. Think of it as an opportunity to wash your bedding, and just bring what you use at home. Just remember to bring thick bedding to account for uneven ground.
 
-## 경험자를 위한 팁
+## Tip for Experienced Campers
 
-캠핑 이미 다녀왔는데, 앞으로 여러번 갈것 같으니 좀 괜찮은거 장만해보자 하는 분들에게는 **R-Value**의 중요성을 알려드립니다. **R-Value**는 보온 효과를 정량화하는 지표로, 건물 단열재에도 적용되는 공식적인 수치입니다. **R-Value**가 4 이상인 슬리핑패드는 겨울용으로 적합합니다. 저희 가족은 **R-Value** 3.7의 슬리핑패드를 사용하여 40°F 중반의 기온에서도 나쁘지 않게 지낼 수 있었습니다.
+If you’ve camped before and think you’ll go multiple times, it's time to learn about the importance of **R-Value**. R-Value quantifies insulation and is also used for building materials. A sleeping pad with an **R-Value** of **4 or higher** is suitable for winter use. Our family used sleeping pads with an R-Value of 3.7 and stayed reasonably comfortable even in the mid-40°F range.
 
-![**R-Value**](/assets/img/camping/r-value.jpg)
+![R-Value](/assets/img/camping/r-value.jpg)
 
-아마존에서 판매하는 두툼한 슬리핑패드나 바람 넣는 퀸 사이즈 매트리스는 겉보기와 달리 **R-Value**가 없고 보온력이 없다고 보면 됩니다. 새벽에는 등이 싸늘해질 수 있으니 최저 기온이 60°F 아래일 경우에는 이러한 제품 위에 겨울 침구를 깔고 침낭을 사용하면 더 추운 날씨도 견딜 수 있습니다.
+Contrary to appearances, thick sleeping pads or inflatable queen-size mattresses sold on Amazon often lack an **R-Value** and have no insulation. Your back can get chilly in the early morning.
+> If you really want to use these when lowest temperature is below 60°F, you can endure colder weather by placing your indoor winter bedding on top of these products and using a sleeping bag.
 
-본론으로 돌아와서, 브렌드가 있는 (예를 들면 REI에서 파는) 제품중에 **R-Value** 2 이상의 슬리핑패드는 얇아 보일지라도 보온 효과가 뛰어납니다.
+Getting back to the main point, branded pads (like those sold at REI) with an **R-Value** of 2 or more have excellent insulation, even if they appear thin.
 
-## 주의사항
+## Important Note
 
-단, **R-Value**가 있는 제품은 대부분 일인용 사이즈입니다. 아이들이 자다가 슬리핑패드 밖으로 나갈까 봐 2인용을 찾는다면 선택의 폭이 매우 좁습니다. 아이들이 성장하여 일인용 슬리핑패드를 사용할 수 있을 때까지는 따뜻한 날씨에 보온력이 없는 커다란 슬리핑패드를 사용하는 것도 하나의 방법입니다.
+Most pads with proper **R-Value** come in single-person sizes. If you are looking for a double size because you worry about children rolling off the pad, your options are very limited. Until children are old enough to use single-person pads, one solution is to camp only in warm weather and use large, non-insulated sleeping pads.
 
-# 2. 텐트
+# 2. Tent
 
-먼저, 선택한 슬리핑 패드를 바닥에 펼쳤을 때 가로/세로 면적이 얼마나 차지하는지 확인해 보세요. 이 사이즈에 맞는 텐트를 고르면 됩니다. 일반적으로 6인용 텐트는 퀸 매트리스 2개를 나란히 놓았을 때 적절한 크기입니다. "지금 이거 오타 아닌가요? ~~Ohtani?~~ 퀸 매트리스에 어떻게 3명이 자요?" 하실 분도 계실 텐데, 제품 박스나 설명서에 눕는 모습을 보여주는 그림이 있는 경우가 있습니다. 이렇게 생겼죠:
+First, lay out the sleeping pads you chose and check how much floor space they take up. Choose a tent that matches that size. Generally, a **6-person tent** is the appropriate size for placing two queen mattresses side-by-side.
+
+Some of you might be wondering, "Is this a typo? How can 3 people sleep on a queen mattress?" Product boxes or manuals sometimes show a diagram of how people are positioned, like this:
 
 ![6-person tent layout](/assets/img/camping/6-person-tent-layout.jpg)
 
-단순히 4인 가족이라고 4인용 텐트를 선택했다가는 서로의 발 냄새를 맡으며 엇갈려 눕거나, 모든 짐을 차 안에 두고 자는 추억을 만들수도 있습니다.
+If you simply choose a **4-person tent** for a family of four, you might end up making memories of sleeping crisscrossed while smelling each other's feet, or having to leave all your luggage in the car.
 
-## 인스턴트 텐트
+## Instant Tents
 
-특히 캠핑이 처음이신 분들은 인스턴트 텐트에 대해 고민이 많을 수 있습니다. 저도 처음에는 인스턴트 텐트로 시작했는데, 장단점을 비교하면 끝이 없고, 여기서는 반드시 피해야 할 상황, 반드시 필요한 상황을 하나 씩 소개하겠습니다 
+Instant tents are often a big consideration, especially for first-time campers. I also started with an instant tent. The pros and cons are endless, so here I’ll only list situations *where you should avoid them* and *where you’ll definitely want them*.
 
-**텐트를 보관할 공간이 부족하다면 인스턴트 텐트는 피하는 것이 좋습니다**. 인스턴트 텐트는 접더라도 공간을 상당히 차지합니다. 매장에서 박스 크기만 보고 선택하면 안 됩니다. 사용 후에 원래 박스 크기로 다시 넣는 것은 정말 어렵거든요. 저도 처음에는 인스턴트 텐트로 시작했지만, 여러 번 캠핑을 다니면서 더 큰 더플백을 구입했습니다. 캠핑을 연간 몇 번 갈지 모르지만, 그 큰 가방을 일 년 내내 어딘가에 두는 것은 공간 낭비일 수 있습니다.
+**Avoid an instant tent if you have limited storage space for it.** Instant tents take up a considerable amount of space even when folded. Don't choose one just based on the box size at the store. It's nearly impossible to fit it back into the original box size after use.
 
-**우리끼리만 캠핑을 가고 싶은데, 나 말고는 텐트 치는 데 도움을 줄 사람이 없다면 인스턴트 텐트**를 고려하세요. 하지만 여러 사람이 함께 가면 서로 도와주다 보면 문제없습니다. 나중에 가족끼리만 가고 싶은데 혼자 해야 하는 경우에는 인스턴트 텐트가 아니라면 어려움을 겪을 수 있습니다.
+> I started with an instant tent, and after several camping trips, I bought a much larger duffel bag. If you don’t camp often, storing that giant bag all year may feel wasteful.
 
-인스턴트 텐트에 대한 결정을 하셨다면 텐트 고르는건 [outdoorgearlab.com](http://outdoorgearlab.com)의 [Best Camping Tents 페이지](https://www.outdoorgearlab.com/topics/camping-and-hiking/best-camping-tent)를 추천합니다. 가격과 함께 장단점을 비교하여 잘 정리되어 있습니다. 비 오는 날 캠핑을 가지 않는다면, 그 페이지에 있는 텐트 중 어떤 것을 선택해도 괜찮습니다.
+**Consider an instant tent if you're going camping only with your immediate family and there is no one else to help you pitch the tent.** If you camp with friends, you’ll have help, so it’s not an issue. But if you later go alone with your family and have to set it up alone, you might struggle without an instant tent.
 
-## 주의사항
+If you have decided on an instant tent, I recommend the [Best Camping Tents page](https://www.outdoorgearlab.com/topics/camping-and-hiking/best-camping-tent) on [outdoorgearlab.com](http://outdoorgearlab.com). They do a great job comparing price and features. If you don’t plan to camp in the rain, any tent on that list is fine.
 
-소개해 드린 비교사이트에 있는 텐트 중에는 다른 사이즈가 있는 모델이 있을 수 있습니다. 마음에 드는 텐트를 찾았지만 사이즈가 맞지 않다면, 혹시 다른 사이즈는 없나 검색해보세요.
+## Important Note
 
-# 3. 침낭
+Some tents on the comparison site I introduced might have other sizes available. If you find a tent you like but the size isn't right, search to see if other sizes exist.
 
-이게 좀 애매합니다. 위에서 [1. 슬리핑패드](#1-슬리핑패드)를 소개할 때 언급했던 것처럼, 날씨가 춥지 않다면(최저기온이 60°F 이상) 보온력이 그렇게 중요하지 않습니다. 캠핑이 처음이시고 앞으로 계속 다니실지 모르겠다면, 캠핑 후 집에서 사용하는 겨울철 이불이나 요를 가져가셔도 괜찮습니다.
+# 3. Sleeping Bag
 
-하지만 슬리핑패드와 달리 침낭은 캠핑 외에도 다양한 상황에서 유용합니다. 예를 들어, 아이들이 학교나 교회에서 단체로 며칠 자고 올 때나 친구 집에서 슬립오버 할 때 침낭을 가져가는 경우가 많죠. 따라서 하나는 준비해 두는 것이 좋습니다.
+This is a bit tricky. As mentioned in [Sleeping Pad](#1-sleeping-pad) above, if the weather isn't cold (lowest temperature is 60°F or higher), insulation is not that important. If you are new to camping and unsure if you'll continue, you can bring winter blankets or comforters from home.
+
+However, unlike a sleeping pad, a sleeping bag is useful in various situations besides camping. For example, children often take a sleeping bag when they stay overnight in groups at school or when they have a sleepover at a friend's house. Therefore, it's good to have one.
 
 ## Temperature Rating
-침낭을 구입할 때는 **Temperature Rating**을 확인하세요. 이 수치는 해당 온도에서 사용할 수 있다는건데, 저는 그 온도에서 죽지 않는다는 의미로 해석하고 있습니다.
+When buying a sleeping bag, check the **Temperature Rating**. I interpret it as “the temperature at which you won’t die,” not necessarily sleep comfortably.
 
 ![Sleeping Bag Temperature Rating](/assets/img/camping/sleeping-bag-temp-rating.jpg)
 
-침낭 제조사들도 제품에 그런 정보를 표시하고 있습니다. 예를 들어, 아래 사진은 **Temperature Rating**이 30도인 침낭의 내부 사진인데, 여기서 32.5°F는 Lower Limit, 41.5°F는 Comfort로 표기되어 있죠. 그 옆에는 남/여 성별로 구분을 해서 남성의 자존심을 건드리지만 저는 굴하지 않고 여성 기준보다 더 따뜻한 침낭을 사용합니다.
+Sleeping bag manufacturers also display this information on their products. For instance, the image above shows the internal tag of a sleeping bag with a **Temperature Rating** of 30°F bag: 32.5°F is the Lower Limit, and 41.5°F is the Comfort rating. Next to it, there is a distinction by gender (male/female), which might challenge a man's pride, but I don't give in and use a sleeping bag even warmer than the female standard.
 
-서양 아이들은 차가운 바닷물이나 수영장에서도 잘 놀죠. 저 어릴 때 그런 물에서 놀면 입술이 파래졌는데, 체질 차이인지 신기합니다. 아무튼, 저는 최저기온보다 20도 더 낮은 **Temperature Rating**의 침낭을 사용해야 편하게 잘 수 있더군요.
+Some people often play well in cold ocean water or swimming pools. As a kid, my lips turned blue in water like that. I sleep comfortably only when I choose a bag with a **Temperature Rating** **20 degrees lower** than the lowest expected low.
 
-생각하며 읽으신 분이라면 지금쯤 궁금하실겁니다. *"그러면 여름, 가을, 심지어 초여름 침낭이 별도로 있어야 하는가?"* 백패킹처럼 침낭을 배낭에 싸고 다닌다면 생각해볼만 합니다. 그러나 캠핑장에 차를 세우는 캠핑이라면, 가족을 데려갈 가장 추운 온도에 맞는 침낭을 사고, 따뜻한 계절에는 침낭 지퍼를 열어 이불처럼 덮고 자도 됩니다.
+If you are following along, you might be wondering, *"So, do I need separate sleeping bags for summer, fall, and even early summer?"* If you are backpacking and carrying the sleeping bag in your pack, it might be worth considering. However, for family camping, you can buy a sleeping bag suited for the coldest temperature you'll take your family out in, and simply zip it open and use it like a blanket during warmer seasons.
 
-* **결론**: 제가 그 동안 가족을 데려간 캠핑 중 가장 추운 날씨는 최저기온이 45도 정도였던 경험을 바탕으로, 침낭의 **Temperature Rating**은 20-30°F 범위 안에서 고르는 것이 적절할 것 같습니다.
-* **그래서 뭘 사나요?**: [outdoorgearlab.com](http://outdoorgearlab.com)의 [Best Sleeping Bags](https://www.outdoorgearlab.com/topics/camping-and-hiking/best-sleeping-bag) 페이지에서 Best Budget Camping Sleeping Bag을 보시고 그 기준으로 골라보세요.
+* **Conclusion**: Based on my coldest family-camping experience (around a 45°F low), a **Temperature Rating between 20–30°F** seems appropriate.
+* **So, what should I buy?**: I recommend the **Best Budget Camping Sleeping Bag** on [outdoorgearlab.com](http://outdoorgearlab.com)'s [Best Sleeping Bags](https://www.outdoorgearlab.com/topics/camping-and-hiking/best-sleeping-bag) page.
 
-# 4. 개인 준비물
-여기 소개하는 물품들은 잠깐 빌려 쓰기에는 한계가 있어 개인별로 준비해야 합니다. 취향과 상황에 따라 월마트에서부터 REI까지, 어떤 곳에서든 구입하면 됩니다.
+# 4. Personal Items
+The items introduced here are not easy to share for long duration and should be prepared by each person. You can purchase them anywhere, from Walmart to REI, depending on your preferences and situation.
 
-* **캠핑의자**:
-여러 가족이 함께 가는 경우, 아이들이 서로 잘 어울려 놀면 어른 수에 맞게 의자를 준비하면 충분합니다. 캠프사이트에는 보통 피크닉 테이블도 마련되어 있으니 활용해도 되고요. 아이들이 차분히 앉아있다거나 가족끼리 간다면 각자 하나씩 준비하는 것이 좋고요.
+* **Camping Chair**:
+    If multiple families are going together and the kids play well with each other, preparing chairs for the number of adults is usually sufficient. Campsites usually have picnic tables you can use as well. If the children are calm and sit still, or if you're only going as a family, it's best for everyone to have their own chair.
 
-* **렌턴**
-아이들은 어두워진 후에도 돌아다니며 노는 것을 좋아하므로, 손으로 들지 않아도 되는 머리띠형 렌턴이 유용합니다. 아이 수에 맞춰 렌턴을 준비하는 것이 좋으며, 어른들이 잠깐 화장실에 갈 때는 스마트폰으로 밝혀도 괜찮습니다.
+* **Lantern/Headlamp**:
+    Children love to run around and play even after dark, so a **headlamp** that doesn't need to be held is very useful. Prepare one per child. Adults can usually get by using a smartphone flashlight for short walks.
 
-* **휴대용 변기**
-캠핑장 화장실이 지저분해 사용할 수 없는 경우를 대비한 아이템입니다. [REI의 Camp Bathroom](https://www.rei.com/c/camp-toilets) 페이지를 참고하면, 봉지 안에 볼일을 보면 내용물이 가루와 섞여 젤 형태로 변하는 제품이 있습니다. 이 제품은 2겹으로 밀봉되어 쓰레기통에 버릴 수 있습니다.
-  * 단, 다른 가족과 함께 캠핑장을 이용할 경우, 소리가 들릴 수 있습니다.
+* **Portable Toilet**:
+    This is useful when campground bathrooms are too dirty. REI's [Camp Toilets](https://www.rei.com/c/camp-toilets) page has options where waste mixes with powder inside a bag and turns into a gel. The bags seal in two layers and can be thrown away.
+    * **Note**: If you are camping with other families, the sound might be audible.
 
-# 5. 공용 준비물
-이건 그룹으로 갈 때 캠핑 자주 다니는 사람이 가져오지 않을까 기대해도 될만한 준비물입니다. 혼자 간다면 스스로 챙겨야겠죠?
+# 5. Shared Items
+If you are going as a group, these are the supplies you might expect the frequent campers in the group to bring. If you’re going alone, you’ll need to bring them yourself.
 
-* **그릴/버너**:
-캠핑장에 야외 그릴이 있다면 숯을 가져가 고기를 구울 수 있습니다. 만약 그것으로 부족하다면 휴대용 그릴이나 버너를 챙기는 것이 좋습니다.
+* **Grill/Stove**:
+    If the campsite has an outdoor grill, you can bring charcoal. Otherwise, it's good to pack a portable grill or camp stove.
 
-* **쿨러**
-음식을 신선하게 유지하기 위한 쿨러는 필수입니다. 얼음이나 아이스 팩을 준비해 음료수와 신선한 재료를 보관하세요.
+* **Cooler**:
+    Essential for keeping food fresh. Bring ice or ice packs for drinks and perishables.
 
-* **조리기구**
-팬, 냄비, 조리도구, 식기 등이 필요한데 그룹으로 간다면 누가 어떤 것을 가져올지 조율해보세요.
+* **Cooking Utensils**:
+    You'll need pans, pots, cooking tools, and dishes. If going as a group, coordinate who will bring what.
 
-* **쓰레기 봉지**
-가장 자주 깜빡하고 가져가지 않는 아이템입니다! 쓰레기통이 멀리 있기 때문에 당장 버릴 쓰레기를 담을 봉지가 필요합니다.
+* **Trash Bags**:
+    The most commonly forgotten item! Trash cans are usually far away, so you’ll need bags for immediate waste.
