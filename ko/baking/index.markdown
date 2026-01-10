@@ -1,5 +1,6 @@
 ---
 title: 🍰 베이킹 🍰
+description: 홈 베이킹 입문자를 위한 기본 도구부터 America’s Test Kitchen 기반의 신뢰도 높은 레시피까지, 달콤한 빵과 디저트를 만드는 즐거움을 공유해요.
 nocomment: true
 ---
 

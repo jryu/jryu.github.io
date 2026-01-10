@@ -1,5 +1,7 @@
 ---
 title: 호두 타르트
+description: 4번의 시행착오 끝에 고급스러운 풍미를 완성
+image: "https://live.staticflickr.com/65535/52685126083_65eceb22c7.jpg"
 ---
 
 # 🍯 실패와 시행착오 끝에 찾은 호두 타르트 레시피
@@ -8,7 +10,7 @@ title: 호두 타르트
 
 달고 끈적하기만 한 평범한 피칸파이 스타일이 아닌, **복합적이고 고급스러운 맛**을 원하셨다면 꼭 한번 시도해보세요.
 
-![](https://live.staticflickr.com/65535/52685126083_65eceb22c7.jpg)
+![호두 타르트](https://live.staticflickr.com/65535/52685126083_65eceb22c7.jpg)
 
 ---
 

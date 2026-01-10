@@ -1,5 +1,6 @@
 ---
 title: America's Test Kitchen
+description: ATK의 레시피 개발 철학, 실험 기반 접근 방식, 추천 재료 및 장비 테스트, 유료 멤버십 활용 팁 등을 소개합니다.
 ---
 
 ATK 레시피로 베이킹을 배우기 시작한 것은 제 인생에서 가장 좋은 경험 중 하나였습니다. ATK는 미국에서 유명한 요리 잡지인 [Cook’s Illustrated](https://www.americastestkitchen.com/cooksillustrated)를 출판하고 있으며, 서점이나 도서관의 요리 잡지 코너에서 쉽게 찾아볼 수 있습니다.

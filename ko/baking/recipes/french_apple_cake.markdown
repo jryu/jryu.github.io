@@ -1,5 +1,7 @@
 ---
 title: 프랑스 사과 케이크
+description: ATK 레시피의 단점을 보완하여, 식감과 풍미 모두 살림
+image: "https://live.staticflickr.com/65535/54862930222_844f834291.jpg"
 ---
 
 **ATK(America’s Test Kitchen)** 레시피는 늘 신뢰하지만 이 케이크만큼은 **“왜 이렇게 만들었을까?”** 하는 의문이 남는 레시피였습니다.
@@ -8,7 +10,7 @@ title: 프랑스 사과 케이크
 
 결국 다른 레시피와 비교/분석 뒤에 조절해서 만족스러운 결과를 얻을 수 있었습니다:
 
-![](https://live.staticflickr.com/65535/54862930222_844f834291.jpg)
+![프랑스 사과 케이크](https://live.staticflickr.com/65535/54862930222_844f834291.jpg)
 
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: 사소한 변화를 준 레시피
+description: America’s Test Kitchen (ATK) 레시피를 따라서 만들다가 약간의 변화를 주게 된 레시피를 모았습니다.
 ---
 
 *America’s Test Kitchen (ATK)* 레시피를 따라서 만들다가 약간의 변화를 주게 된 레시피를 모았습니다.
