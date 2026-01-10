@@ -1,5 +1,7 @@
 ---
 title: French Apple Cake
+description: Compensated for the shortcomings of the ATK recipe, improving both texture and flavor.
+image: "https://live.staticflickr.com/65535/54862930222_844f834291.jpg"
 ---
 
 I usually trust the **ATK (America's Test Kitchen)** recipes completely, but this cake left me wondering, **"Why did they make it this way?"**
@@ -8,7 +10,7 @@ At first, I thought I had made a mistake. But even after repeating it a few more
 
 After comparing and analyzing other recipes, I adjusted a few things and finally achieved a satisfying result:
 
-![](https://live.staticflickr.com/65535/54862930222_844f834291.jpg)
+![French Apple Cake](https://live.staticflickr.com/65535/54862930222_844f834291.jpg)
 
 ---
 

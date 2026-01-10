@@ -1,5 +1,7 @@
 ---
 title: Half Dome & Clouds Rest
+description: A route that connects Yosemite’s two iconic peaks, Half Dome and Clouds Rest, over a 2-day/1-night backpacking trip.
+image: "https://live.staticflickr.com/65535/54833943999_4e23799324_c.jpg"
 ---
 
 Introducing a backpacking route that connects two of the most iconic viewpoints in Yosemite National Park — **Half Dome** and **Clouds Rest**

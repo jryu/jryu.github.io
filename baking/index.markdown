@@ -1,5 +1,6 @@
 ---
 title: 🍰 Baking 🍰
+description: Whether you’re new to home baking or looking for trustworthy recipes inspired by America’s Test Kitchen, discover the simple joy of making sweet breads and desserts right from your kitchen.
 nocomment: true
 ---
 

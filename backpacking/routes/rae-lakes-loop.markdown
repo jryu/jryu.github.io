@@ -1,5 +1,7 @@
 ---
 title: "Rae Lakes Loop"
+description: One of the most beloved trails in the Sierra Nevada, a route where you can enjoy diverse scenery, encompassing waterfalls, meadows, and alpine lakes.
+image: "https://live.staticflickr.com/65535/54833896234_8bf90c7866_z.jpg"
 ---
 
 Two years after I began hiking with the dream of completing the JMT, I finally walked a section of that journey — the **Rae Lakes Loop**.

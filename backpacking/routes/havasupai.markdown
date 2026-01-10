@@ -1,5 +1,7 @@
 ---
 title: Havasupai
+description: An exotic landscape created by red canyons and emerald-green waterfalls. A place where you can enjoy the fun of a waterpark and the thrill of hiking simultaneously.
+image: "https://live.staticflickr.com/65535/54835387416_1a086b1435_w.jpg"
 ---
 
 **💦 Green water** and **🏜️ red canyons** create an exotic contrast of colors.

@@ -1,12 +1,14 @@
 ---
 title: Sandwich Bread
+description: Refined over the years by adjusting sugar, egg, and butter ratios and adding whole wheat for better flavor and texture.
+image: "https://live.staticflickr.com/65535/54314380442_1428296d70_w.jpg"
 ---
 
 After trying various *America’s Test Kitchen (ATK)* white bread recipes, I found that **American bread couldn't compare to the fluffy loaves from Korean bakeries.** 
 
 Finally, I have refined this sandwich bread recipe over multiple years, which I can honestly say is **"Better than any sandwitch bread I've ever tasted!"**
 
-![](https://live.staticflickr.com/65535/54314380442_1428296d70_w.jpg)
+![Sandwich Bread](https://live.staticflickr.com/65535/54314380442_1428296d70_w.jpg)
 
 ---
 

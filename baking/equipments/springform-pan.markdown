@@ -1,5 +1,6 @@
 ---
 title: Springform Pan
+description: Pick up a springform pan to make elegant desserts like a French Apple Cake. It’s truly no harder than banana bread, but it will instantly elevate you past the beginner stage.
 ---
 
 A **Springform Pan** is useful for making delicate or fragile cakes because the sides can be removed without having to invert the cake.

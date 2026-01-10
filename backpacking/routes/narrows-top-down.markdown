@@ -1,5 +1,7 @@
 ---
 title: Narrows Top Down
+description: An unreal journey walking through the river that runs across Zion Canyon. A quiet privilege granted to only 12 groups per day.
+image: "https://live.staticflickr.com/65535/54835704485_4afcbae6bf_z.jpg"
 ---
 
 **The Narrows (Top-Down)** is a 16-mile journey along the canyon floor of Zion National Park — a truly unique hike where you walk *through* the river itself.  

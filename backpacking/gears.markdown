@@ -1,5 +1,6 @@
 ---
 title: Backpacking Gears
+description: A detailed guide to essential backpacking equipment and recommended items, along with a checklist that I personally use.
 ---
 
 Here are five of the heaviest items among backpacking gear.

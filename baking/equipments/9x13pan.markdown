@@ -1,5 +1,6 @@
 ---
-title: 9 X 13 Baking Pan
+title: 13 X 9 Baking Pan
+description: Just add one 13 x 9 baking pan to your essentials, and you can enjoy a variety of flavors and fun.
 ---
 
 If you add just **13 x 9-inch baking pan** to the [essential tools](./essentials), you can make more recipes.

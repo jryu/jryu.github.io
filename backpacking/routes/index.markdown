@@ -1,6 +1,7 @@
 ---
 title: Backpacking Routes
 nocomment: true
+description: Introduction to some of my favorite backpacking routes across California, Utah, Colorado, and Arizona.
 ---
 
 Here’s a collection of backpacking routes I’ve personally completed. Click on each route for detailed information and trip notes.

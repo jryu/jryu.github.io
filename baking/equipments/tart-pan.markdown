@@ -1,5 +1,6 @@
 ---
 title: Tart Pan
+description: Some tarts can be made by pressing the crust by hand - no special tools needed.
 ---
 ## Tart Pan
 

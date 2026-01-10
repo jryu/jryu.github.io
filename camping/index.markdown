@@ -1,5 +1,6 @@
 ---
 title: ⛺ Camping ⛺
+description: Camping with friends and family! From finding and reserving campsites to tips ideas for beginners.
 nocomment: true
 ---
 

@@ -1,7 +1,6 @@
 ---
-layout: default
 title: Booking Campsites
-locale: en_US
+description: Detailed guidance on how to reserve campsites in various places, including national parks, state parks, and local parks. Strategies for successful booking are revealed.
 ---
 
 The true charm of booking a campsite is that with a bit of time and effort, you can snag a premium spot for the same price as a basic one. This is especially true for national and state parks, where the best spots don't usually cost extra. Thanks to your tax dollars, these beautiful locations are available for everyone to enjoy.

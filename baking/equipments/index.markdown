@@ -1,5 +1,6 @@
 ---
 title: Baking Tools
+description: An introduction to essential tools for beginner home bakers, along with possible recipes for each tool.
 nocomment: true
 ---
 

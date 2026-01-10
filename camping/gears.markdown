@@ -1,5 +1,6 @@
 ---
 title: Camping Gears
+description: Learn about the basic gears every camper needs - tents, sleeping bags, pads, and more.
 ---
 
 Here are the essential items you need for a campsite.

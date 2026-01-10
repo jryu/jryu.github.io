@@ -1,5 +1,7 @@
 ---
 title: Zion Traverse
+description: A dramatic backpacking route that traverses Zion National Park, passing over ridges where you can see both sunrise and sunset.
+image: "https://live.staticflickr.com/65535/54843512162_c2785b9bd5.jpg"
 ---
 
 🎂 For my **40th birthday**, I went on my very first **backpacking trip**.

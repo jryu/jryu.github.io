@@ -1,5 +1,6 @@
 ---
 title: Backpacking Permit
+description: Guidance on how to reserve permits and important considerations for major backpacking areas.
 ---
 
 In the United States, **most backpacking require a permit**, and there are often limits on the number of hikers per day, so booking in advance is crucial.

@@ -1,5 +1,6 @@
 ---
 title: Home Baking Gallery
+description : A photo gallery featuring my own homemade bakes, along with brief descriptions of each creation.
 ---
 
 📸 I’ve gathered photos of my favorite and most frequently baked recipes in a 🔗 [Flickr gallery](https://flickr.com/photos/95940733@N07/albums/).

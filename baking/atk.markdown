@@ -1,5 +1,6 @@
 ---
 title: America's Test Kitchen
+description: Introducing ATK’s recipe development philosophy, experiment-based approach, recommended ingredient and equipment testing, and tips for utilizing the paid membership.
 ---
 
 Starting to learn baking through America's Test Kitchen (ATK) recipes has been one of the **best experiences of my life**. ATK publishes the famous American cooking magazine [Cook’s Illustrated](https://www.americastestkitchen.com/cooksillustrated), which you can easily find in the cookbook section of most bookstores or libraries.

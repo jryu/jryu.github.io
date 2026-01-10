@@ -1,12 +1,14 @@
 ---
 title: Big Pine Lakes
+description: Famous for its emerald-green lakes, this is the most fiercely competitive spot for permit reservations in the Inyo Wilderness.
+image: "https://live.staticflickr.com/65535/54842642085_21ace20c93_w.jpg"
 ---
 
 Famous for its **emerald-colored lakes**, **Big Pine Lakes** is one of the most sought-after destinations among the **[Inyo Wilderness permits](https://www.recreation.gov/permits/233262)**. 
 
 To visit, you’ll need to reserve the **Big Pine Creek North Fork** trailhead.
 
-![Big Pine Lakes panorama](https://live.staticflickr.com/65535/54842642085_21ace20c93_w.jpg)
+![Big Pine Lakes](https://live.staticflickr.com/65535/54842642085_21ace20c93_w.jpg)
 
 No matter how many photos you’ve seen, the colors that appear before your eyes are far more vivid and breathtaking.
 

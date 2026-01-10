@@ -1,5 +1,7 @@
 ---
 title: Four Pass Loop
+description: Colorado’s representative fall foliage route. Encountering the peak of autumn while crossing four passes over 12,000 feet.
+image: "https://live.staticflickr.com/65535/54850088627_ac8fd68f3e_z.jpg"
 ---
 
 The Four Pass Loop is one of the most highly-regarded backpacking courses in Colorado for its 🍁 **autumn foliage views**. The trail crosses **four mountain passes**, each over 12,000 feet high.

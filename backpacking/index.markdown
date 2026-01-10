@@ -1,5 +1,6 @@
 ---
 title: 🌲 Backpacking 🌲
+description: Experience the freedom of backpacking — walking through nature with everything you need on your back. Learn about essential gear, practical tips.
 nocomment: true
 ---
 

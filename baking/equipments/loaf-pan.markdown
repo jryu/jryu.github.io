@@ -1,5 +1,6 @@
 ---
 title: Loaf Pan
+description: Add a loaf pan to your basic setup, and you’ll be able to make beginner favorites like banana bread.
 ---
 
 Adding a **Loaf Pan** allows you to try a variety of recipes like banana bread and various pound cakes.

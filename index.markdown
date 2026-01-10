@@ -1,5 +1,6 @@
 ---
 nocomment: true
+description: I’ve compiled practical information and tips based on hands-on experiences such as backpacking, camping, and baking.
 ---
 
 Click on a topic below to explore each section in detail.

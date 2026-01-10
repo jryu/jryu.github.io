@@ -1,12 +1,14 @@
 ---
 title: Almond Tuiles
+description: The recipe is simple, but the crispiness lies in the details.
+image: "https://live.staticflickr.com/65535/47997548218_f322589f40_w.jpg"
 ---
 
 I thought finding a recipe for tuiles would be easy, as they seem simple in ingredients and preparation. Surprisingly, expert sources I trust, such as **ATK and NYT**, don't seem to cover them.
 
 Since it’s one of my favorite treats, I **collected and tested 13 recipes**, compared them, and refined them to the most satisfying ratio.
 
-![Tuile Image](https://live.staticflickr.com/65535/47997548218_f322589f40_w.jpg)
+![Almond Tuiles](https://live.staticflickr.com/65535/47997548218_f322589f40_w.jpg)
 
 ---
 

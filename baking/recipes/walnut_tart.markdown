@@ -1,5 +1,7 @@
 ---
 title: Walnut Tart
+description: Perfected after four rounds of trial and error — a rich, sophisticated flavor.
+image: "https://live.staticflickr.com/65535/52685126083_65eceb22c7.jpg"
 ---
 
 # The Recipe Perfected Through Trial and Error

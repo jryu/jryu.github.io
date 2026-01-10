@@ -1,5 +1,6 @@
 ---
 title: Essential Tools
+description: Introducing the 7 must-have tools and some simple, delicious recipes you can make using only these essentials.
 ---
 
 Introducing the 7 basic tools you absolutely need for baking.
