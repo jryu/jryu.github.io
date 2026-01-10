@@ -1,5 +1,7 @@
 ---
 title: Narrows Top Down
+description: 자이언 협곡을 가로지르는 강물 속을 걷는 비현실적인 여정. 단 12팀에게만 허락된 고요한 특권.
+image: "https://live.staticflickr.com/65535/54835704485_4afcbae6bf_z.jpg"
 ---
 
 자이언 국립공원의 협곡 바닥을 따라 16마일 이상 이어지는 이 코스는, 물살을 가르며 걷는 독특한 하이킹 경험을 선사합니다.  

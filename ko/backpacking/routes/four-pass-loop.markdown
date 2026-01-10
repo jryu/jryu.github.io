@@ -1,5 +1,7 @@
 ---
 title: Four Pass Loop
+description: 콜로라도 백패킹의 대표 단풍 코스. 12,000피트가 넘는 고개 네 곳을 넘으며 가을의 절정을 만나다.
+image: "https://live.staticflickr.com/65535/54850088627_ac8fd68f3e_z.jpg"
 ---
 
 콜로라도 백패킹 코스 중 단풍 경관으로 가장 손꼽히는 Four Pass Loop. 12,000피트가 넘는 고개 4개를 지납니다.

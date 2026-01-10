@@ -1,5 +1,6 @@
 ---
 title: 다녀온 백패킹 코스
+description: 제가 다녀온 캘리포니아, 유타, 콜로라도, 아리조나의 주요 코스를 소개합니다.
 nocomment: true
 
 ---
