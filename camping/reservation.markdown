@@ -1,125 +1,137 @@
 ---
 layout: default
-title: 캠핑장 예약하기
-locale: ko_KR
+title: Booking Campsites
+locale: en_US
 ---
 
-캠핑장 예약의 매력은 시간과 정성을 들이면 같은 비용으로도 더 좋은 자리에서 시간을 보낼 수 있다는 점입니다. 특히 국립공원이나 주립공원은 자리가 좋아도 가격 차이가 별로 크지 않습니다. 여러분의 세금 덕분에 좋은 사람들과 함께 바다 경치를 즐기며 보낸 소중한 순간의 사진을 공유합니다.
+The true charm of booking a campsite is that with a bit of time and effort, you can snag a premium spot for the same price as a basic one. This is especially true for national and state parks, where the best spots don't usually cost extra. Thanks to your tax dollars, these beautiful locations are available for everyone to enjoy.
 
 ![Crystal Cove Moro Campground](/assets/img/camping/crystal_cove_moro.jpg)
 
-캠핑장 예약은 미리 계획하는 것이 성공의 절반입니다. 일반적으로 6개월 전에 예약이 가능하니, 크리스마스나 연말 연휴 시즌에는 여름방학 초반의 캠핑장 예약을 하고, 여름방학 후반부의 예약은 2월 중에 완료해야 합니다. *“아, 날씨가 좋아지니 캠핑장 예약을 해볼까?”*라고 생각할 때쯤이면 이미 늦습니다.
+When it comes to reservations, planning ahead is 90% of the battle. In general, reservations open six months in advance.
 
-1. [국립공원](#1-국립공원)
-1. [주립공원](#2-주립공원)
-1. [동내공원](#3-동내공원)
-1. [민간 캠핑장](#4-민간-캠핑장)
+* **During Christmas or New Year's**, you should be booking for the start of summer break.
+* **By February**, your late summer trips should already be booked.
 
-달력에 표시해두고 알람을 맞추며 칼을 갈고 준비해야만 남들도 가고 싶어하는 캠핑장을 예약 할 수 있습니다. 그러나 정확히 몇 날 몇 시에 페이지를 새로고침해야 하는지는 예약 사이트마다 조금씩 다르니, 제가 사는 지역을 기준으로 예를 들어보겠습니다.
+> **_NOTE:_** If you wait until the weather gets nice to start looking, you've already missed the boat!
 
-# 1. 국립공원
+1. [National Parks](#1-national-parks)
+1. [State Parks](#2-state-parks)
+1. [Local Parks](#3-local-parks)
+1. [Private Campgrounds](#4-private-campgrounds)
 
-국립공원 캠핑장은 [recreation.gov](http://recreation.gov)에서 예약합니다. 여기서 중요한 것은 여러 국립공원이 한 사이트를 공유하지만, 각 공원마다 운영 방침이 달라서 예약이 풀리는 시점을 알려면 개별 캠핑장 페이지를 살펴봐야 합니다. 다행인건, 이 정보를 찾는 방법이 동일하기 때문에 한번 익히면, 다른 캠핑장에서도 쉽게 정보를 찾아낼 수 있습니다.
+To reserve a campground that everyone wants to visit, you need to mark your calendar, set alarms. However, the exact date and time you need to refresh the page varies by reservation site, so I’ll explain using examples based on where I live.
 
-## 예약 일정
+# 1. National Parks
 
-**Seasons & Fees** 탭을 선택하고나면 가장 먼저 **Booking Windows** 정보가 나오는데, 그게 예약 일정입니다.
+Reservations are handled via [recreation.gov](http://recreation.gov). While the site is shared, every park has different rules.
 
-아래 사진은 조슈아트리의 [Jumbo Rocks Campground](https://www.recreation.gov/camping/campgrounds/272300)인데요, 6개월 전에 하루씩 풀린다고 나와 있습니다.
+## How to Find the "Booking Window"
+
+Go to the **Seasons & Fees** tab on any campground page. The first thing you’ll see is **Booking Windows**, which tells you the reservation schedule.
+
+The image below shows Joshua Tree’s [Jumbo Rocks Campground](https://www.recreation.gov/camping/campgrounds/272300), where reservations open one day at a time, six months in advance.
 
 ![Joshua Tree Booking Window](/assets/img/camping/booking_window_joshua_tree.jpg)
 
-세콰이어의 [Lodgepole Campground](https://www.recreation.gov/camping/campgrounds/232461)는 독특하게 4개월 전에 예약이 풀립니다.
+Sequoia’s [Lodgepole Campground](https://www.recreation.gov/camping/campgrounds/232461) is unique in that reservations open 4 months in advance.
 
 ![Sequoia Booking Window](/assets/img/camping/booking_window_sequoia.jpg)
 
-요세미티의 [Upper Pines Campground](https://www.recreation.gov/camping/campgrounds/232447)는 매달 15일에 한달치가 한꺼번에 풀리고요.
+Yosemite’s [Upper Pines Campground](https://www.recreation.gov/camping/campgrounds/232447) releases an entire month of availability all at once on the 15th of each month.
 
 ![Yosemite Booking Window](/assets/img/camping/booking_window_yosemite.jpg)
 
-자, 그럼 7월 19일에 체크인하고 싶으면 아래와 같은 날짜에 오전 7시 알람 맞춰놓으면 되는거죠?
-* 죠슈아트리: 1월 19일 (6개월 전)
-* 세콰이어: 3월 19일 (4개월 전)
-* 요세미티: 3월 15일 (4개월 전 15일)
+So, if you want to check in on July 19, you’d set a 7 a.m. alarm on the following dates:
+* Joshua Tree: January 19 (6 months prior)
+* Sequoia: March 19 (4 months prior)
+* Yosemite: March 15 (15th of the month, 4 months prior)
 
-## 뛰는 놈 위에 나는 놈
+## There’s Always Someone One Step Ahead
 
-이날 예약이 풀리는 것은 맞지만, 현실은 그렇게 간단하지 않습니다. 대부분의 자리는 이미 **며칠 전에 체크인하도록 예약한 사람들이 여러 날 머물도록 예약해 놓았기 때문에** 원하는 날짜에 예약이 풀리지 않을 가능성이 큽니다. 예를 들어, 3일 전에 예약한 사람이 7박을 예약했다면, 내가 체크인하고 싶은 날짜를 이미 차지해 버린 것입니다. *"뛰는 놈 위에 나는 놈"*이라는 말이 바로 이런 경우에 해당합니다. 이렇게 순진하게 준비하면 *뛰는 놈*이 되는 것입니다.
+While reservations technically open on these dates, reality isn’t that simple. Most campsites are already taken because **people who booked earlier have reserved multiple consecutive nights**, which blocks out your desired check-in date. For example, if someone booked a 7-night stay starting three days earlier, they’ve already occupied the date you want. This is a classic case of “there’s always someone one step ahead.”
 
-*나는 놈*은 독합니다. 예약을 시도할 때는 체크인 날짜가 아닌 체크아웃 날짜를 기준으로 가장 빨리 예약할 수 있는 날부터 시작해야 합니다. 예를 들어,
-* 원는 일정이 **7월 19일에 체크인 - 7월 21일에 체크아웃** 인데,
-* 캠핑장에서 **최대 7박까지 하용**한다면 아래와 같은 단계로 예약을 진행합니다.
+If you prepare naively, you’ll be the one getting outplayed.
 
-1. 7월 **14일** 체크인 - 7월 21일 체크아웃으로 예약합니다.
-2. 5일을 기다립니다.
-  * (그 전까지는 19일 체크인으로 예약 변경이 안 됩니다.)
-3. 예약을 변경하여 7월 **19일** 체크인 - 7월 21일 체크아웃으로 조정합니다.
+The *smart* ones are ruthless. When attempting a reservation, you should base your strategy on the **checkout date**, not the check-in date. Start with the earliest possible check-in date that still allows your desired checkout date. For example:
+* Your desired stay is **July 19 check-in** & **July 21 check-out**
+* The campground allows a **maximum stay of 7 nights**
 
-그러면 머무는 기간이 줄어드는 만큼 환불 해줍니다. 이때 예약 변경 수수료가 발생할 수도 있지만, 그래봤자 복권 긁고 커피 사먹는 정도의 비용입니다. 
+You would proceed as follows:
 
-재미있는 점은, 캠핑장마다 최대 며칠까지 예약할 수 있는 기간이 다르다는 것입니다. 그러나 이 정보는 어디에도 명시되어 있지 않아서 직접 예약해 보아야 알 수 있습니다. 체크인 날짜를 먼저 선택해야만 체크아웃 날짜를 며칠까지 선택할 수 있는지 확인할 수 있으니, 원하는 캠핑장의 비어있는 자리를 클릭해서 며칠까지 되는지 미리 탐색해 보세요.
+1. Book **July 14** check-in & July 21 check-out.
+2. Wait 5 days.
+   * *Until then, you cannot modify the reservation to a July 19 check-in.*
+3. Modify the reservation to **July 19** check-in & July 21 check-out.
 
-## 하나를 들으면 열을 안다
+You’ll be refunded for the shortened stay. There may be a reservation modification fee, but it’s usually no more than the cost of scratching a lottery ticket and buying a coffee.
 
-총명하신 분은 이미 깨달으셨을 텐데, 놓치신 분들을 위해 하나 짚어드립니다. 위의 예제에서 7월 14일 체크인으로 예약했다가 나중에 7월 19일 체크인으로 바꾼다고 했습니다. 그런데, 만일 7월 14일 체크인 예약을 실패했다면 어떻게 하면 되죠? 네, 그렇습니다! 7월 19일 체크인 예약이 열릴 때 까지 매일 아침 새로운 기회가 있는거죠!
+An interesting detail is that the maximum length of stay varies by campground. Unfortunately, this information isn’t clearly stated anywhere—you have to try booking to find out. Since you must select a check-in date before seeing how far out you can choose a check-out date, click on available sites in advance and experiment to understand the limits.
 
-* 7/**14** 체크인 - 7/21 체크아웃
-* 7/**15** 체크인 - 7/21 체크아웃
-* 7/**16** 체크인 - 7/21 체크아웃
-* 7/**17** 체크인 - 7/21 체크아웃
-* 7/**18** 체크인 - 7/21 체크아웃
-* 7/**19** 체크인 - 7/21 체크아웃
+## There are multiple opportunities!
 
-저는 이렇게 며칠에 걸쳐서 COVID-19으로 방 안에 격리중이던 겨울에 캘리포니아에서 예약하기 힘들기로 유명한 Pfeiffer Big Sur 캠핑장에서 3 자리를 붙여서 예약했습니다. 그 중에 2 자리는 강가 자리였구요.
+The sharp readers have probably already realized this, but for those who haven’t, here’s an important point. In the example above, we booked July 14 and later changed it to July 19. But what if the July 14 reservation failed? What then?
 
-# 2. 주립공원
+Exactly! You get a new chance every morning until July 19 opens.
 
-국립공원과 마찬가지로 주립공원도 자연 환경을 보존할 가치가 있는 장소에 위치한 캠핑장이기에 인기가 많습니다. 특히 캘리포니아의 주립공원은 국립공원에 비해 바닷가 캠핑장이 많아 매력적입니다.
+* 7/**14** check-in – 7/21 check-out
+* 7/**15** check-in – 7/21 check-out
+* 7/**16** check-in – 7/21 check-out
+* 7/**17** check-in – 7/21 check-out
+* 7/**18** check-in – 7/21 check-out
+* 7/**19** check-in – 7/21 check-out
+
+Using this method over several days, I managed to reserve three adjacent sites at Pfeiffer Big Sur—famously difficult to book—during a winter when I was quarantined indoors due to COVID-19. Two of those sites were right by the river.
+
+# 2. State Parks
+
+Like national parks, state park campgrounds are popular because they are located in areas worth preserving. California state parks, in particular, are especially attractive because they have many more coastal campgrounds than national parks.
 
 ![Crystal Cove Sunset](/assets/img/camping/crystal_cove_sunset.jpg)
 
-캘리포니아 주립공원 캠핑장의 위치를 보여주는 지도를 보시죠.
+Here’s a map showing the locations of California state park campgrounds.
 
 ![State Park Campground Map](/assets/img/camping/state_park_campground_map.jpg)
 
-바닷가를 따라서 여러 개의 캠핑장이 쪼로록 있죠? 바닷가 캠핑의 장점이라면:
-* 아이들이 바닷가에서 노는 걸 좋아하면 캠핑과 물놀이, 모래놀이를 겸할 수 있습니다.
-* 주립공원에는 대부분 토큰을 넣는 **온수 샤워**가 있어서 좋습니다.
-* 바닷가는 일교차가 적어서 낮에 덜 덥고 밤에 덜 춥습니다.
-  * 따라서 추운 날씨에 대비할 준비물이 줄어들어 **초보 캠핑**에 적합합니다. 자세한 내용은 [캠핑 준비물](/camping/gears) 페이지를 참고하세요.
+See how many campgrounds line the coast? The advantages of coastal camping include:
+* **Great for Kids**: Perfect for combining camping with swimming and sand play.
+* Most state parks have **token-operated hot showers**.
+* **Mild Weather**: smaller temperature swings, making days cooler and nights warmer.
+  * This reduces the amount of cold-weather gear you need, making them ideal for **beginner campers**. For more details, see the [Camping Gear](/camping/gears) page.
 
-> **_주의사항:_**
-LA와 센디에고 사이에 있는 바닷가 캠핑장중에 기차길 바로 옆에 있는 캠핑장이 많습니다. 한밤중에도 기차가 다니니 지도를 잘 보고 선택하세요.
+> ⚠️ **A Word of Warning**: Many coastal camps between LA and San Diego are right next to active train tracks. Check the map carefully before choosing a site.
 
-## 예약 일정
+## Reservation Schedule
 
-예약은 [reservecalifornia.com](http://reservecalifornia.com)에서 합니다. 그런데, 국립공원처럼 며칠 전부터 예약 가능한지 똑부러지게 정리되어 있지는 않아요. 정확히 확인하고 싶다면 공원 홈페이지를 검색해야 겠지만, 그 동안 제가 예약한 곳은 전부 6개월 전부터 예약이 가능했습니다.
+Reservations are made through [reservecalifornia.com](http://reservecalifornia.com). Unlike national parks, the reservation rules aren’t neatly summarized. To be precise, you’d need to check each park’s website, but every campground I’ve booked so far has opened reservations 6 months in advance.
 
-## 꼼수
+## A Handy Trick
 
-제가 [국립공원](#1-국립공원)에서 소개했던 꼼수, 체크아웃 날짜를 기준으로 더 일찍 체크인 하도록 예약했다가 나중에 체크인 날짜를 바꾸는 전략이 주립공원에서도 통합니다. 한 번 체크인할 때 최대 7일까지 머물 수 있으니 계획에 참고하세요.
+The same trick described in the [National Parks](#1-national-parks) section—booking earlier based on the checkout date and later modifying the check-in date—also works for state parks. Since the maximum stay per check-in is 7 nights, keep this in mind when planning.
 
-> **_TIP:_**
-예약할 때 자동차 대수를 물어보고, 번호판도 입력하라고 합니다. 저는 자동차를 가져가지 않는다고 했고 번호판 정보를 입력하지 않았지만 그동안 문제된 적이 없었습니다.
+> **_TIP:_**  During reservations, you’ll be asked how many vehicles you’re bringing and to enter license plate numbers. I’ve always indicated that I wasn’t bringing a car and left the license plate blank, and I’ve never had any issues.
 
-# 3. 동내공원
+# 3. Local Parks
 
-금요일 저녁에 퇴근하고 좋은 사람들과 고기 구워먹고 애들 놀리다가 텐트에서 재우고 어른들끼리 밤 늦게까지 이야기 하며 놀고 올거면 굳이 산 좋고 물 좋은 캠핑장 찾아갈 필요가 없죠.
+If you just want a quick getaway on a Friday night to grill meat and sit by the fire with friends, there’s no real need to travel far to a scenic campground.
 
-예를 들어서 제가 살고 있는 **Orange County**에서는 여러 개의 캠핑장을 운영하고 있습니다. 예약은 [https://oc.usedirect.com/orangecountysaturn/](https://oc.usedirect.com/orangecountysaturn/)에서 가능하며, 비용도 저렴하고 취소 시 수수료가 발생하지 않아요. 워낙 저렴해서, 가끔 놀러 가서 주차비만 내고 캠프파이어만 즐기고 돌아오기도 합니다.
+For example, **Orange County**, where I live, operates several campgrounds. Reservations can be made at  
+[https://www.ocparks.com/reservations-permits/make-reservation](https://www.ocparks.com/reservations-permits/make-reservation)
 
-물론, 성수기 주말에 2-3자리를 붙여 예약하려면 미리 예약해야 하지만, 몇 시에 예약이 풀리는지 알람 맞춰 가며 준비할 필요는 없습니다.
+They’re inexpensive, and there are no cancellation fees. Because they’re so affordable, I sometimes stop by just to pay for parking, enjoy a campfire, and head home.
 
-# 4. 민간 캠핑장
+Of course, if you want to reserve two or three adjacent sites on a peak-season weekend, you’ll still need to book in advance. But there’s no need to set alarms or obsess over the exact release time.
 
-지금까지 소개한 캠핑장은 정부에서 운영하는 캠핑장이었고요, 영리를 목적으로 하는 민간 캠핑장도 있습니다.
+# 4. Private Campgrounds
 
-미국의 **KOA** (Kampgrounds of America®)는 전국적으로 체인점을 운영하며, [koa.com](http://koa.com)에서 예약할 수 있습니다. 이곳은 수영장과 다양한 놀이시설이 있어, 캠핑장 안에서 시간을 보내고 싶다면 좋은 선택이 될 것입니다.
+If you want more amenities or "Glamping" options, private sites are the way to go.
 
-또한, 지역별로 소규모로 운영되는 캠핑장도 많습니다. 그 중에는 이미 설치된  이미 설치된 Yurt가 있어, 침낭만 가져가면 간단한 침대에서 잘 수 있는 곳도 있습니다. 글램핑이라고도 하죠.
+**KOA** (Kampgrounds of America®) operates campgrounds nationwide, and reservations can be made at [koa.com](http://koa.com). These locations often have swimming pools and various recreational facilities, making them a great option if you want to spend most of your time within the campground.
+
+There are also many smaller, locally operated campgrounds. Some even offer pre-installed yurts, where you can sleep on a proper bed with just a sleeping bag—often referred to as glamping.
 
 ![Yurt](/assets/img/camping/yurt.jpg)
 
-한 번 브라이스캐년을 방문했을 때, 공원 내 캠핑장을 예약하기에는 늦었고, 숙박비를 아끼기 위해 공원 입구 근처의 민간 캠핑장을 이용한 적이 있습니다. 브라이스캐년은 제가 가본 국립공원 중에서 입구로부터 인기 관광지까지의 거리가 가장 가까운 곳이었는데, 공원 밖에서 묵어도 공원에 쉽게 드나들 수 있어, 샤워 시설이 편리하고 음식점 선택이 다양한 공원 밖 캠핑장이 더 좋은게 아닌가 싶기도 했습니다.
+When I visited Bryce Canyon, it was too late to reserve a campsite inside the park, and to save on lodging costs, I stayed at a private campground near the park entrance. Bryce Canyon has the shortest distance from entrance to major attractions among all the national parks I’ve visited, so staying outside the park made it easy to go in and out. With better shower facilities and more dining options, I even wondered whether camping outside the park was actually the better choice.
 
-민간 캠핑장은 선택의 폭이 매우 넓고 다양해서 어떤 점에 초점을 맞춰야 할지 고민이 되네요. 중요한 것은, 영리를 목적으로 운영되기 때문에 **수요와 공급에 따라 가격이 조정**되어 있기에 특별히 인기 있는 곳이 아니라면 예약을 위해 **알람까지 맞춰가며 준비할 필요는 없다**는 점입니다. 그러니 설명은 여기서 마쳐도 되겠죠?
+Private campgrounds offer an extremely wide range of options, making it hard to know what to prioritize. The key point is that because they operate for profit, **prices adjust according to supply and demand**. Unless a campground is exceptionally popular, there’s usually **no need to set alarms and fight for reservations**.
