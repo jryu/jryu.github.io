@@ -4,7 +4,7 @@ description: 에메랄드빛 호수로 유명한, Inyo Wilderness에서 퍼밋 �
 image: "https://live.staticflickr.com/65535/54842642085_21ace20c93_w.jpg"
 ---
 
-**에메랄드빛 호수**로 유명한 Big Pine Lakes는 **[Inyo Wilderness 퍼밋](https://www.recreation.gov/permits/233262)** 중에서 예약 경쟁이 가장 치열합니다. 이곳에 가려면 **Big Pine Creek North Fork**를 예약해야 합니다.
+**에메랄드빛 호수**로 유명한 **Big Pine Lakes**는 **[Inyo Wilderness 퍼밋](https://www.recreation.gov/permits/233262)** 중에서 예약 경쟁이 가장 치열합니다. 이곳에 가려면 **Big Pine Creek North Fork**를 예약해야 합니다.
 
 ![Big Pine Lakes 전경](https://live.staticflickr.com/65535/54842642085_21ace20c93_w.jpg)
 
@@ -40,7 +40,7 @@ image: "https://live.staticflickr.com/65535/54842642085_21ace20c93_w.jpg"
 
 - **Sixth Lake**는 왕복 2마일에 오르막길도 있는데, 크게 감흥이 없었습니다. **Fifth Lake까지만 보고 내려와도 충분**할 것 같아요.
 
-- 다녀와서 보니, 자주 보이는 엽서 같은 전경은 대부분 **Second Lake에서 살짝 벗어난 길목**에서 찍은 사진이더군요. 호수 뒤의 산, Temple Crag를 정면으로 담을 수 있는 최고의 포토존인데, 그냥 지나친 게 아쉽습니다.
+- 다녀와서 보니, 자주 보이는 엽서 같은 전경은 대부분 **Second Lake에서 살짝 벗어난 길목**에서 찍은 사진이더군요. 호수 뒤의 산, **Temple Crag**를 정면으로 담을 수 있는 최고의 포토존인데, 그냥 지나친 게 아쉽습니다.
 
 - **Black Lake**는 빙하수가 아니라 그런지 비교적 평범했어요. Fifth Lake까지 보고 최단 경로로 하산하려면 Black Lake를 경유하는 게 맞지만, **시간과 체력이 된다면 올라왔던 길로 다시 내려오는 쪽이 경치는 더 좋을 것** 같습니다.
 
