@@ -1,10 +1,10 @@
 ---
 title: Rae Lakes Loop
-description: "존뮤어트레일의 일부를 품은 Rae Lakes Loop 트레킹 후기. 해발 3,642미터 글렌 패스의 압도적인 풍경과 360도 VR 사진으로 담은 시에라 네바다의 절경을 확인해 보세요. 퍼밋 예약 방법과 코스 팁 포함."
+description: "John Muir Trail (존뮤어트레일)의 일부를 품은 Rae Lakes Loop 트레킹 후기. 해발 3,642미터 Glen Pass의 압도적인 풍경과 360도 VR 사진으로 담은 시에라 네바다의 절경을 확인해 보세요. 퍼밋 예약 방법과 코스 팁 포함."
 image: "https://live.staticflickr.com/65535/54833896234_8bf90c7866_z.jpg"
 ---
 
-JMT 완주를 꿈꾸며 이런저런 산행을 시작한 지 2년 만에, 그 여정의 일부를 품고 있는 Rae Lakes Loop를 걷게 되었습니다.
+John Muir Trail (존뮤어트레일, 이후 JMT) 완주를 꿈꾸며 이런저런 산행을 시작한 지 2년 만에, 그 여정의 일부를 품고 있는 Rae Lakes Loop를 걷게 되었습니다.
 
 ![Rae Lake](https://live.staticflickr.com/65535/54833896234_8bf90c7866_z.jpg)
 

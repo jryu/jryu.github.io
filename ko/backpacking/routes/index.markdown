@@ -35,6 +35,18 @@ nocomment: true
 
 ---
 
+### 🔗 [**Kearsarge Pass & Lakes** →](kearsarge-pass)
+
+[![](https://live.staticflickr.com/65535/55036745165_ceef3fcf59_n.jpg)](./kearsarge-pass)
+
+시에라 네바다의 정수를 보여주는 고개와 호수 코스. JMT와 휘트니로 이어지는 관문.
+
+* **↔️ 거리:** 15.4 mi
+* **📈 누적 상승고도:** 3,953 ft
+* **🔼 최고 고도:** 11,710 ft
+
+---
+
 ### 🔗 [**Big Pine Lakes** →](./big-pine-lakes)
 
 [![Big Pine Lakes 전경](https://live.staticflickr.com/65535/54842642085_21ace20c93_n.jpg)](./big-pine-lakes)
