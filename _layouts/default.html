@@ -34,6 +34,14 @@
   <link rel="apple-touch-icon" sizes="180x180" href="/assets/favicon/apple-touch-icon.png" />
   <meta name="apple-mobile-web-app-title" content="MyWebSite" />
   <link rel="manifest" href="/assets/favicon/site.webmanifest" />
+
+  {% if page.lang == "ko" %}
+  <link rel="alternate" hreflang="ko" href="{{ site.url }}{{ page.url }}" />
+  <link rel="alternate" hreflang="en" href="{{ site.url }}{{ page.url | remove_first:'/ko' }}" />
+  {% elsif page.lang == "en" %}
+  <link rel="alternate" hreflang="en" href="{{ site.url }}{{ page.url }}" />
+  <link rel="alternate" hreflang="ko" href="{{ site.url }}/ko{{ page.url }}" />
+  {% endif %}
 </head>
 
 <body>
