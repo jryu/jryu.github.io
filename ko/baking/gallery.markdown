@@ -25,32 +25,32 @@ description: 직접 만든 베이킹 메뉴 사진과 간단한 설명을 정리
 
 레시피 이름 뒤에 ✨ 표시가 된 레시피는 ATK 레시피가 아니거나, 제가 변형한 레시피입니다. 하나씩 소개해 드려요:
 
-### 🔗 [**호두 타르트** →](./recipes/walnut_tart)
+### 🔗 [**호두 타르트** →](../recipes/walnut_tart)
 > 4번의 시행착오 끝에 고급스러운 풍미를 완성  
 
-[![** →](https://live.staticflickr.com/65535/52685126083_65eceb22c7_n.jpg)](./recipes/walnut_tart)
+[![** →](https://live.staticflickr.com/65535/52685126083_65eceb22c7_n.jpg)](../recipes/walnut_tart)
 
 ---
 
-### 🔗 [**식빵** →](./recipes/sandwich_bread)
+### 🔗 [**식빵** →](../recipes/sandwich_bread)
 > 수년간 설탕, 계란, 버터 비율을 조정하고 통밀을 추가해 맛과 식감을 극대화  
 
-[![** →](https://live.staticflickr.com/65535/50056927126_26925b35a0_n.jpg)](./recipes/sandwich_bread)
+[![** →](https://live.staticflickr.com/65535/50056927126_26925b35a0_n.jpg)](../recipes/sandwich_bread)
 
 ---
 
-### 🔗 [**아몬드 튀일** →](./recipes/almond_tulies)
+### 🔗 [**아몬드 튀일** →](../recipes/almond_tulies)
 > 레시피는 단순하지만, 바삭함은 디테일에서  
 
-[![** →](https://live.staticflickr.com/65535/54315326476_3a86eee553_n.jpg)](./recipes/almond_tulies)
+[![** →](https://live.staticflickr.com/65535/54315326476_3a86eee553_n.jpg)](../recipes/almond_tulies)
 
 ---
 
-### 🔗 [**프랑스 사과 케이크** →](./recipes/french_apple_cake)
+### 🔗 [**프랑스 사과 케이크** →](../recipes/french_apple_cake)
 > ATK 레시피의 단점을 보완하여, 식감과 풍미 모두 살림   
 
-[![** →](https://live.staticflickr.com/65535/53808856734_0f2080fe45_n.jpg)](./recipes/french_apple_cake)
+[![** →](https://live.staticflickr.com/65535/53808856734_0f2080fe45_n.jpg)](../recipes/french_apple_cake)
 
 ---
 
-➕ 그 외에도 [**사소한 변화를 준 레시피**](./recipes/small_adjustments)가 몇 개 더 있는데, 별도의 페이지에 정리했습니다.
+➕ 그 외에도 [**사소한 변화를 준 레시피**](../recipes/small_adjustments)가 몇 개 더 있는데, 별도의 페이지에 정리했습니다.
